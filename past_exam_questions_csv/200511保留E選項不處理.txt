@@ -1,0 +1,101 @@
+Question,Answer1,Answer2,Answer3,Answer4,Correct Answer(s)
+"1.行政院衛生署推動「國家健康網路建設計劃」至今，使國內醫療院所都為跨醫院電子病歷作業發展努力，也體認到醫療資訊標準的重要性。目前推動的醫療資訊標準為:","IHE ","DICOM "," HL7 ","以上皆是。",Ans4
+"2.目前最通行的網際網路是在什麼網路架構下：","IBM SNA ","Novell LAN ","TCP/IP ","以上皆是。",Ans3
+"3. HL7 (Health Level 7) 醫療資訊標準著重於 OSI(Open Systems Interconnection )reference model 的哪一層為主?"," Data Link "," Application "," Network "," Presentation",Ans2
+"4.醫院資訊系統中的病歷管理系統功能，不包括下列何者?","疾病分類登記 ","病歷查詢 ","資材供應 ","病歷歸檔作業",Ans3
+"5.下列哪些屬實施 PACS 系統後所能改善之醫院管理項目:"," 病患等候檢查之時間 ","等候洗片的時間 ","X 片袋儲存空間 ","以上皆是",Ans4
+"6.醫院如欲建置影像傳輸系統(PACS)須考量與何系統之整合：","醫療品質管理系統 ","電子資料交換系統(EDI) ","醫療資訊系統(HIS)","高階主管資訊系統(EIS)",Ans3
+"7.目前世界上最完整的醫學詞彙標準是"," HL7 "," ICD-10 "," MeSH "," SNOMED。",Ans4
+"8.檢傷分類分級中，需要最優先處理的是:"," 一 "," 二 "," 三 "," 四 級",Ans1
+"9.病人在住院後，依照建議治療病人，然後由醫護人員對照實際的治療程序與差異，直到病人出院的是:","臨床準則 ","疾病分類 ","DRGs ","臨床路徑",Ans4
+"10.目前國內醫院所使用之資訊系統多為何種架構：","階層式(hierarchical) ","網狀式(network) ","關聯式(relational) ","檔案(file)",Ans3
+"11.下列對於健保給付制度優缺點比較何者有誤：","論量計酬對於醫師的醫療行為自主權較高，但易間接鼓勵助長醫療費用上漲","論病例計酬可以適用所有疾病項目","論人計酬會使醫院對醫療成本降低，但是會減少醫院對 病人的醫療項目影響醫療品質","總額給付，可減低中央健保局財務負擔，但會造成醫院營收減少，可能產生人球事件",Ans2
+"12.下列何者醫療設備及相關系統與 PACS 無直接關係："," LIS "," CT "," MRI "," CR/DR",Ans1
+"13.下列網路架構何者速度最快：","乙太網路(Ethernet) ","非同步傳輸模式(ATM)","超高速乙太網路(Gigabit Ethernet) ","記號環(Token Ring)",Ans3
+"14.下列對於資料庫之述說何者有誤：","可以減少資料的重複性 ","加強資料的一致性","提供程式設計之便利 ","設計維護成本低",Ans4
+"15.在網路中負責收信工作的協定是？"," FTP "," SMTP "," POP "," SNMP。",Ans3
+"16.資訊安全主要目的是保護系統資源和資料的特性不受侵害，以下哪個特性並不在所要保護的範疇內？","機密性 ","完整性 ","可取用性 ","即時性。",Ans4
+"17.「電子簽章法案」是規範電子簽章的相關作業，確立電子簽章的法律效力，做為電子商務與電子資料交換的作業基準；下列那個原則不是此法建立的基礎？"," 技術中立 ","資料完整 ","契約自由","市場導向。",Ans2
+"18. 不同廠牌的兩部醫學影像儀器之間的傳輸，應該遵循哪一項標準？"," HL7 "," LOINC "," DICOM "," UMLS",Ans3
+"19.數位信封加密時需要使用何種加密方法？","對稱式 ","非對稱式 ","混合式 ","以上皆非。",Ans3
+"20.醫事人員憑證 HCA(Healthcare Certification Authority)主要目的為以下何者？","規劃架構符合先進國家 Healthcare PKI 之發展趨勢 ","遵循政府 GPKI 技術規範及國際標準 ","結合醫事機構及人員電子證書、人員管理、學分教育等應用 ","以上皆是。",Ans4
+"21.以下那一項是資訊管理要件之一","組織 ","人員 ","電腦 ","資料 (E)以上皆是",Ans5
+"22.以下那一項描述正確 ?","病歷電子化就相當於實施電子病歷 ","HCA 是衛生局所推動之醫事人員認證機制 ","電子簽章與數位簽章之定義相同 ","所謂的PKI系統是將公鑰加密演算法、憑證及 CA 整合之安全系統",Ans4
+"23 以下那一項不是資訊安全所要確保之項目 ?","資料隱私性 ","資料正確性 ","資料不可否認性 ","資料不可修改性",Ans4
+"24 以下那一項不是資訊系統發展步驟之一 ?","系統分析 ","系統設計 ","系統測試 ","以上皆是",Ans4
+"25.醫療院所實施電子病歷之要點為:","電子病歷須加入生物電子簽章 ","電子病歷不可修改 ","電子病歷必須要有備份 ","電子病歷實施後就不可提供紙本病歷給病人 (E)以上皆是",Ans3
+"26.醫學資訊學是 :","醫療資訊系統之學術名稱 ","綜合資訊科技與醫療領域之一門學問","統計分析醫療資料之工具 ","實證醫學發展之基礎 (E)以上皆是",Ans2
+"27.下列何者不是使用電子病歷的優點？","取代龐大厚重的紙張記錄，節省病歷儲存空間","支援臨床決策及警示功能","病人資料容易傳送與擷取","開始實施病歷電子化初期就可以立即獲得顯著的效益",Ans4
+"28.病歷資料庫中每一病患有一筆基本資料，那個欄位最適合作為查詢主鍵值？","生日 ","姓名 ","身分證字號 ","地址",Ans3
+"29.生理監視器是以醫學訊號的處理技術來監測病人呼吸、血壓、心跳、血氧濃度等資料，通常是應用在醫院的哪一個單位？","藥局 ","加護病房 ","營養室 ","門診診間",Ans2
+"30.衛生署成立醫療憑證中心(HCA)，發放的醫事人員憑證，下列敘述何者正確？","採用秘密金鑰的加密方法 ","是一種對稱式的加密技術 ","醫事人員憑證卡存放的即是所謂的公開金鑰 ","非對稱式的加解密技術是採用 RSA 演算法",Ans4
+"31.衛生署委託醫學資訊學會最近制定完成的電子病歷基本格式，是遵循了HL7/CDA 的標準，所謂 CDA 是指下列何者？"," Clinical Document Architecture "," Communication Data Access"," Computer Database Assistance "," Control Disease Association",Ans1
+"32.要做好網路管理，網路管理者必須透過軟體工具與網路設備溝通，一般所採用的「簡易網路管理通訊協定」是哪一種協定？"," HTTP "," FTP "," SMTP "," SNMP",Ans4
+"33.資訊系統開發各階段應產生不同的文件，在系統分析階段所產生的文件為？","系統需求規格書 ","系統功能規格書 ","系統測試報告 ","程式說明書",Ans1
+"34.系統測試有固定的程序與步驟，一般測試的順序為何？","整合測試、單元測試、平行測試或整體測試、驗收測試","單元測試、整合測試、驗收測試、平行測試或整體測試","單元測試、平行測試或整體測試、整合測試、驗收測試","驗收測試、單元測試、整合測試、平行測試或整體測試",Ans2
+"35.我國目前健保申報給付所採用的疾病分類碼是哪一種？"," ICD9-CM "," SNOMED "," LOINC "," HL7",Ans1
+"36.以下何者不是建構有效電子健康檔案系統須考慮之重要因素?","標準化醫學名詞 ","資料安全、隱私","建置費用來源 ","分散式醫療資訊資料輸入",Ans3
+"37.HIMSS 與 RSNA 聯合提出 IHE 技術架構，請問目前是以那兩大醫療資訊標準為發展基礎？"," HL8 & DICOM "," HL7 & DICOM ","LONIC & DICOM "," DOCOME",Ans2
+"38.護理師、護士在醫師指示下，得從事：","記載病歷 ","醫療輔助行為 ","麻醉行為 ","以上皆非",Ans2
+"39.醫師下列行為，不構成移付懲戒事由：","業務上重大過失 ","執業違背醫學倫理 ","出租醫師證書 ","以上皆非",Ans3
+"40.醫師在登記執業處所以外之處所執行業務，須向衛生局報備者為：","遇大量傷病患之支援 ","門診或義診 ","重症傷病之徵詢 ","以上皆非",Ans2
+"41.何種醫療行為，免經病人簽具同意書：","手術、麻醉 ","侵入性檢查、治療 ","強制性治療 ","以上皆非。",Ans3
+"42.下列何者不得為醫療廣告之內容：","醫師性別、學經歷 ","診療科別、開業日期 ","醫療技術、療效","以上皆非。",Ans3
+"43.依我國醫療法第 48 條規定，醫院病歷至少應保存多少年？"," 5 "," 10 "," 15 "," 20",Ans2
+"44.DRG( Diagnosis-Related Groups)之支付標準用於：","急診 ","門診 ","住院 ","長期照護",Ans3
+"45.我國發放醫事人員憑證 IC 卡及執行認證主管單位為：","健保局 ","衛生署 ","內政部 ","各醫院",Ans2
+"46.關聯式資訊庫要求每個資料表(table)都要有一個鍵(key)來識別該資料表之每一個 record, 該 key 稱為 :"," primary key "," foreign key "," candidate key "," alternate key",Ans1
+"47.全靜脈營養注射簡稱為："," TSN "," PPN "," TPN ","PVT",Ans3
+"48.以醫療資訊的領域而言，何謂 PACS ？"," PanAmerican Climate Studies "," Physics and Astronomy ClassificationScheme "," Photodetector Array Camera & Spectrometer "," Pictures Archivingand Communication System",Ans4
+"49.最早的 Clinical Decision Support System 之一是 Dr. Shortliffe 在 1972 年左右發展的 MYCIN, 其目的在於幫助 physician 診斷及治療 meningitis (腦膜炎)之病人。其 knowledge base (KB) 之一小部份如下:If the site of culture is blood AND the morphology of the organism is rod ANDthe Gram stain is Gram negative AND the patient is a compromised hostTHEN there is suggestive evidence (0.6) that the organism is Pseudomonasaeruginosa 請問此系統之架構是屬於:"," Rule-based approach "," Support Vector Machine"," Artificial Neural Network "," Statistical Modeling",Ans1
+"50.Medical Vocabulary 之標準化對於電子病歷之實現有極重要的影響。 以下那一組標準最適合用來描述病人的臨床症狀 (Clinical Findings):","ICD-9 CM (國際疾病分類碼) ","Mesh Heading (現用於Medline之醫學文件搜尋) "," SNOMED "," LOINC (E)HL7",Ans3
+"51.有關電子病歷，其實現之障礙不包括下列哪一項？","法律對實體病歷之限制 ","醫療資訊之多樣性及擷取之困難","編碼系統(Coding Scheme)未標準化 ","高額之初期投資 (E)以上皆包括",Ans5
+"52.疾病管制局將流感流行疫情分為五級，請問那一級是「國內進入新型流行性感冒人傳人確定病例之大規模流行」？"," C 級 ","A2 級 ","B 級 ","A1 級 (E)0 級",Ans1
+"53. Which of the following technology makes the distributed databases possible"," wireless "," FTP "," data coding "," network",Ans4
+"54.When develop an information system, we usually start with :","testing design ","physical data modeling ","conceptual data schema design","logical data modeling",Ans3
+"55.The fundamental concepts of a data model include the following, except"," record "," entity "," attribute "," key attribute",Ans1
+"56.Which of the following are related to data mining, except"," OLAP "," OLTP "," data mart ","data warehouse",Ans2
+"57.Which standard is for compressing radiological and other images in medicine?"," UMLs "," PACS "," SNOMED "," DICOM (E)LONIC",Ans4
+"58.How to handle a sequence of database operations as one indivisible operation inDBMS?"," Access control "," Concurrency control "," Integrity control"," Authorization control (E) Transaction control",Ans5
+"59.Which coding system is a grouping of ICD codes based on costs of treatment, to beused for budgeting and hospital reimbursement?"," DSM "," DRGs "," UMLs "," HL7 (E) LONIC",Ans2
+"60.Which type of medical record follows the SOAP structure to reflect the (possible)courses of disease of a patient:"," Problem-oriented "," Frequency-oriented "," Source-oriented"," Time-oriented",Ans1
+"61.The suffix -algia is defined as:"," record ","inflammation "," pain "," blood condition",Ans3
+"62.The suffix -gram is defined as:"," removal, excision, resection "," record "," cell "," disease condition",Ans2
+"63.The prefix meta- , like in the word metastasis, is defined as:"," beyond "," behind "," small "," new",Ans1
+"64.The prefix brady-, like in the word bradycardia, is defined as:"," fast "," irregular "," pain "," slow",Ans4
+"65.The combining form acr/o, like in the word acromion, means:"," extremities, top "," sharp, severe "," drug, chemical"," formation, development",Ans1
+"66.The combining form blephar/o, like in the word blepharoplasty, means:"," fingernail "," breast "," facial "," Eyelid",Ans4
+"67.The diagnostic term that means serious chest pain is:"," Insomnia "," Angina Pectoris "," Pectoris Major "," Lumbago",Ans2
+"68.The medical term aphasia means:"," language disorder "," muscle power disorder "," visual disorder"," blood condition disorder",Ans1
+"69.The medical term that means programmed cell death is:"," kyphosis "," neurosis "," apoptosis "," mycosis",Ans3
+"70.The medical term that means reduction in the number of erythrocyte is:"," hypothermia "," amnesia "," asphyxia "," anemia",Ans4
+"71.Medical data may become information when:"," The data have been printed "," The data can be interpreted by a human"," The data can be stored in a database "," A computer program can bedeveloped for the processing of the data.",Ans2
+"72.Certain measures can be taken to increase the quality of medical data during dataentry. Which is the most important one?"," Use a computer with a large mass storage device "," Use a computer witha sufficiently large word length "," Provide feedback to the user "," Use agraphical display.",Ans3
+"73.Three of the following four aspects are taken care of by a database managementsystem (DBMS). Which aspect does not belong to these essential properties?","access control ","cost control ","concurrency control ","integrity control.",Ans2
+"74. In a medical record, diagnoses are often coded. Which of the following is not seenas a direct advantage:"," Enabling statistical overviews and research "," Data reduction"," Diagnosis is more accurate "," Coding requires a precise description ofconcepts and classification rules.",Ans3
+"75. Which of the following is a factor affecting medical computing?"," New development in computer software only."," A gradual increase in the number of professionals who have been trained in bothclinical medicine and medical informatics."," Ongoing changes in healthcare financing designed to control the rate of shrinkageof medical expenditure."," The view of medical informatics as referring to the basic-science discipline.",Ans2
+"76. About medical information system, which one of the following is incorrect?"," There are two ways of System Development. One is to identify the need first andthen search for techniques. The other is new hardware motivates new application"," The Goals of Medical Information System : Low cost, high efficiency, easymaintenance, and high reliability"," Software Lifecycle: Requirement analysis -> Specification-> Design -> Testing->Implementation-> Maintenance"," Composing an effective and economical system that is fully sufficient forfinancial, clinical, ancillary need in health care is nearly impossible",Ans3
+"77. Which one is currently not an abbreviation of the name of the medical departmentin a hospital:"," GI "," CV "," CG "," CS",Ans3
+"78.The most popular programming language is:"," Assembly Language "," Fourth Generation Language"," Object-Oriented Programming Language "," Structure Programming Language",Ans3
+"79.Which one is not a medical informatics standard:"," CDA "," ADT "," SNOMED "," HL7",Ans2
+"80.What is the sequence of the three stages that are generally seen in all humanactivity in the diagnostic-therapeutic cycle?"," (1)observation, (2) reasoning, (3) action"," (1)observation, (2) processing, (3) action"," (1)reasoning, (2) observation, (3) action"," (1)reasoning, (2)action, (3) observation",Ans1
+"81. Which of the following abbreviations is not a correct mnemonic code for themeaning behind the abbreviation?"," OB-GYN: Department of Obstetrics and Gynecology."," OR: Department of Surgery"," CAR: Department of Cardiology"," ENT: Department of Ear, Nose, Throat",Ans2
+"82. In order to avoid unnecessary trouble for the 'patients' and to minimize healthcarecosts, the aim in screening for disease x is to get as few healthy (e.g. not havingdisease x) people as possible into the healthcare system. In achieving this, which oneof the next test parameters (in percentages) should be as small as possible?"," FN (false negative). "," TN (true negative)."," TP (true positive). "," FP (false positive).",Ans4
+"83.Which one is not clinical decision support systems?","computer-assisted dosage systems ","computer-assisted diagnosis systems","preventive care reminder systems ","computer-aided quality assurance systems(E) registration and billing systems",Ans5
+"84.Which statement regarding biases in demonstration studies is wrong?"," Volunteer effect means volunteers perform better than others"," Placebo effect means patients’ symptoms improve if “high tech” computers arepresent"," Hawthorne effect means subjects learn from the system, so performance improveson control cases"," Data completeness bias means more data are collected in computer versus controlcases, so assessment is more accurate(E) Checklist effect means performance improves if clinicians use a checklist",Ans3
+"85. Which data used for patient monitoring in ICUs is not continuous variable?","Blood pressure ","ECG ","Respiratory ","Cardiac (E) Blood chemistry",Ans5
+"86.Human interface design is performed during:","systems planning and selection. "," systems analysis. "," systems design."," systems implementation and operation. (E) requirements structuring.",Ans3
+"87.Which of the following is the standard method of gathering and displayinginformation on the Internet?"," Dialogue interaction "," Form interaction "," Report interaction"," Menu selection (E) VRML interaction",Ans2
+"88.The data modeling perspective that derives the business rules for a data modelfrom an intimate understanding of the nature of the business, rather than from anyspecific information requirements in screens, reports, or business forms, is referred toas the:"," top-down approach. "," bottom-up approach. "," overview approach."," business approach. (E) conceptual approach.",Ans1
+"89.Graphically representing the functions, or processes, that capture, manipulate, store,and distribute data between a system and its environment and between componentswithin a system refers to:"," data modeling. "," structure modeling. "," process modeling."," transition modeling. (E) logic modeling.",Ans3
+"90.A computer-based file containing employee information would be represented on adata flow diagram as:"," data flow. "," data store. "," process. "," action stub.",Ans2
+"91.A health determinant is a factor:"," indicating the causal relationship between health factor x and health effect y"," that has either a positive effect or a negative effect on health status"," that has a negative influence on health status"," that affects health status",Ans4
+"92.According to "standard view" of computer assisted clinical diagnosis, humancognitive processes should not be overridden by computers. Which of the following isnot a supporting argument for the above position?"," Human cognition is more suited to the complex task of diagnosis than machineintelligence"," Clinicians know and understand the patient's situation better than computerprograms do."," Clinicians can make compassionate judgments."," Clinicians can do formal logical inference better than computer programs.",Ans4
+"93.Regarding people who develop, maintain, and sell healthcare computing systems,which of the following statement is wrong?"," They should hold patient care as the leading value."," Hippocratic injunction "first do no harm" does not apply to them, since they arenot direct care provider"," It is ethical if they hope and strive to profit from their diligence, creativity, andeffort."," They have obligations that parallel those of care-givers.",Ans2
+"94.Which of the following statement is not correct?"," Privacy and confidentiality are synonymous."," In discussion of the electronic healthcare record, the term privacy may also referto individuals' desire to restrict the disclosure of personal data."," Privacy is part of basic human rights."," Privacy and confidentiality protections also benefit public health.",Ans1
+"95.In the informed consent form which of the following information is necessary"," why the personal information is collected."," what is the procedure to ensure the confidentiality of collected personal data."," a contact window if the subject has any doubt regarding his/her personal data."," all of the above",Ans4
+"96.Regarding consumer health informatics, which of the following issues will gain inethical importance over next decade:","peer review ","online consultations ","supporting groups ","all of the above",Ans4
+"97. 1.Negligence theory 2. Strict product liability 3. Fairness principle4. Accountability act. Which of the above are ideas from tort law potentiallyapplicable to the clinical use of software systems:"," 1, 2 "," 2, 3 ","3, 4 "," 1, 3",Ans1
+"98. HIPAA stands for"," Health Information Protection and Accountability Act"," Healthcare Information Privacy and Authorization Act"," Health Information Portability and Accountability Act"," Health Information Portability and Autonomy Act",Ans3
+"99. According to the ”Handbook of medical informatics”, which of the following isnot an aspect of information:"," Syntactic "," Semantic "," Pragmatic "," Schematic,",Ans4
+"100. Which of the following statement is incorrect"," SQL can express all the relations between entities "," the basic element ofrelational database is relation "," after normalization, human can exam the dataeasily "," all of the above",Ans3

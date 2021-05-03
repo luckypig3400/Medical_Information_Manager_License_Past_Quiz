@@ -1,0 +1,51 @@
+Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4
+Ans1,1. 近期國際間麻疹疫情持續發生，國內亦陸續出現境外移入病例之接觸者確診感染。麻疹的英文是？(**205),Measles ,Herpes ,Polio ,Leprosy
+Ans1,2. 承上題，因應近期醫院內麻疹群聚感染事件，全院員工快速接種 MMR 疫苗。請問疫苗的醫護術語是？(**162),Vaccine ,Vaginitis ,Treatment ,Enterorrhagia
+Ans4,3. 一般出院病歷摘要通常包含主訴、病史、體檢發現、併發症、出院指示與用藥等資訊，其中『主訴』是指？(**30),Complications ,Laboratory ,Radiology ,Chief Complaint
+Ans1,4. 健保署發現部分醫院執行達文西手術疑似申報異常，認為不可以用腹腔鏡手術來申報。腹腔鏡的英文是？(**56),Laparoscopic .,Tomotherapy,Catheterization ,Ablation
+Ans2,5. 肺癌、腫瘤壓迫呼吸道、心臟衰竭、貧血或肺部感染等都有可能引起呼吸困難，其中『呼吸困難』常用字彙為下列何者？(**47),Croupy ,Dyspnea ,Asthma ,Influenza
+Ans3,6. 駐外醫療團名醫結腸直腸癌開刀，提醒大家注意早期症狀。結腸直腸癌的英文是？(**54),Epilepsy ,Leukemia,Colorectal carcinoma ,Septicemia
+Ans2,7. 承上題，大腸癌患者確診常需要執行結腸鏡檢查，結腸鏡檢查的英文是？(**55),Gastroscopy ,Colonoscopy,Arthroscopy ,Transesophageal Echocardiography
+Ans2,8. 在精神科臨床檢查中對於病患情感描述時，所使用的「Anxiety」是指？ (**173),冷漠 ,焦慮 ,憂鬱 ,漠不關心
+Ans1,9. 以下關於全民健保資料庫的敘述何者錯誤？(*551),健保資料屬於衛生福利資料應用管理要點中的二級資料,健保資料的使用場所為衛生福利資料科學中心暨研究分中心獨立作業區,健保資料申請核准後，使用期限為三年。,應用健保資料進行研究，仍需通過倫理委員會(IRB)審查
+Ans2,"10. 我們常在遊戲界聽到某支新遊戲要開放給玩家「封測」或「公測」，即使用者在實際環境下測試，請問此階段的測試是屬於下列哪種測試？(*219, 時事題)",α 測試 ,β 測試 ,γ 測試 .,以上皆非
+Ans4,11. 資訊安全的目標有所謂的 C.I.A.三原則，是指下列何者？(*137),防火牆、虛擬私有網路和認證中心,保護資料、系統和設備不要被駭客攻擊,資料的加密、解密和密鑰管理,保護資料及系統資源的機密性、整體性和可取用性
+Ans1,12. 臺灣健康雲計畫中，以民眾就醫紀錄為主軸，包括電子病歷交換中心、健保雲端藥歷系統和民眾健康存摺是哪一朵雲？(*32),醫療雲 ,照護雲 ,保健雲 ,防疫雲
+Ans2,13. 依據衛生福利部在電子病歷推動專區的加速推動電子病歷發展藍圖，106 年至 109 年的發展願景為何？(*30),建立健康資訊應用之基礎環境，推動健康資訊之創新應用,發展個人化之健康紀錄與加值應用,全面運用電子病歷提升醫療服務品質,建立以病人為中心且可跨院交換的電子病歷
+Ans2,14. 在檢驗資訊系統中，可自動將病人的檢驗結果與病人過去相同的檢驗結果做比較，計算是否有特別減少或增加的現象，異常時以特別顏色顯示提醒。請問這是下列何種比對？(*337),區間值比對(Reference Check) ,前後值比對(Delta Check),危險值比對(Panic Check) ,標準值比對(Standard Value Check)
+Ans1,15. 臨床藥學專家將藥物不良反應（ADR）的等級分為嚴重、中度、輕度三個等級，請問下列何者屬於嚴重的不良反應？(*367),會造成病人死亡或危及生命 ,會延長病人住院時間，且造成病人不舒服,僅延長病人住院時間 ..,僅造成病人不舒服
+Ans2,16. 資訊系統發展的各個階段會產生不同文件，下列敘述何者正確？(*203-207),系統設計階段會產生初步設計規範書 ,系統分析階段會產生系統需求規格書,系統發展階段會產生系統規格說明書 ,系統推行階段會產生程式說明書
+Ans3,17. 當醫院要導入新資訊系統的階段，必須保持舊資訊系統繼續正常運作。如要比較新、舊資訊系統間所產生數據的對應關係，應進行何種測試？(*220),整合測試 ,整體測試 ,平行測試 ,單元測試
+Ans3,18. 三層式資料庫結構將資料庫綱要分為三層，下列哪一層用來描述實際的資料庫儲存結構和存取路徑的細部資料？(*84),外部層 ,概念層 ,內部層 ,實體層
+Ans2,19. 醫院行政之主要任務中，營養管理及藥品管理是屬於下列哪一項運作？(*253),醫療事務 ,醫療照護 .,經營管理 ,財務系統
+Ans4,20. 衛福部為推動分級醫療，自 106 年 4 月 15 日(星期六)開始實施新的規定，針對急診部分負擔：醫學中心急診檢傷分類下列那一級將從 450 元調至 550 元？(*290),第 1 級 .,第 1、2 級 ..,第 1、2、3 級 ,第 3、4、5 級
+Ans3,21. 下列哪一種種健保支付制度優點是具有可提供強烈經濟誘因，促使醫療院所重視預防保健以降低醫療成本，而且支付與醫療服務量無關。(*261),總額預算 ,論量計酬 .,論人計酬 ,論日計酬
+Ans1,22. 下列對於臨床路徑的敘述何者錯誤？(*262),醫院在因應論量計酬支付制度，臨床路徑乃是諸多管理措施中最廣為採用之利器。,臨床路徑是一種固定的治療建議模式，讓病人由住院到出院都依此模式的規範來接受治療。,醫院可藉由臨床路徑來控制整個醫療成本並維持或改進醫療的品質,臨床路徑希望找出最有成本效益的治療模式。
+Ans1,"23. SQL(Structured Query Language) 是一種資料庫查詢語言， 請問 SQL 是用於下列哪種資料庫管理系統？(*82, 88)",關聯式資料庫管理系統(Relational Data Base Management System),階層式資料庫管理系統(Hierarchical Data Base Management System),網狀式資料庫管理系統(Network Data Base Management System),以上皆可
+Ans1,24. 為了確保交易執行的正確性，一個交易在資料庫管理系統中具有四種特性即所謂交易的 ACID 特性，請問下列何者不屬於 ACID 特性？(*85~86),活動性(Activity) ,一致性(Consistency) ,孤立性(Isolation) ,永久性(Durability)
+Ans2,25. 在醫院資訊系統的資料庫中，醫師資料表是以醫師代號的欄位作為主鍵(Primary key) ，而掛號資料表中是以醫師代號的欄位參照醫師資料表，那麼在掛號資料表的醫師代號欄位稱之為何？(*95),候選鍵(Candidate key) ,外來鍵(Foreign key),超級鍵(Super key) .,唯一索引鍵(Unique index key) 
+Ans4,26. 下列何者是指在資料庫設計時，會遵循相同的設計模式，檢查資料是否重複存放，其目的是建立「良好結構的關聯表」，這是一種沒有重複資料的關聯表，而且在新增、刪除或更新資料時，不會造成錯誤或資料不一致？(*98),最小化(Minimization) .,最佳化(Optimization),視覺化(Visualization) ,正規化(Normalization)
+Ans3,27. 下列哪一個屬於護理資訊系統中建置措施及結果的標準依據？(*406),SNOMED ,NHIRD .,NANDA-I ,NLM
+Ans3,28. 電腦化醫令 CPOE，是下列何者的縮寫？(*418),Computer Program one-Medicine,Communication Patient Observation Efficiency,Computerized Physician Order Entry,Clinical Path Operation Electronic
+Ans3,29. 下列哪一套醫學詞彙代碼系統字詞間的關係是由語意網路來表達，而且具有處理相似詞、相反詞、拼錯字及多國語言的能力？ (*68-69),DRG ,ICD9-CM ,UMLS ,LOINC
+Ans4,30. 醫院不論採用何種治療手段、藥物、住院天數，健保就只給醫院同一種給付價格的給付方式，是根據下列何種代碼？(*67),MeSH ,DICOM ,LONIC ,DRGs
+Ans3,"31. 中央健保署已開始實施國際疾病分類第十版 ICD-10-CM/PCS，請問其中的 PCS 代表？(*67, 時事題)",Progress Coding System .,Process Coding System,Procedure Coding System .,Program Coding System
+Ans3,"32. ICD-10-CM 代碼的長度最短有三碼，請問最長到幾碼？(*67, 時事題)",五碼 ,六碼 .,七碼 ,八碼
+Ans4,"33. DRGs(住院診斷關聯群支付制度)確實是一個可抑制醫療浪費的制度，但是配套措施一定要周全，否則將出現嚴重的弊端。請問下列何種屬於弊端之一？(*68 ,時事題)",病人遭醫院要求自費的機會增加 ,複雜病患，醫院拒收,病還沒治好，就被趕出醫院 ,以上皆是
+Ans4,34. 所謂 DICOM 是指下列何者的縮寫？(*71),Digital Image Common Model,Digital Identification Connection in Medicine,Diagnostic Imaging Communication in Medicine,Digital Imaging and Communication in Medicine
+Ans3,35. 疾病管制署指標式傳染病監測，2014 年起透過防疫雲計畫所建立的病原體檢驗資料的實驗室自動通報系統是採用哪一項標準？(*492),DICOM ,NANDA ,LOINC ,SNOMED
+Ans4,"36. 與傳統手術比較，下列何種不屬於達文西手術的優點？(*474~485, 時事題)",傷口小、出血少、輸血機會小，達到真正微創無痕手術,可讓術後疼痛減至最輕，並且讓病人更早恢復,減少住院天數及感染風險,健保可全額給付
+Ans4,37. 下列有關加解密技術之描述何者正確？(*151-153),醫療憑證管理中心採用對稱性加密系統,非對稱性密碼系統，因為不需要考慮對稱性，所以速度較快,傳輸大量的資料一般會用非對稱性加密系統直接加密之,非對稱性密碼系統是因加密端與解密端用以加密與解密之金鑰不相同而得名
+Ans1,38. 下列關於一般防火牆的敘述何者錯誤？(*141-143),可比對入侵行為特徵碼,可過濾封包來源及目的 IP 位址是否合法,可改變進出交通的 IP 位址,可過濾封包是否使用合法的 TCP/UDP 埠號
+Ans3,39. 跨醫療院所或衛生行政機關所採用的虛擬私有網路(Virtual Private Network; VPN)主要採用的資訊安全技術，其中不包括下列何者？(*146-148),穿隧(Tunneling) ,加解密(Encryption & Decryption),應用層過濾器(Application Filter) ,密鑰管理(Key Management)
+Ans3,40. 以下何者不是醫學資訊對電子簽章的要求？(*162~163),團體簽章 ,可偵測是否遭到修改 ,可察覺的 ,可解碼的
+Ans4,41. 隱私之法律規範基本的法則概念皆為尊重個人控制其隱私資料之權利，在我國制定的法案稱為？(*173),電子簽章法 ,健康保險可攜性規則法案,電子病歷製作及管理辦法 ,個人資料保護法
+Ans3,42. 緊急醫療管理系統是空床資料，包裝成哪一種標準格式通報到衛生福利部指定的伺服器？(*304),DICOM ,LOINC ,HL7/XML ,SNOMED
+Ans4,43. 開發醫院資訊系統時，一般都以 ADT 來簡稱各科的作業流程並將其中所產生資料串接起來，以滿足整體照護需求，請問 ADT 的全名是？(*304),Admissions Diagnosis Transport ,Admissions Diagnosis Transfer,Admissions Discharge Transport ,Admissions Discharge Transfer
+Ans1,44. 病歷管理電腦化系統的功能，不包括下列何者？(*312),護理評估系統 ,疾病分類等檢索查詢系統,病歷相關資料統計分析系統 ,現場掛號和預約掛號系統
+Ans2,45. 利用不同頻率的電磁波脈衝，引起人體不同器官內原子共振，再由原子回到基底狀態時，所放出的能量，引起磁場向量的改變，接收感應線圈電流再轉換成影像的是下列哪一種造影技術？(*378),CT(Computerized Tomography) ,MRI (Magnetic Resonance Imaging),Ultrasound ,X Ray
+Ans4,46. 下列何種不屬於 PACS(Picture Archiving and Communication System) 的優點？(*381),節省人工調閱傳統軟片時間與人力,改善檢查流程及縮短等候檢查時間,節省傳統底片費用及顯影、定影液藥水等的消耗費用，且具環保概念,醫護人員、病人或家屬皆可不受時空限制方便調閱
+Ans3,47. 下列何者不是一般床邊監視器記錄的生理參數？(*391~392),心電圖和呼吸 ,血壓和血氧飽和濃度,血糖和血脂肪成分 ,體溫和心搏輸出量
+Ans2,48. 醫療管理決策支援，採用資料倉儲或資料探勘的技術，以下列何者為主？(*602),開放資料庫連結(Open Database Connectivity; ODBC),線上分析處理(Online Analytical Processing; OLAP),線上交易處理(Online Transaction Processing; OLTP),開放系統互連標準(Open System Interconnection Standard; OSIS)
+Ans4,49. 在大數據時代中，必須資料倉儲與商業智慧系統靈活運用，下列哪一種不是所應用到的技術？(*602),平衡計分卡(BSC) ,儀表板(Dashboard),資料純化(ETL) ,線上交易處理(OLTP)
+Ans1,50. IHE 技術技架構所制定的整合規範書(integration profile)，主要是用何者來描述？(*620),Actors(角色)和 Transactions(交易),Entity(實體)和 Act(行為),Role(角色扮演)和 Participation(參與),ActRelationship(行為關係)和 RoleLink(角色連結)
