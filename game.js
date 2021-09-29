@@ -17,7 +17,9 @@ fetch(
     'https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple'
 )
     .then((res) => {
-        return res.json();
+        const docs = res.json();
+        console.log(docs);
+        return docs;
     })
     .then((loadedQuestions) => {
         questions = loadedQuestions.results.map((loadedQuestion) => {
@@ -48,12 +50,13 @@ fetch(
 
 //CONSTANTS
 const CORRECT_BONUS = 10;
-const MAX_QUESTIONS = 3;
+const MAX_QUESTIONS = 6;
 
 startGame = () => {
     questionCounter = 0;
     score = 0;
     availableQuesions = [...questions];
+    console.log([...questions]);
     getNewQuestion();
     game.classList.remove('hidden');
     loader.classList.add('hidden');
