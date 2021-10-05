@@ -1,0 +1,3 @@
+當作成系統後，資料庫需有的欄位:
+Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4,Year,Chapter,Detail1,Detail2,Detail3,Detail4
+該題答案(Ans1/2/3/4),1.題目內容,選項1,選項2,選項3,選項4,試題年分,該題章節,選項1詳解,選項2詳解,選項3詳解,選項4詳解
