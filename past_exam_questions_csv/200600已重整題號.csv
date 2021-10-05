@@ -1,86 +1,86 @@
 Question,Answer1,Answer2,Answer3,Answer4,Correct Answer(s,Year,Chapter
-"0. HL7 (Health Level 7) 醫療資訊標準著重於 OSI(Open Systems Interconnection ) reference model 的哪一層為主?"," Data Link ","Application "," Network "," Presentation ",Ans2
-"1. 醫院資訊系統中的病歷管理系統功能，不包括下列何者?","疾病分類登記 ","病歷查詢 ","資材供應 ","病歷歸檔作業 ",Ans3
-"2. 檢傷分類分級中，需要最優先處理的是:"," 一 "," 二 "," 三"," 四 級 ",Ans1
-"3. 病人在住院後，依照建議治療病人，然後由醫護人員對照實際的治療程序與差異，直到病人出院的是:","臨床準則 ","疾病分類 ","DRGs","臨床路徑 ",Ans4
-"4. The suffix -algia is defined as: "," record ","inflammation "," pain","blood condition ",Ans3
-"5. The prefix meta- , like in the word metastasis, is defined as:"," beyond "," behind "," small "," new ",Ans1
-"6. Which one is not a medical informatics standard:"," CDA "," ADT"," SNOMED "," HL7 ",Ans2
-"7. Which of the following abbreviations is NOT a correct mnemonic code forthe meaning behind the abbreviation? "," OB-GYN: Department ofObstetrics and Gynecology. "," OR: Department of Surgery "," CAR:Department of Cardiology "," ENT: Department of Ear, Nose, Throat",Ans2
-"8. Which one is not clinical decision support systems? ","computer-assisteddosage systems "," registration and billing systems ","preventive carereminder systems ","computer-aided quality assurance systems ",Ans2
-"9. Which statement regarding biases in demonstration studies is wrong? ","Volunteer effect means volunteers perform better than others"," Placeboeffect means patients’ symptoms improve if “high tech” computers arepresen"," Hawthorne effect means subjects learn from the system, soperformance improves on control cases ","Checklist effect meansperformance improves if clinicians use a checklist ",Ans3
-"10. Which data used for patient monitoring in ICUs is not continuous variable?","Blood pressure ","ECG ","Respiratory ","Blood chemistry",Ans4
-"11. The data modeling perspective that derives the business rules for a datamodel from an intimate understanding of the nature of the business, ratherthan from any specific information requirements in screens, reports, or business forms, is referred to as the: "," top-down approach "," bottom-upapproach "," overview approach "," business approach ",Ans1
-"12. Graphically representing the functions, or processes, that capture, manipulate,store, and distribute data between a system and its environment and betweencomponents within a system refers to: "," data modeling "," structuremodeling "," process modeling "," transition modeling ",Ans3
-"13. A computer-based file containing employee information would berepresented on a data flow diagram as: "," data flow "," data store ","process "," action stub ",Ans2
-"14. A health determinant is a factor:"," indicating the causal relationshipbetween health factor x and health effect "," that has either a positive effector a negative effect on health status "," that has a negative influence onhealth status "," that affects health status ",Ans4
-"15. According to ""standard view"" of computer assisted clinical diagnosis,human cognitive processes should not be overridden by computers. Which ofthe following is not a supporting argument for the above position? ","Human cognition is more suited to the complex task of diagnosis thanmachine intelligence "," Clinicians know and understand the patient'ssituation better than computer programs do "," Clinicians can makecompassionate judgments "," Clinicians can do formal logical inferencebetter than computer programs ",Ans4
-"16. 結合大安區地圖與 SARS 病患分佈資料的資訊系統應用為？ ","電子地圖 ","地理資訊系統 ","專家系統 ","虛擬實境 ",Ans2
-"17. 從大量資料中尋找隱藏的資訊稱為？ ","資料倉儲 ","資料搜尋 ","資料探勘 ","資料超市 ",Ans3
-"18. 為了能自動表達病歷資料的時間關係，何者應被正確紀錄？","Password","Date ","Login time ","Timestamps ",Ans4
-"19. PACS 的推動必須有何種標準的支持？","LOINC ","HL7 ","CDA","DICOM ",Ans4
-"20. 目前美國檢驗檢查編碼系統主流 ？","LOINC ","MeSH ","UMLS","SNOMED ",Ans1
-"21. One of the most important user requirements of HIS-users is the integrationbetween HIS applications. From the user's point of view at least 3 types ofintegration can be distinguished. Which integration type is not a valid one ?","Functional integration ","Data integration ","Presentation integration","Clinical integration ",Ans4
-"22. Concurrency control deals with:","The control over users whosimultaneously use a computer ","The control over users who have conflicting interests ","The control over electronic messages using the samecommunication channel ","The control over users who simultaneously usethe same database ",Ans4
-"23. 在程式開發階段中，程式設計師所進行的程式單元測試，是以下列那一種測試方式，找出程式可能發生的錯誤？ ","白箱測試 ","黑箱測試","壓力測試 ","接受度測試(Acceptance Testing) ",Ans1
-"24. 以資訊安全的角度，來判斷辨識使用者及記錄安全性的相關活動，當特定使用者登入系統，即給予應有的適當權限，上述的設計原則是屬於那一種橘皮書的評量 ？ ","安全策略(Security Policy) ","帳戶辨識記錄能力(Accountability) ","可靠度(Assurance) ","說明文件(Documentation) ",Ans2
-"25. 下列何者非建置資料倉儲之步驟？ ","建立多維度表格設計 ","資料萃取 ","資料庫正規化 ","資料清理(Data Cleaning) ",Ans3
-"26. 電子病歷中的資料主要是應用於哪個部分？","對病人的直接照顧 ","醫療管理及企劃的支援 ","醫學研究及教育 ","以上皆是 ",Ans4
-"27. 下列那一項不是診斷治療循環之一？","觀察 ","處置 ","治療 ","診斷 ",Ans2
-"28. 能力成熟度模型(CMM)是用來評估組織資訊成熟度；請問”已擁有一標準的系統發展流程，並已整合到整個組織中的資訊系統”是指哪階段的具體表現 ？ ","管理(managed) ","最優化(optimized) ","定義(defined) ","可重複(repeatable) ",Ans3
-"29. Which one of the following is NOT a body cavity:","Cranial ","Thoracic","Abdominal ","Umbilical ",Ans4
-"30. 健保制度中的論病例計酬之優點不包括下列中哪一點？ ","可降低醫療資源的浪費 ","實際反應不同醫院病例組合之差異 ","可促進病人的就醫可近性 ","促使醫院重視醫療管理與衛生計劃 ",Ans3
-"31. 用於問題導向病歷紀錄中的程序，稱之為： ","Physician Order Entry","Clinical Path ","Subject Object Assessment Plan ","DiagnosisRelative Group ",Ans3
-"32. 一種多軸的醫學名詞命名系統，每個軸形成一完整的階層式分類方式，也包含疾病診斷名詞，是哪一種編碼系統： ","HL7 ","SNOMED","ICD-10 ","DRG ",Ans2
-"33. 生理訊號除了一般以時間／強度領域來表示之外，轉換成哪一種表達方式，可以觀察頻率領域的變化： ","Power Spectrum ","FrequencyRresponse ","Wavelet Transform ","以上皆是 ",Ans1
-"34. 資訊系統分析與設計，是系統專案發展兩個最重要的進度，下列哪一個工作項目不屬於系統分析階段：","查驗與審核 ","使用者需求訪談","製作規格書 ","功能介面規劃 ",Ans2
-"35. Which one of the following is NOT one of the four elements generallyviewed as defining a medical datum:","The patient in question ","Theparameter being observed ","The time of the observation ","The locationwhere the observation occurred ",Ans4
-"36. 從使用者角度來看，在醫院資訊系統應用程式之間的整合，下列何者較不顯著？ ","資料整合 ","平台整合 ","功能整合 ","表現整合",Ans2
-"37. Which one of the following is NOT an advantage of a computer-basedpatient record over a paper-based record: ","Accessibility: paper-basedrecords are unavailable to others while the clinician is finishing updocumentation to an encounter ","Flexibility: data in computer-basedrecords can be displayed in different formats suitable for their interpretation","Ease of input: physicians usually can quickly enter data intocomputer-based records ","Data Quality: computer-based records canautomatically apply validity checks on data as they are entered ",Ans3
-"38. Which one of the following is NOT a recurring issue that must be addressedwhen building an effective patient-record system: ","The need for standardsin clinical terminology. ","The difficulties associated with minimizingintegrated circuit layout geometry. ","The concerns regarding dataprivacy,confidentiality, and security. ","Challenges of data entry byphysicians ",Ans2
-"39. 下列何者不在護理知識分類之列？","專業性知識 ","推論性知識 ","策略性知識 ","輔助性知識 ",Ans4
-"40. Which item listed below would NOT be among the five specific criteria forproject selection? ","backing from management ","availability ofresources for the project ","high interest in a project technical featuresamong the programming staff ","contribution of the project towardfurthering or improving organizational goals or performance ",Ans3
-"41. How much time should be spent performing a feasibility study? ","only aslong as needed to determine feasibility in broad terms ","as much time asmanagement will allow since that is the only way to prevent project failure","as much time as possible to save time in the later stages of projectdevelopment ","feasibility studies typically comprise at least half of the totaltime required for a project ",Ans1
-"42. Which of the following would be considered in assessing technical feasibility?","whether the technology is available and able to be implemented in thecurrent environment ","whether the technology is in use by the competition","whether the technology costs are within budget ","whether the technology can be implemented within the project deadline ",Ans1
-"43. Which method of administering a questionnaire will likely generate thelowest response rate? ","administering the questionnaire via email","convening the respondents together at one time for the purpose ofadministering the questionnaire ","personally distributing and collecting thequestionnaire ","Allow respondents to self-administer and return thequestionnaire ",Ans4
-"44. 下列敘述何者錯誤：","SSL(Secure Sockets Layer)普遍用來保護網路上的通訊安全，是在 TCP/IP 的通訊協定和應用程式之間運作 ","SET(SecureElectronic Transaction)用來保護電子商務付款交易的機制，採用秘密鑰匙(Secret-Key)加密法 ","數位簽章(Digital Signature)配合公開鑰匙(Public-Key)加密法來解決身份認證和訊息真確性的問題 ","數位浮水印(Digital Watermarks)是應用隱藏學(Steganography)技術將資訊藏在其它圖形、訊息或影音資料中 ",Ans2
-"45. 針對軟體工程(Software Engineering)的敘述，下列何者為是：","資料流程圖(Data Flow Diagram,DFD)用以表達系統的動態資料流程所採用的資料結構","資料字典(Data Dictionary,DD)描述條件、規則以及所採取的行動方針 ","資料結構圖(Data Structure Diagram,DSD)個別描述資料流程圖中所使用到的資料流、檔案以及處理程序 ","決策樹(Decision Tree)描述檔案的組成與關係，屬於靜態的資料結構 ",Ans1
-"46. 資料通訊傳輸速度的單位為下列何者？","MIPS ","BPS ","CPS","BPI ",Ans2
-"47. 以下哪一個項目，與網路安全中的加解密沒有直接的關係？","PIK:Public Key Infrastructure ","CA: Certificate Authority ","RFID:Radio frequency identification ","Digital Signature ",Ans3
-"48. 徵候及症狀的英文簡稱 ","S&S ","CC ","PE ","Hx ",Ans1
-"49. 血壓的英文簡稱 ","BR ","BH ","BP ","BF ",Ans3
-"50. "某家醫療院所因應每日健保 IC 卡資料上傳而向電信業者租 ADSL 512Kb 的頻寬，512 Kb 的 b 代表：","Byte "," Bit ","Bite ","以上皆非",Ans2
-"51. 透過視訊與資訊，讓離島或?遠?有某種專科醫生也可立即為病人提供醫療臨床服務，此種方式稱為："," 遠距會診 "," 遠距教學 ","遠距照護 ","以上皆非 ",Ans1
-"52. 現行衛生署和教育部實施之醫院評鑑中，將教學醫院評鑑等級分為幾類？ ","一 "," 二 ","三 ","四 ",Ans2
-"53. 行政院衛生署依電子簽章法，將何者列為未來 3-5 年主要推動的計畫：","醫療系統自動化 "," 電腦化病歷系統 ","電子病歷 "," 行動醫療",Ans3 
-"54. 下列那一項故障或?損對醫院的風險最大： ","電腦主機故障 ","病人資料?損或錯誤 ","網路設備故障 ","作業系統(OS)故障 ",Ans2
-"55. 主機或網路採高可靠性(HA)架構，其目的主要為："," 平均分擔系統負荷，提升系統運作效能 ","一部故障時，另一部可即時承接，保持系統不中斷 "," 可提高設備單位使用效益，讓主機/網路單位時間內發揮大產能 "," 節省醫院資訊系統投資成本 ",Ans2
-"56. 下列那些是醫院推動平衡記分卡(BSC)所希望獲得的效益： "," 提高資料剖析能力及決策效率 "," 發掘問題、改善作業流程 "," 方便取得即時資料","以上皆是 ",Ans4
-"57. 下列何者不是防火牆的主要功能："," 資料加密 "," 企業內/外 IP 之轉換 "," 偵測與阻檔異常之使用者/封包(入侵) "," 記錄進出(log)",Ans1
-"58. 現行我國行政院衛生署推動之 HCA 認證中，可用於病人就診時讀取病人重大傷病等病人?私資料者為：","醫療機構卡 ","醫事人員卡 ","病人 IC 卡","自然人憑證 ",Ans2
-"59. 資料庫查詢語言(SQL)中，要刪除整個資料表(table)，陳述指令為：","DROP "," DELETE ","UPDATE "," ERASE ",Ans1
-"60. 兩個資料表(table)要產生關聯(relation)，必須要有 Key，下列描述何者為非：","外部參考鍵(Foreign Key)的值可重覆 "," 主鍵(Primary Key) 的值不可為 NULL ","主鍵(Primary Key)的值可重覆 "," 以上皆是",Ans3
-"61. 以醫療資訊的領域而言，何謂 PACS ？ "," Pan American ClimateStudies "," Physics and Astronomy Classification Scheme "," PhotodetectorArray Camera & Spectrometer "," Pictures Archiving and CommunicationSystem ",Ans4
-"62. 某醫院發現有時候同一份資料有兩個人同時修改，這應該是資料庫哪項控制出了問題？","Access control "," Accuracy control "," Concurrentcontrol "," Integrity control ",Ans3
-"63. 布林代數（Boolean algebra）用 1 代表真（true）用 0 代表偽 (false)，用P 代表述句 A 之真偽值，Q 代表述句 B 之真偽值，那麼 述句『A 且 B』的真偽值可以表示為 A 與 B "," 相加 "," 相減 "," 相乘 "," 相除",Ans3
-"64. 輸入資料之正確性相當重要，以下哪一項可能對提高正確性幫助不大？","使用高速電腦 "," 讓使用者可以看到其所輸入的資料 "," 由兩個人輸入相同的資料，再比對之 "," 盡量使用勾選 ",Ans1
-"65. 一張 512x512 的黑白照片，需要 0.25MB(mega byte)，則該照片之灰階值有幾個？ ","8 "," 32 "," 128 "," 256 ",Ans4
-"66. 做備份主要是為了提昇資料之 ","Accuracy "," Integrity "," Availability "," Confidentiality ",Ans3
-"67. 下列何種裝置可將生理信號轉換成電腦可儲存的型態? ","數位-類比轉換器 ","放大器 ","類比-數位轉換器 ","濾波器 ",Ans3
-"68. 以下何者適用於阻絕網際網路危險延伸到內部網路? ","DNS ","gateway "," proxy "," firewall ",Ans4
-"69. 以下何項醫療設備較不具侵害性? ","CT ","endoscope "," PET","ultrasound ",Ans4
-"70. Surveillance較適合的意思是? ","調查 ","監控 ","執行 ","反應",Ans2
-"71. 以下何者不適用於做決策支援? "," regression analysis "," neuralnetwork "," expert system "," virtual reality ",Ans4
-"72. 以下何者不是一種編碼(code)標準? "," DICOM "," ICD-9","LONINC ","SNOMED ",Ans1
-"73. 便秘 "," chrom "," constipation "," cystocele "," cyst ",Ans2
-"74. 分娩 "," deliver "," delitescence "," illusion "," joint ",Ans1
-"75. 感覺異常 "," cecitis "," cachexia "," chromhidrosis "," cacesthesia",Ans4
-"76. 精神分裂症 "," siphac "," septonasal "," schizophrenia ","scleroconjunctivitis ",Ans3
-"77. 敗血症 "," septicemia "," siphac "," skeocytosis "," sacrococyx ",Ans1
-"78. 骨質疏鬆 "," rabiate "," rash "," rheumatoid arthritis "," rarefaction ofbone ",Ans4
-"79. 四肢麻痺 "," quickening "," quadrigeminal "," quadriplegia "," quinidine",Ans3
-"80. 早產，流產 "," omentitis "," ophthalmechymosis "," omotocia ","omphalocele ",Ans3
-"81. 致癌基因 "," oncogene "," oosperm "," ophthalmia neonatorum ","oophoritis ",Ans1
-"82 口臭 "," kysthoproptosis "," kyphosis "," knee reflex "," kakostomia",Ans4
-"83. 剖腹手術 "," laryngismus "," lapaotomy "," laparoscopy "," leipothymia",Ans2
-"84. 平滑肌無力 "," paludide "," leiasthenia "," incontinence "," hemophilia",Ans2 
+0. HL7 (Health Level 7) 醫療資訊標準著重於 OSI(Open Systems Interconnection ) reference model 的哪一層為主?, Data Link ,Application , Network , Presentation ,Ans2,200600,
+1. 醫院資訊系統中的病歷管理系統功能，不包括下列何者?,疾病分類登記 ,病歷查詢 ,資材供應 ,病歷歸檔作業 ,Ans3,200600,
+2. 檢傷分類分級中，需要最優先處理的是:, 一 , 二 , 三, 四 級 ,Ans1,200600,
+3. 病人在住院後，依照建議治療病人，然後由醫護人員對照實際的治療程序與差異，直到病人出院的是:,臨床準則 ,疾病分類 ,DRGs,臨床路徑 ,Ans4,200600,
+4. The suffix -algia is defined as: , record ,inflammation , pain,blood condition ,Ans3,200600,
+"5. The prefix meta- , like in the word metastasis, is defined as:", beyond , behind , small , new ,Ans1,200600,
+6. Which one is not a medical informatics standard:, CDA , ADT, SNOMED , HL7 ,Ans2,200600,
+7. Which of the following abbreviations is NOT a correct mnemonic code forthe meaning behind the abbreviation? , OB-GYN: Department ofObstetrics and Gynecology. , OR: Department of Surgery , CAR:Department of Cardiology ," ENT: Department of Ear, Nose, Throat",Ans2,200600,
+8. Which one is not clinical decision support systems? ,computer-assisteddosage systems , registration and billing systems ,preventive carereminder systems ,computer-aided quality assurance systems ,Ans2,200600,
+9. Which statement regarding biases in demonstration studies is wrong? ,Volunteer effect means volunteers perform better than others, Placeboeffect means patients’ symptoms improve if “high tech” computers arepresen," Hawthorne effect means subjects learn from the system, soperformance improves on control cases ",Checklist effect meansperformance improves if clinicians use a checklist ,Ans3,200600,
+10. Which data used for patient monitoring in ICUs is not continuous variable?,Blood pressure ,ECG ,Respiratory ,Blood chemistry,Ans4,200600,
+"11. The data modeling perspective that derives the business rules for a datamodel from an intimate understanding of the nature of the business, ratherthan from any specific information requirements in screens, reports, or business forms, is referred to as the: ", top-down approach , bottom-upapproach , overview approach , business approach ,Ans1,200600,
+"12. Graphically representing the functions, or processes, that capture, manipulate,store, and distribute data between a system and its environment and betweencomponents within a system refers to: ", data modeling , structuremodeling , process modeling , transition modeling ,Ans3,200600,
+13. A computer-based file containing employee information would berepresented on a data flow diagram as: , data flow , data store ,process , action stub ,Ans2,200600,
+14. A health determinant is a factor:, indicating the causal relationshipbetween health factor x and health effect , that has either a positive effector a negative effect on health status , that has a negative influence onhealth status , that affects health status ,Ans4,200600,
+"15. According to ""standard view"" of computer assisted clinical diagnosis,human cognitive processes should not be overridden by computers. Which ofthe following is not a supporting argument for the above position? ",Human cognition is more suited to the complex task of diagnosis thanmachine intelligence , Clinicians know and understand the patient'ssituation better than computer programs do , Clinicians can makecompassionate judgments , Clinicians can do formal logical inferencebetter than computer programs ,Ans4,200600,
+16. 結合大安區地圖與 SARS 病患分佈資料的資訊系統應用為？ ,電子地圖 ,地理資訊系統 ,專家系統 ,虛擬實境 ,Ans2,200600,
+17. 從大量資料中尋找隱藏的資訊稱為？ ,資料倉儲 ,資料搜尋 ,資料探勘 ,資料超市 ,Ans3,200600,
+18. 為了能自動表達病歷資料的時間關係，何者應被正確紀錄？,Password,Date ,Login time ,Timestamps ,Ans4,200600,
+19. PACS 的推動必須有何種標準的支持？,LOINC ,HL7 ,CDA,DICOM ,Ans4,200600,
+20. 目前美國檢驗檢查編碼系統主流 ？,LOINC ,MeSH ,UMLS,SNOMED ,Ans1,200600,
+21. One of the most important user requirements of HIS-users is the integrationbetween HIS applications. From the user's point of view at least 3 types ofintegration can be distinguished. Which integration type is not a valid one ?,Functional integration ,Data integration ,Presentation integration,Clinical integration ,Ans4,200600,
+22. Concurrency control deals with:,The control over users whosimultaneously use a computer ,The control over users who have conflicting interests ,The control over electronic messages using the samecommunication channel ,The control over users who simultaneously usethe same database ,Ans4,200600,
+23. 在程式開發階段中，程式設計師所進行的程式單元測試，是以下列那一種測試方式，找出程式可能發生的錯誤？ ,白箱測試 ,黑箱測試,壓力測試 ,接受度測試(Acceptance Testing) ,Ans1,200600,
+24. 以資訊安全的角度，來判斷辨識使用者及記錄安全性的相關活動，當特定使用者登入系統，即給予應有的適當權限，上述的設計原則是屬於那一種橘皮書的評量 ？ ,安全策略(Security Policy) ,帳戶辨識記錄能力(Accountability) ,可靠度(Assurance) ,說明文件(Documentation) ,Ans2,200600,
+25. 下列何者非建置資料倉儲之步驟？ ,建立多維度表格設計 ,資料萃取 ,資料庫正規化 ,資料清理(Data Cleaning) ,Ans3,200600,
+26. 電子病歷中的資料主要是應用於哪個部分？,對病人的直接照顧 ,醫療管理及企劃的支援 ,醫學研究及教育 ,以上皆是 ,Ans4,200600,
+27. 下列那一項不是診斷治療循環之一？,觀察 ,處置 ,治療 ,診斷 ,Ans2,200600,
+28. 能力成熟度模型(CMM)是用來評估組織資訊成熟度；請問”已擁有一標準的系統發展流程，並已整合到整個組織中的資訊系統”是指哪階段的具體表現 ？ ,管理(managed) ,最優化(optimized) ,定義(defined) ,可重複(repeatable) ,Ans3,200600,
+29. Which one of the following is NOT a body cavity:,Cranial ,Thoracic,Abdominal ,Umbilical ,Ans4,200600,
+30. 健保制度中的論病例計酬之優點不包括下列中哪一點？ ,可降低醫療資源的浪費 ,實際反應不同醫院病例組合之差異 ,可促進病人的就醫可近性 ,促使醫院重視醫療管理與衛生計劃 ,Ans3,200600,
+31. 用於問題導向病歷紀錄中的程序，稱之為： ,Physician Order Entry,Clinical Path ,Subject Object Assessment Plan ,DiagnosisRelative Group ,Ans3,200600,
+32. 一種多軸的醫學名詞命名系統，每個軸形成一完整的階層式分類方式，也包含疾病診斷名詞，是哪一種編碼系統： ,HL7 ,SNOMED,ICD-10 ,DRG ,Ans2,200600,
+33. 生理訊號除了一般以時間／強度領域來表示之外，轉換成哪一種表達方式，可以觀察頻率領域的變化： ,Power Spectrum ,FrequencyRresponse ,Wavelet Transform ,以上皆是 ,Ans1,200600,
+34. 資訊系統分析與設計，是系統專案發展兩個最重要的進度，下列哪一個工作項目不屬於系統分析階段：,查驗與審核 ,使用者需求訪談,製作規格書 ,功能介面規劃 ,Ans2,200600,
+35. Which one of the following is NOT one of the four elements generallyviewed as defining a medical datum:,The patient in question ,Theparameter being observed ,The time of the observation ,The locationwhere the observation occurred ,Ans4,200600,
+36. 從使用者角度來看，在醫院資訊系統應用程式之間的整合，下列何者較不顯著？ ,資料整合 ,平台整合 ,功能整合 ,表現整合,Ans2,200600,
+37. Which one of the following is NOT an advantage of a computer-basedpatient record over a paper-based record: ,Accessibility: paper-basedrecords are unavailable to others while the clinician is finishing updocumentation to an encounter ,Flexibility: data in computer-basedrecords can be displayed in different formats suitable for their interpretation,Ease of input: physicians usually can quickly enter data intocomputer-based records ,Data Quality: computer-based records canautomatically apply validity checks on data as they are entered ,Ans3,200600,
+38. Which one of the following is NOT a recurring issue that must be addressedwhen building an effective patient-record system: ,The need for standardsin clinical terminology. ,The difficulties associated with minimizingintegrated circuit layout geometry. ,"The concerns regarding dataprivacy,confidentiality, and security. ",Challenges of data entry byphysicians ,Ans2,200600,
+39. 下列何者不在護理知識分類之列？,專業性知識 ,推論性知識 ,策略性知識 ,輔助性知識 ,Ans4,200600,
+40. Which item listed below would NOT be among the five specific criteria forproject selection? ,backing from management ,availability ofresources for the project ,high interest in a project technical featuresamong the programming staff ,contribution of the project towardfurthering or improving organizational goals or performance ,Ans3,200600,
+41. How much time should be spent performing a feasibility study? ,only aslong as needed to determine feasibility in broad terms ,as much time asmanagement will allow since that is the only way to prevent project failure,as much time as possible to save time in the later stages of projectdevelopment ,feasibility studies typically comprise at least half of the totaltime required for a project ,Ans1,200600,
+42. Which of the following would be considered in assessing technical feasibility?,whether the technology is available and able to be implemented in thecurrent environment ,whether the technology is in use by the competition,whether the technology costs are within budget ,whether the technology can be implemented within the project deadline ,Ans1,200600,
+43. Which method of administering a questionnaire will likely generate thelowest response rate? ,administering the questionnaire via email,convening the respondents together at one time for the purpose ofadministering the questionnaire ,personally distributing and collecting thequestionnaire ,Allow respondents to self-administer and return thequestionnaire ,Ans4,200600,
+44. 下列敘述何者錯誤：,SSL(Secure Sockets Layer)普遍用來保護網路上的通訊安全，是在 TCP/IP 的通訊協定和應用程式之間運作 ,SET(SecureElectronic Transaction)用來保護電子商務付款交易的機制，採用秘密鑰匙(Secret-Key)加密法 ,數位簽章(Digital Signature)配合公開鑰匙(Public-Key)加密法來解決身份認證和訊息真確性的問題 ,數位浮水印(Digital Watermarks)是應用隱藏學(Steganography)技術將資訊藏在其它圖形、訊息或影音資料中 ,Ans2,200600,
+45. 針對軟體工程(Software Engineering)的敘述，下列何者為是：,"資料流程圖(Data Flow Diagram,DFD)用以表達系統的動態資料流程所採用的資料結構","資料字典(Data Dictionary,DD)描述條件、規則以及所採取的行動方針 ","資料結構圖(Data Structure Diagram,DSD)個別描述資料流程圖中所使用到的資料流、檔案以及處理程序 ",決策樹(Decision Tree)描述檔案的組成與關係，屬於靜態的資料結構 ,Ans1,200600,
+46. 資料通訊傳輸速度的單位為下列何者？,MIPS ,BPS ,CPS,BPI ,Ans2,200600,
+47. 以下哪一個項目，與網路安全中的加解密沒有直接的關係？,PIK:Public Key Infrastructure ,CA: Certificate Authority ,RFID:Radio frequency identification ,Digital Signature ,Ans3,200600,
+48. 徵候及症狀的英文簡稱 ,S&S ,CC ,PE ,Hx ,Ans1,200600,
+49. 血壓的英文簡稱 ,BR ,BH ,BP ,BF ,Ans3,200600,
+"50. 某家醫療院所因應每日健保 IC 卡資料上傳而向電信業者租 ADSL 512Kb 的頻寬，512 Kb 的 b 代表：""",Byte , Bit ,Bite ,以上皆非,Ans2,200600,
+51. 透過視訊與資訊，讓離島或?遠?有某種專科醫生也可立即為病人提供醫療臨床服務，此種方式稱為：, 遠距會診 , 遠距教學 ,遠距照護 ,以上皆非 ,Ans1,200600,
+52. 現行衛生署和教育部實施之醫院評鑑中，將教學醫院評鑑等級分為幾類？ ,一 , 二 ,三 ,四 ,Ans2,200600,
+53. 行政院衛生署依電子簽章法，將何者列為未來 3-5 年主要推動的計畫：,醫療系統自動化 , 電腦化病歷系統 ,電子病歷 , 行動醫療,Ans3 ,200600,
+54. 下列那一項故障或?損對醫院的風險最大： ,電腦主機故障 ,病人資料?損或錯誤 ,網路設備故障 ,作業系統(OS)故障 ,Ans2,200600,
+55. 主機或網路採高可靠性(HA)架構，其目的主要為：, 平均分擔系統負荷，提升系統運作效能 ,一部故障時，另一部可即時承接，保持系統不中斷 , 可提高設備單位使用效益，讓主機/網路單位時間內發揮大產能 , 節省醫院資訊系統投資成本 ,Ans2,200600,
+56. 下列那些是醫院推動平衡記分卡(BSC)所希望獲得的效益： , 提高資料剖析能力及決策效率 , 發掘問題、改善作業流程 , 方便取得即時資料,以上皆是 ,Ans4,200600,
+57. 下列何者不是防火牆的主要功能：, 資料加密 , 企業內/外 IP 之轉換 , 偵測與阻檔異常之使用者/封包(入侵) , 記錄進出(log),Ans1,200600,
+58. 現行我國行政院衛生署推動之 HCA 認證中，可用於病人就診時讀取病人重大傷病等病人?私資料者為：,醫療機構卡 ,醫事人員卡 ,病人 IC 卡,自然人憑證 ,Ans2,200600,
+59. 資料庫查詢語言(SQL)中，要刪除整個資料表(table)，陳述指令為：,DROP , DELETE ,UPDATE , ERASE ,Ans1,200600,
+60. 兩個資料表(table)要產生關聯(relation)，必須要有 Key，下列描述何者為非：,外部參考鍵(Foreign Key)的值可重覆 , 主鍵(Primary Key) 的值不可為 NULL ,主鍵(Primary Key)的值可重覆 , 以上皆是,Ans3,200600,
+61. 以醫療資訊的領域而言，何謂 PACS ？ , Pan American ClimateStudies , Physics and Astronomy Classification Scheme , PhotodetectorArray Camera & Spectrometer , Pictures Archiving and CommunicationSystem ,Ans4,200600,
+62. 某醫院發現有時候同一份資料有兩個人同時修改，這應該是資料庫哪項控制出了問題？,Access control , Accuracy control , Concurrentcontrol , Integrity control ,Ans3,200600,
+63. 布林代數（Boolean algebra）用 1 代表真（true）用 0 代表偽 (false)，用P 代表述句 A 之真偽值，Q 代表述句 B 之真偽值，那麼 述句『A 且 B』的真偽值可以表示為 A 與 B , 相加 , 相減 , 相乘 , 相除,Ans3,200600,
+64. 輸入資料之正確性相當重要，以下哪一項可能對提高正確性幫助不大？,使用高速電腦 , 讓使用者可以看到其所輸入的資料 , 由兩個人輸入相同的資料，再比對之 , 盡量使用勾選 ,Ans1,200600,
+65. 一張 512x512 的黑白照片，需要 0.25MB(mega byte)，則該照片之灰階值有幾個？ ,8,32,128,256,Ans4,200600,
+66. 做備份主要是為了提昇資料之 ,Accuracy , Integrity , Availability , Confidentiality ,Ans3,200600,
+67. 下列何種裝置可將生理信號轉換成電腦可儲存的型態? ,數位-類比轉換器 ,放大器 ,類比-數位轉換器 ,濾波器 ,Ans3,200600,
+68. 以下何者適用於阻絕網際網路危險延伸到內部網路? ,DNS ,gateway , proxy , firewall ,Ans4,200600,
+69. 以下何項醫療設備較不具侵害性? ,CT ,endoscope , PET,ultrasound ,Ans4,200600,
+70. Surveillance較適合的意思是? ,調查 ,監控 ,執行 ,反應,Ans2,200600,
+71. 以下何者不適用於做決策支援? , regression analysis , neuralnetwork , expert system , virtual reality ,Ans4,200600,
+72. 以下何者不是一種編碼(code)標準? , DICOM , ICD-9,LONINC ,SNOMED ,Ans1,200600,
+73. 便秘 , chrom , constipation , cystocele , cyst ,Ans2,200600,
+74. 分娩 , deliver , delitescence , illusion , joint ,Ans1,200600,
+75. 感覺異常 , cecitis , cachexia , chromhidrosis , cacesthesia,Ans4,200600,
+76. 精神分裂症 , siphac , septonasal , schizophrenia ,scleroconjunctivitis ,Ans3,200600,
+77. 敗血症 , septicemia , siphac , skeocytosis , sacrococyx ,Ans1,200600,
+78. 骨質疏鬆 , rabiate , rash , rheumatoid arthritis , rarefaction ofbone ,Ans4,200600,
+79. 四肢麻痺 , quickening , quadrigeminal , quadriplegia , quinidine,Ans3,200600,
+80. 早產，流產 , omentitis , ophthalmechymosis , omotocia ,omphalocele ,Ans3,200600,
+81. 致癌基因 , oncogene , oosperm , ophthalmia neonatorum ,oophoritis ,Ans1,200600,
+82 口臭 , kysthoproptosis , kyphosis , knee reflex , kakostomia,Ans4,200600,
+83. 剖腹手術 , laryngismus , lapaotomy , laparoscopy , leipothymia,Ans2,200600,
+84. 平滑肌無力 , paludide , leiasthenia , incontinence , hemophilia,Ans2 ,200600,
