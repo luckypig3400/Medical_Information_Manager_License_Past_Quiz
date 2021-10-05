@@ -1,86 +1,86 @@
-Question,Answer1,Answer2,Answer3,Answer4,Correct Answer(s)
-"0. HL7 (Health Level 7) é†«ç™‚è³‡è¨Šæ¨™æº–è‘—é‡æ–¼ OSI(Open Systems Interconnection ) reference model çš„å“ªä¸€å±¤ç‚ºä¸»?"," Data Link ","Application "," Network "," Presentation ",Ans2
-"1. é†«é™¢è³‡è¨Šç³»çµ±ä¸­çš„ç—…æ­·ç®¡ç†ç³»çµ±åŠŸèƒ½ï¼Œä¸åŒ…æ‹¬ä¸‹åˆ—ä½•è€…?","ç–¾ç—…åˆ†é¡ç™»è¨˜ ","ç—…æ­·æŸ¥è©¢ ","è³‡æä¾›æ‡‰ ","ç—…æ­·æ­¸æª”ä½œæ¥­ ",Ans3
-"2. æª¢å‚·åˆ†é¡åˆ†ç´šä¸­ï¼Œéœ€è¦æœ€å„ªå…ˆè™•ç†çš„æ˜¯:"," ä¸€ "," äºŒ "," ä¸‰"," å›› ç´š ",Ans1
-"3. ç—…äººåœ¨ä½é™¢å¾Œï¼Œä¾ç…§å»ºè­°æ²»ç™‚ç—…äººï¼Œç„¶å¾Œç”±é†«è­·äººå“¡å°ç…§å¯¦éš›çš„æ²»ç™‚ç¨‹åºèˆ‡å·®ç•°ï¼Œç›´åˆ°ç—…äººå‡ºé™¢çš„æ˜¯:","è‡¨åºŠæº–å‰‡ ","ç–¾ç—…åˆ†é¡ ","DRGs","è‡¨åºŠè·¯å¾‘ ",Ans4
+Question,Answer1,Answer2,Answer3,Answer4,Correct Answer(s,Year,Chapter
+"0. HL7 (Health Level 7) ÂåÀø¸ê°T¼Ğ·ÇµÛ­«©ó OSI(Open Systems Interconnection ) reference model ªº­ş¤@¼h¬°¥D?"," Data Link ","Application "," Network "," Presentation ",Ans2
+"1. Âå°|¸ê°T¨t²Î¤¤ªº¯f¾úºŞ²z¨t²Î¥\¯à¡A¤£¥]¬A¤U¦C¦óªÌ?","¯e¯f¤ÀÃşµn°O ","¯f¾ú¬d¸ß ","¸ê§÷¨ÑÀ³ ","¯f¾úÂkÀÉ§@·~ ",Ans3
+"2. ÀË¶Ë¤ÀÃş¤À¯Å¤¤¡A»İ­n³ÌÀu¥ı³B²zªº¬O:"," ¤@ "," ¤G "," ¤T"," ¥| ¯Å ",Ans1
+"3. ¯f¤H¦b¦í°|«á¡A¨Ì·Ó«ØÄ³ªvÀø¯f¤H¡AµM«á¥ÑÂåÅ@¤H­û¹ï·Ó¹ê»ÚªºªvÀøµ{§Ç»P®t²§¡Aª½¨ì¯f¤H¥X°|ªº¬O:","Á{§É·Ç«h ","¯e¯f¤ÀÃş ","DRGs","Á{§É¸ô®| ",Ans4
 "4. The suffix -algia is defined as: "," record ","inflammation "," pain","blood condition ",Ans3
 "5. The prefix meta- , like in the word metastasis, is defined as:"," beyond "," behind "," small "," new ",Ans1
 "6. Which one is not a medical informatics standard:"," CDA "," ADT"," SNOMED "," HL7 ",Ans2
 "7. Which of the following abbreviations is NOT a correct mnemonic code forthe meaning behind the abbreviation? "," OB-GYN: Department ofObstetrics and Gynecology. "," OR: Department of Surgery "," CAR:Department of Cardiology "," ENT: Department of Ear, Nose, Throat",Ans2
 "8. Which one is not clinical decision support systems? ","computer-assisteddosage systems "," registration and billing systems ","preventive carereminder systems ","computer-aided quality assurance systems ",Ans2
-"9. Which statement regarding biases in demonstration studies is wrong? ","Volunteer effect means volunteers perform better than others"," Placeboeffect means patientsâ€™ symptoms improve if â€œhigh techâ€ computers arepresen"," Hawthorne effect means subjects learn from the system, soperformance improves on control cases ","Checklist effect meansperformance improves if clinicians use a checklist ",Ans3
+"9. Which statement regarding biases in demonstration studies is wrong? ","Volunteer effect means volunteers perform better than others"," Placeboeffect means patients¡¦ symptoms improve if ¡§high tech¡¨ computers arepresen"," Hawthorne effect means subjects learn from the system, soperformance improves on control cases ","Checklist effect meansperformance improves if clinicians use a checklist ",Ans3
 "10. Which data used for patient monitoring in ICUs is not continuous variable?","Blood pressure ","ECG ","Respiratory ","Blood chemistry",Ans4
 "11. The data modeling perspective that derives the business rules for a datamodel from an intimate understanding of the nature of the business, ratherthan from any specific information requirements in screens, reports, or business forms, is referred to as the: "," top-down approach "," bottom-upapproach "," overview approach "," business approach ",Ans1
 "12. Graphically representing the functions, or processes, that capture, manipulate,store, and distribute data between a system and its environment and betweencomponents within a system refers to: "," data modeling "," structuremodeling "," process modeling "," transition modeling ",Ans3
 "13. A computer-based file containing employee information would berepresented on a data flow diagram as: "," data flow "," data store ","process "," action stub ",Ans2
 "14. A health determinant is a factor:"," indicating the causal relationshipbetween health factor x and health effect "," that has either a positive effector a negative effect on health status "," that has a negative influence onhealth status "," that affects health status ",Ans4
 "15. According to ""standard view"" of computer assisted clinical diagnosis,human cognitive processes should not be overridden by computers. Which ofthe following is not a supporting argument for the above position? ","Human cognition is more suited to the complex task of diagnosis thanmachine intelligence "," Clinicians know and understand the patient'ssituation better than computer programs do "," Clinicians can makecompassionate judgments "," Clinicians can do formal logical inferencebetter than computer programs ",Ans4
-"16. çµåˆå¤§å®‰å€åœ°åœ–èˆ‡ SARS ç—…æ‚£åˆ†ä½ˆè³‡æ–™çš„è³‡è¨Šç³»çµ±æ‡‰ç”¨ç‚ºï¼Ÿ ","é›»å­åœ°åœ– ","åœ°ç†è³‡è¨Šç³»çµ± ","å°ˆå®¶ç³»çµ± ","è™›æ“¬å¯¦å¢ƒ ",Ans2
-"17. å¾å¤§é‡è³‡æ–™ä¸­å°‹æ‰¾éš±è—çš„è³‡è¨Šç¨±ç‚ºï¼Ÿ ","è³‡æ–™å€‰å„² ","è³‡æ–™æœå°‹ ","è³‡æ–™æ¢å‹˜ ","è³‡æ–™è¶…å¸‚ ",Ans3
-"18. ç‚ºäº†èƒ½è‡ªå‹•è¡¨é”ç—…æ­·è³‡æ–™çš„æ™‚é–“é—œä¿‚ï¼Œä½•è€…æ‡‰è¢«æ­£ç¢ºç´€éŒ„ï¼Ÿ","Password","Date ","Login time ","Timestamps ",Ans4
-"19. PACS çš„æ¨å‹•å¿…é ˆæœ‰ä½•ç¨®æ¨™æº–çš„æ”¯æŒï¼Ÿ","LOINC ","HL7 ","CDA","DICOM ",Ans4
-"20. ç›®å‰ç¾åœ‹æª¢é©—æª¢æŸ¥ç·¨ç¢¼ç³»çµ±ä¸»æµ ï¼Ÿ","LOINC ","MeSH ","UMLS","SNOMED ",Ans1
+"16. µ²¦X¤j¦w°Ï¦a¹Ï»P SARS ¯f±w¤À§G¸ê®Æªº¸ê°T¨t²ÎÀ³¥Î¬°¡H ","¹q¤l¦a¹Ï ","¦a²z¸ê°T¨t²Î ","±M®a¨t²Î ","µêÀÀ¹ê¹Ò ",Ans2
+"17. ±q¤j¶q¸ê®Æ¤¤´M§äÁôÂÃªº¸ê°TºÙ¬°¡H ","¸ê®Æ­ÜÀx ","¸ê®Æ·j´M ","¸ê®Æ±´°É ","¸ê®Æ¶W¥« ",Ans3
+"18. ¬°¤F¯à¦Û°Êªí¹F¯f¾ú¸ê®Æªº®É¶¡Ãö«Y¡A¦óªÌÀ³³Q¥¿½T¬ö¿ı¡H","Password","Date ","Login time ","Timestamps ",Ans4
+"19. PACS ªº±À°Ê¥²¶·¦³¦óºØ¼Ğ·Çªº¤ä«ù¡H","LOINC ","HL7 ","CDA","DICOM ",Ans4
+"20. ¥Ø«e¬ü°êÀËÅçÀË¬d½s½X¨t²Î¥D¬y ¡H","LOINC ","MeSH ","UMLS","SNOMED ",Ans1
 "21. One of the most important user requirements of HIS-users is the integrationbetween HIS applications. From the user's point of view at least 3 types ofintegration can be distinguished. Which integration type is not a valid one ?","Functional integration ","Data integration ","Presentation integration","Clinical integration ",Ans4
 "22. Concurrency control deals with:","The control over users whosimultaneously use a computer ","The control over users who have conflicting interests ","The control over electronic messages using the samecommunication channel ","The control over users who simultaneously usethe same database ",Ans4
-"23. åœ¨ç¨‹å¼é–‹ç™¼éšæ®µä¸­ï¼Œç¨‹å¼è¨­è¨ˆå¸«æ‰€é€²è¡Œçš„ç¨‹å¼å–®å…ƒæ¸¬è©¦ï¼Œæ˜¯ä»¥ä¸‹åˆ—é‚£ä¸€ç¨®æ¸¬è©¦æ–¹å¼ï¼Œæ‰¾å‡ºç¨‹å¼å¯èƒ½ç™¼ç”Ÿçš„éŒ¯èª¤ï¼Ÿ ","ç™½ç®±æ¸¬è©¦ ","é»‘ç®±æ¸¬è©¦","å£“åŠ›æ¸¬è©¦ ","æ¥å—åº¦æ¸¬è©¦(Acceptance Testing) ",Ans1
-"24. ä»¥è³‡è¨Šå®‰å…¨çš„è§’åº¦ï¼Œä¾†åˆ¤æ–·è¾¨è­˜ä½¿ç”¨è€…åŠè¨˜éŒ„å®‰å…¨æ€§çš„ç›¸é—œæ´»å‹•ï¼Œç•¶ç‰¹å®šä½¿ç”¨è€…ç™»å…¥ç³»çµ±ï¼Œå³çµ¦äºˆæ‡‰æœ‰çš„é©ç•¶æ¬Šé™ï¼Œä¸Šè¿°çš„è¨­è¨ˆåŸå‰‡æ˜¯å±¬æ–¼é‚£ä¸€ç¨®æ©˜çš®æ›¸çš„è©•é‡ ï¼Ÿ ","å®‰å…¨ç­–ç•¥(Security Policy) ","å¸³æˆ¶è¾¨è­˜è¨˜éŒ„èƒ½åŠ›(Accountability) ","å¯é åº¦(Assurance) ","èªªæ˜æ–‡ä»¶(Documentation) ",Ans2
-"25. ä¸‹åˆ—ä½•è€…éå»ºç½®è³‡æ–™å€‰å„²ä¹‹æ­¥é©Ÿï¼Ÿ ","å»ºç«‹å¤šç¶­åº¦è¡¨æ ¼è¨­è¨ˆ ","è³‡æ–™èƒå– ","è³‡æ–™åº«æ­£è¦åŒ– ","è³‡æ–™æ¸…ç†(Data Cleaning) ",Ans3
-"26. é›»å­ç—…æ­·ä¸­çš„è³‡æ–™ä¸»è¦æ˜¯æ‡‰ç”¨æ–¼å“ªå€‹éƒ¨åˆ†ï¼Ÿ","å°ç—…äººçš„ç›´æ¥ç…§é¡§ ","é†«ç™‚ç®¡ç†åŠä¼åŠƒçš„æ”¯æ´ ","é†«å­¸ç ”ç©¶åŠæ•™è‚² ","ä»¥ä¸Šçš†æ˜¯ ",Ans4
-"27. ä¸‹åˆ—é‚£ä¸€é …ä¸æ˜¯è¨ºæ–·æ²»ç™‚å¾ªç’°ä¹‹ä¸€ï¼Ÿ","è§€å¯Ÿ ","è™•ç½® ","æ²»ç™‚ ","è¨ºæ–· ",Ans2
-"28. èƒ½åŠ›æˆç†Ÿåº¦æ¨¡å‹(CMM)æ˜¯ç”¨ä¾†è©•ä¼°çµ„ç¹”è³‡è¨Šæˆç†Ÿåº¦ï¼›è«‹å•â€å·²æ“æœ‰ä¸€æ¨™æº–çš„ç³»çµ±ç™¼å±•æµç¨‹ï¼Œä¸¦å·²æ•´åˆåˆ°æ•´å€‹çµ„ç¹”ä¸­çš„è³‡è¨Šç³»çµ±â€æ˜¯æŒ‡å“ªéšæ®µçš„å…·é«”è¡¨ç¾ ï¼Ÿ ","ç®¡ç†(managed) ","æœ€å„ªåŒ–(optimized) ","å®šç¾©(defined) ","å¯é‡è¤‡(repeatable) ",Ans3
+"23. ¦bµ{¦¡¶}µo¶¥¬q¤¤¡Aµ{¦¡³]­p®v©Ò¶i¦æªºµ{¦¡³æ¤¸´ú¸Õ¡A¬O¥H¤U¦C¨º¤@ºØ´ú¸Õ¤è¦¡¡A§ä¥Xµ{¦¡¥i¯àµo¥Íªº¿ù»~¡H ","¥Õ½c´ú¸Õ ","¶Â½c´ú¸Õ","À£¤O´ú¸Õ ","±µ¨ü«×´ú¸Õ(Acceptance Testing) ",Ans1
+"24. ¥H¸ê°T¦w¥şªº¨¤«×¡A¨Ó§PÂ_¿ëÃÑ¨Ï¥ÎªÌ¤Î°O¿ı¦w¥ş©Êªº¬ÛÃö¬¡°Ê¡A·í¯S©w¨Ï¥ÎªÌµn¤J¨t²Î¡A§Yµ¹¤©À³¦³ªº¾A·íÅv­­¡A¤W­zªº³]­p­ì«h¬OÄİ©ó¨º¤@ºØ¾ï¥Ö®Ñªºµû¶q ¡H ","¦w¥şµ¦²¤(Security Policy) ","±b¤á¿ëÃÑ°O¿ı¯à¤O(Accountability) ","¥i¾a«×(Assurance) ","»¡©ú¤å¥ó(Documentation) ",Ans2
+"25. ¤U¦C¦óªÌ«D«Ø¸m¸ê®Æ­ÜÀx¤§¨BÆJ¡H ","«Ø¥ß¦hºû«×ªí®æ³]­p ","¸ê®ÆµÑ¨ú ","¸ê®Æ®w¥¿³W¤Æ ","¸ê®Æ²M²z(Data Cleaning) ",Ans3
+"26. ¹q¤l¯f¾ú¤¤ªº¸ê®Æ¥D­n¬OÀ³¥Î©ó­ş­Ó³¡¤À¡H","¹ï¯f¤Hªºª½±µ·ÓÅU ","ÂåÀøºŞ²z¤Î¥ø¹ºªº¤ä´© ","Âå¾Ç¬ã¨s¤Î±Ğ¨| ","¥H¤W¬Ò¬O ",Ans4
+"27. ¤U¦C¨º¤@¶µ¤£¬O¶EÂ_ªvÀø´`Àô¤§¤@¡H","Æ[¹î ","³B¸m ","ªvÀø ","¶EÂ_ ",Ans2
+"28. ¯à¤O¦¨¼ô«×¼Ò«¬(CMM)¬O¥Î¨Óµû¦ô²ÕÂ´¸ê°T¦¨¼ô«×¡F½Ğ°İ¡¨¤w¾Ö¦³¤@¼Ğ·Çªº¨t²Îµo®i¬yµ{¡A¨Ã¤w¾ã¦X¨ì¾ã­Ó²ÕÂ´¤¤ªº¸ê°T¨t²Î¡¨¬O«ü­ş¶¥¬qªº¨ãÅéªí²{ ¡H ","ºŞ²z(managed) ","³ÌÀu¤Æ(optimized) ","©w¸q(defined) ","¥i­«½Æ(repeatable) ",Ans3
 "29. Which one of the following is NOT a body cavity:","Cranial ","Thoracic","Abdominal ","Umbilical ",Ans4
-"30. å¥ä¿åˆ¶åº¦ä¸­çš„è«–ç—…ä¾‹è¨ˆé…¬ä¹‹å„ªé»ä¸åŒ…æ‹¬ä¸‹åˆ—ä¸­å“ªä¸€é»ï¼Ÿ ","å¯é™ä½é†«ç™‚è³‡æºçš„æµªè²» ","å¯¦éš›åæ‡‰ä¸åŒé†«é™¢ç—…ä¾‹çµ„åˆä¹‹å·®ç•° ","å¯ä¿ƒé€²ç—…äººçš„å°±é†«å¯è¿‘æ€§ ","ä¿ƒä½¿é†«é™¢é‡è¦–é†«ç™‚ç®¡ç†èˆ‡è¡›ç”Ÿè¨ˆåŠƒ ",Ans3
-"31. ç”¨æ–¼å•é¡Œå°å‘ç—…æ­·ç´€éŒ„ä¸­çš„ç¨‹åºï¼Œç¨±ä¹‹ç‚ºï¼š ","Physician Order Entry","Clinical Path ","Subject Object Assessment Plan ","DiagnosisRelative Group ",Ans3
-"32. ä¸€ç¨®å¤šè»¸çš„é†«å­¸åè©å‘½åç³»çµ±ï¼Œæ¯å€‹è»¸å½¢æˆä¸€å®Œæ•´çš„éšå±¤å¼åˆ†é¡æ–¹å¼ï¼Œä¹ŸåŒ…å«ç–¾ç—…è¨ºæ–·åè©ï¼Œæ˜¯å“ªä¸€ç¨®ç·¨ç¢¼ç³»çµ±ï¼š ","HL7 ","SNOMED","ICD-10 ","DRG ",Ans2
-"33. ç”Ÿç†è¨Šè™Ÿé™¤äº†ä¸€èˆ¬ä»¥æ™‚é–“ï¼å¼·åº¦é ˜åŸŸä¾†è¡¨ç¤ºä¹‹å¤–ï¼Œè½‰æ›æˆå“ªä¸€ç¨®è¡¨é”æ–¹å¼ï¼Œå¯ä»¥è§€å¯Ÿé »ç‡é ˜åŸŸçš„è®ŠåŒ–ï¼š ","Power Spectrum ","FrequencyRresponse ","Wavelet Transform ","ä»¥ä¸Šçš†æ˜¯ ",Ans1
-"34. è³‡è¨Šç³»çµ±åˆ†æèˆ‡è¨­è¨ˆï¼Œæ˜¯ç³»çµ±å°ˆæ¡ˆç™¼å±•å…©å€‹æœ€é‡è¦çš„é€²åº¦ï¼Œä¸‹åˆ—å“ªä¸€å€‹å·¥ä½œé …ç›®ä¸å±¬æ–¼ç³»çµ±åˆ†æéšæ®µï¼š","æŸ¥é©—èˆ‡å¯©æ ¸ ","ä½¿ç”¨è€…éœ€æ±‚è¨ªè«‡","è£½ä½œè¦æ ¼æ›¸ ","åŠŸèƒ½ä»‹é¢è¦åŠƒ ",Ans2
+"30. °·«O¨î«×¤¤ªº½×¯f¨Ò­p¹S¤§ÀuÂI¤£¥]¬A¤U¦C¤¤­ş¤@ÂI¡H ","¥i­°§CÂåÀø¸ê·½ªº®ö¶O ","¹ê»Ú¤ÏÀ³¤£¦PÂå°|¯f¨Ò²Õ¦X¤§®t²§ ","¥i«P¶i¯f¤Hªº´NÂå¥iªñ©Ê ","«P¨ÏÂå°|­«µøÂåÀøºŞ²z»P½Ã¥Í­p¹º ",Ans3
+"31. ¥Î©ó°İÃD¾É¦V¯f¾ú¬ö¿ı¤¤ªºµ{§Ç¡AºÙ¤§¬°¡G ","Physician Order Entry","Clinical Path ","Subject Object Assessment Plan ","DiagnosisRelative Group ",Ans3
+"32. ¤@ºØ¦h¶bªºÂå¾Ç¦Wµü©R¦W¨t²Î¡A¨C­Ó¶b§Î¦¨¤@§¹¾ãªº¶¥¼h¦¡¤ÀÃş¤è¦¡¡A¤]¥]§t¯e¯f¶EÂ_¦Wµü¡A¬O­ş¤@ºØ½s½X¨t²Î¡G ","HL7 ","SNOMED","ICD-10 ","DRG ",Ans2
+"33. ¥Í²z°T¸¹°£¤F¤@¯ë¥H®É¶¡¡ş±j«×»â°ì¨Óªí¥Ü¤§¥~¡AÂà´«¦¨­ş¤@ºØªí¹F¤è¦¡¡A¥i¥HÆ[¹îÀW²v»â°ìªºÅÜ¤Æ¡G ","Power Spectrum ","FrequencyRresponse ","Wavelet Transform ","¥H¤W¬Ò¬O ",Ans1
+"34. ¸ê°T¨t²Î¤ÀªR»P³]­p¡A¬O¨t²Î±M®×µo®i¨â­Ó³Ì­«­nªº¶i«×¡A¤U¦C­ş¤@­Ó¤u§@¶µ¥Ø¤£Äİ©ó¨t²Î¤ÀªR¶¥¬q¡G","¬dÅç»P¼f®Ö ","¨Ï¥ÎªÌ»İ¨D³X½Í","»s§@³W®æ®Ñ ","¥\¯à¤¶­±³W¹º ",Ans2
 "35. Which one of the following is NOT one of the four elements generallyviewed as defining a medical datum:","The patient in question ","Theparameter being observed ","The time of the observation ","The locationwhere the observation occurred ",Ans4
-"36. å¾ä½¿ç”¨è€…è§’åº¦ä¾†çœ‹ï¼Œåœ¨é†«é™¢è³‡è¨Šç³»çµ±æ‡‰ç”¨ç¨‹å¼ä¹‹é–“çš„æ•´åˆï¼Œä¸‹åˆ—ä½•è€…è¼ƒä¸é¡¯è‘—ï¼Ÿ ","è³‡æ–™æ•´åˆ ","å¹³å°æ•´åˆ ","åŠŸèƒ½æ•´åˆ ","è¡¨ç¾æ•´åˆ",Ans2
+"36. ±q¨Ï¥ÎªÌ¨¤«×¨Ó¬İ¡A¦bÂå°|¸ê°T¨t²ÎÀ³¥Îµ{¦¡¤§¶¡ªº¾ã¦X¡A¤U¦C¦óªÌ¸û¤£ÅãµÛ¡H ","¸ê®Æ¾ã¦X ","¥­¥x¾ã¦X ","¥\¯à¾ã¦X ","ªí²{¾ã¦X",Ans2
 "37. Which one of the following is NOT an advantage of a computer-basedpatient record over a paper-based record: ","Accessibility: paper-basedrecords are unavailable to others while the clinician is finishing updocumentation to an encounter ","Flexibility: data in computer-basedrecords can be displayed in different formats suitable for their interpretation","Ease of input: physicians usually can quickly enter data intocomputer-based records ","Data Quality: computer-based records canautomatically apply validity checks on data as they are entered ",Ans3
 "38. Which one of the following is NOT a recurring issue that must be addressedwhen building an effective patient-record system: ","The need for standardsin clinical terminology. ","The difficulties associated with minimizingintegrated circuit layout geometry. ","The concerns regarding dataprivacy,confidentiality, and security. ","Challenges of data entry byphysicians ",Ans2
-"39. ä¸‹åˆ—ä½•è€…ä¸åœ¨è­·ç†çŸ¥è­˜åˆ†é¡ä¹‹åˆ—ï¼Ÿ","å°ˆæ¥­æ€§çŸ¥è­˜ ","æ¨è«–æ€§çŸ¥è­˜ ","ç­–ç•¥æ€§çŸ¥è­˜ ","è¼”åŠ©æ€§çŸ¥è­˜ ",Ans4
+"39. ¤U¦C¦óªÌ¤£¦bÅ@²zª¾ÃÑ¤ÀÃş¤§¦C¡H","±M·~©Êª¾ÃÑ ","±À½×©Êª¾ÃÑ ","µ¦²¤©Êª¾ÃÑ ","»²§U©Êª¾ÃÑ ",Ans4
 "40. Which item listed below would NOT be among the five specific criteria forproject selection? ","backing from management ","availability ofresources for the project ","high interest in a project technical featuresamong the programming staff ","contribution of the project towardfurthering or improving organizational goals or performance ",Ans3
 "41. How much time should be spent performing a feasibility study? ","only aslong as needed to determine feasibility in broad terms ","as much time asmanagement will allow since that is the only way to prevent project failure","as much time as possible to save time in the later stages of projectdevelopment ","feasibility studies typically comprise at least half of the totaltime required for a project ",Ans1
 "42. Which of the following would be considered in assessing technical feasibility?","whether the technology is available and able to be implemented in thecurrent environment ","whether the technology is in use by the competition","whether the technology costs are within budget ","whether the technology can be implemented within the project deadline ",Ans1
 "43. Which method of administering a questionnaire will likely generate thelowest response rate? ","administering the questionnaire via email","convening the respondents together at one time for the purpose ofadministering the questionnaire ","personally distributing and collecting thequestionnaire ","Allow respondents to self-administer and return thequestionnaire ",Ans4
-"44. ä¸‹åˆ—æ•˜è¿°ä½•è€…éŒ¯èª¤ï¼š","SSL(Secure Sockets Layer)æ™®éç”¨ä¾†ä¿è­·ç¶²è·¯ä¸Šçš„é€šè¨Šå®‰å…¨ï¼Œæ˜¯åœ¨ TCP/IP çš„é€šè¨Šå”å®šå’Œæ‡‰ç”¨ç¨‹å¼ä¹‹é–“é‹ä½œ ","SET(SecureElectronic Transaction)ç”¨ä¾†ä¿è­·é›»å­å•†å‹™ä»˜æ¬¾äº¤æ˜“çš„æ©Ÿåˆ¶ï¼Œæ¡ç”¨ç§˜å¯†é‘°åŒ™(Secret-Key)åŠ å¯†æ³• ","æ•¸ä½ç°½ç« (Digital Signature)é…åˆå…¬é–‹é‘°åŒ™(Public-Key)åŠ å¯†æ³•ä¾†è§£æ±ºèº«ä»½èªè­‰å’Œè¨Šæ¯çœŸç¢ºæ€§çš„å•é¡Œ ","æ•¸ä½æµ®æ°´å°(Digital Watermarks)æ˜¯æ‡‰ç”¨éš±è—å­¸(Steganography)æŠ€è¡“å°‡è³‡è¨Šè—åœ¨å…¶å®ƒåœ–å½¢ã€è¨Šæ¯æˆ–å½±éŸ³è³‡æ–™ä¸­ ",Ans2
-"45. é‡å°è»Ÿé«”å·¥ç¨‹(Software Engineering)çš„æ•˜è¿°ï¼Œä¸‹åˆ—ä½•è€…ç‚ºæ˜¯ï¼š","è³‡æ–™æµç¨‹åœ–(Data Flow Diagram,DFD)ç”¨ä»¥è¡¨é”ç³»çµ±çš„å‹•æ…‹è³‡æ–™æµç¨‹æ‰€æ¡ç”¨çš„è³‡æ–™çµæ§‹","è³‡æ–™å­—å…¸(Data Dictionary,DD)æè¿°æ¢ä»¶ã€è¦å‰‡ä»¥åŠæ‰€æ¡å–çš„è¡Œå‹•æ–¹é‡ ","è³‡æ–™çµæ§‹åœ–(Data Structure Diagram,DSD)å€‹åˆ¥æè¿°è³‡æ–™æµç¨‹åœ–ä¸­æ‰€ä½¿ç”¨åˆ°çš„è³‡æ–™æµã€æª”æ¡ˆä»¥åŠè™•ç†ç¨‹åº ","æ±ºç­–æ¨¹(Decision Tree)æè¿°æª”æ¡ˆçš„çµ„æˆèˆ‡é—œä¿‚ï¼Œå±¬æ–¼éœæ…‹çš„è³‡æ–™çµæ§‹ ",Ans1
-"46. è³‡æ–™é€šè¨Šå‚³è¼¸é€Ÿåº¦çš„å–®ä½ç‚ºä¸‹åˆ—ä½•è€…ï¼Ÿ","MIPS ","BPS ","CPS","BPI ",Ans2
-"47. ä»¥ä¸‹å“ªä¸€å€‹é …ç›®ï¼Œèˆ‡ç¶²è·¯å®‰å…¨ä¸­çš„åŠ è§£å¯†æ²’æœ‰ç›´æ¥çš„é—œä¿‚ï¼Ÿ","PIK:Public Key Infrastructure ","CA: Certificate Authority ","RFID:Radio frequency identification ","Digital Signature ",Ans3
-"48. å¾µå€™åŠç—‡ç‹€çš„è‹±æ–‡ç°¡ç¨± ","S&S ","CC ","PE ","Hx ",Ans1
-"49. è¡€å£“çš„è‹±æ–‡ç°¡ç¨± ","BR ","BH ","BP ","BF ",Ans3
-"50. "æŸå®¶é†«ç™‚é™¢æ‰€å› æ‡‰æ¯æ—¥å¥ä¿ IC å¡è³‡æ–™ä¸Šå‚³è€Œå‘é›»ä¿¡æ¥­è€…ç§Ÿ ADSL 512Kb çš„é »å¯¬ï¼Œ512 Kb çš„ b ä»£è¡¨ï¼š","Byte "," Bit ","Bite ","ä»¥ä¸Šçš†é",Ans2
-"51. é€éè¦–è¨Šèˆ‡è³‡è¨Šï¼Œè®“é›¢å³¶æˆ–?é ?æœ‰æŸç¨®å°ˆç§‘é†«ç”Ÿä¹Ÿå¯ç«‹å³ç‚ºç—…äººæä¾›é†«ç™‚è‡¨åºŠæœå‹™ï¼Œæ­¤ç¨®æ–¹å¼ç¨±ç‚ºï¼š"," é è·æœƒè¨º "," é è·æ•™å­¸ ","é è·ç…§è­· ","ä»¥ä¸Šçš†é ",Ans1
-"52. ç¾è¡Œè¡›ç”Ÿç½²å’Œæ•™è‚²éƒ¨å¯¦æ–½ä¹‹é†«é™¢è©•é‘‘ä¸­ï¼Œå°‡æ•™å­¸é†«é™¢è©•é‘‘ç­‰ç´šåˆ†ç‚ºå¹¾é¡ï¼Ÿ ","ä¸€ "," äºŒ ","ä¸‰ ","å›› ",Ans2
-"53. è¡Œæ”¿é™¢è¡›ç”Ÿç½²ä¾é›»å­ç°½ç« æ³•ï¼Œå°‡ä½•è€…åˆ—ç‚ºæœªä¾† 3-5 å¹´ä¸»è¦æ¨å‹•çš„è¨ˆç•«ï¼š","é†«ç™‚ç³»çµ±è‡ªå‹•åŒ– "," é›»è…¦åŒ–ç—…æ­·ç³»çµ± ","é›»å­ç—…æ­· "," è¡Œå‹•é†«ç™‚",Ans3 
-"54. ä¸‹åˆ—é‚£ä¸€é …æ•…éšœæˆ–?æå°é†«é™¢çš„é¢¨éšªæœ€å¤§ï¼š ","é›»è…¦ä¸»æ©Ÿæ•…éšœ ","ç—…äººè³‡æ–™?ææˆ–éŒ¯èª¤ ","ç¶²è·¯è¨­å‚™æ•…éšœ ","ä½œæ¥­ç³»çµ±(OS)æ•…éšœ ",Ans2
-"55. ä¸»æ©Ÿæˆ–ç¶²è·¯æ¡é«˜å¯é æ€§(HA)æ¶æ§‹ï¼Œå…¶ç›®çš„ä¸»è¦ç‚ºï¼š"," å¹³å‡åˆ†æ“”ç³»çµ±è² è·ï¼Œæå‡ç³»çµ±é‹ä½œæ•ˆèƒ½ ","ä¸€éƒ¨æ•…éšœæ™‚ï¼Œå¦ä¸€éƒ¨å¯å³æ™‚æ‰¿æ¥ï¼Œä¿æŒç³»çµ±ä¸ä¸­æ–· "," å¯æé«˜è¨­å‚™å–®ä½ä½¿ç”¨æ•ˆç›Šï¼Œè®“ä¸»æ©Ÿ/ç¶²è·¯å–®ä½æ™‚é–“å…§ç™¼æ®å¤§ç”¢èƒ½ "," ç¯€çœé†«é™¢è³‡è¨Šç³»çµ±æŠ•è³‡æˆæœ¬ ",Ans2
-"56. ä¸‹åˆ—é‚£äº›æ˜¯é†«é™¢æ¨å‹•å¹³è¡¡è¨˜åˆ†å¡(BSC)æ‰€å¸Œæœ›ç²å¾—çš„æ•ˆç›Šï¼š "," æé«˜è³‡æ–™å‰–æèƒ½åŠ›åŠæ±ºç­–æ•ˆç‡ "," ç™¼æ˜å•é¡Œã€æ”¹å–„ä½œæ¥­æµç¨‹ "," æ–¹ä¾¿å–å¾—å³æ™‚è³‡æ–™","ä»¥ä¸Šçš†æ˜¯ ",Ans4
-"57. ä¸‹åˆ—ä½•è€…ä¸æ˜¯é˜²ç«ç‰†çš„ä¸»è¦åŠŸèƒ½ï¼š"," è³‡æ–™åŠ å¯† "," ä¼æ¥­å…§/å¤– IP ä¹‹è½‰æ› "," åµæ¸¬èˆ‡é˜»æª”ç•°å¸¸ä¹‹ä½¿ç”¨è€…/å°åŒ…(å…¥ä¾µ) "," è¨˜éŒ„é€²å‡º(log)",Ans1
-"58. ç¾è¡Œæˆ‘åœ‹è¡Œæ”¿é™¢è¡›ç”Ÿç½²æ¨å‹•ä¹‹ HCA èªè­‰ä¸­ï¼Œå¯ç”¨æ–¼ç—…äººå°±è¨ºæ™‚è®€å–ç—…äººé‡å¤§å‚·ç—…ç­‰ç—…äºº?ç§è³‡æ–™è€…ç‚ºï¼š","é†«ç™‚æ©Ÿæ§‹å¡ ","é†«äº‹äººå“¡å¡ ","ç—…äºº IC å¡","è‡ªç„¶äººæ†‘è­‰ ",Ans2
-"59. è³‡æ–™åº«æŸ¥è©¢èªè¨€(SQL)ä¸­ï¼Œè¦åˆªé™¤æ•´å€‹è³‡æ–™è¡¨(table)ï¼Œé™³è¿°æŒ‡ä»¤ç‚ºï¼š","DROP "," DELETE ","UPDATE "," ERASE ",Ans1
-"60. å…©å€‹è³‡æ–™è¡¨(table)è¦ç”¢ç”Ÿé—œè¯(relation)ï¼Œå¿…é ˆè¦æœ‰ Keyï¼Œä¸‹åˆ—æè¿°ä½•è€…ç‚ºéï¼š","å¤–éƒ¨åƒè€ƒéµ(Foreign Key)çš„å€¼å¯é‡è¦† "," ä¸»éµ(Primary Key) çš„å€¼ä¸å¯ç‚º NULL ","ä¸»éµ(Primary Key)çš„å€¼å¯é‡è¦† "," ä»¥ä¸Šçš†æ˜¯",Ans3
-"61. ä»¥é†«ç™‚è³‡è¨Šçš„é ˜åŸŸè€Œè¨€ï¼Œä½•è¬‚ PACS ï¼Ÿ "," Pan American ClimateStudies "," Physics and Astronomy Classification Scheme "," PhotodetectorArray Camera & Spectrometer "," Pictures Archiving and CommunicationSystem ",Ans4
-"62. æŸé†«é™¢ç™¼ç¾æœ‰æ™‚å€™åŒä¸€ä»½è³‡æ–™æœ‰å…©å€‹äººåŒæ™‚ä¿®æ”¹ï¼Œé€™æ‡‰è©²æ˜¯è³‡æ–™åº«å“ªé …æ§åˆ¶å‡ºäº†å•é¡Œï¼Ÿ","Access control "," Accuracy control "," Concurrentcontrol "," Integrity control ",Ans3
-"63. å¸ƒæ—ä»£æ•¸ï¼ˆBoolean algebraï¼‰ç”¨ 1 ä»£è¡¨çœŸï¼ˆtrueï¼‰ç”¨ 0 ä»£è¡¨å½ (false)ï¼Œç”¨P ä»£è¡¨è¿°å¥ A ä¹‹çœŸå½å€¼ï¼ŒQ ä»£è¡¨è¿°å¥ B ä¹‹çœŸå½å€¼ï¼Œé‚£éº¼ è¿°å¥ã€A ä¸” Bã€çš„çœŸå½å€¼å¯ä»¥è¡¨ç¤ºç‚º A èˆ‡ B "," ç›¸åŠ  "," ç›¸æ¸› "," ç›¸ä¹˜ "," ç›¸é™¤",Ans3
-"64. è¼¸å…¥è³‡æ–™ä¹‹æ­£ç¢ºæ€§ç›¸ç•¶é‡è¦ï¼Œä»¥ä¸‹å“ªä¸€é …å¯èƒ½å°æé«˜æ­£ç¢ºæ€§å¹«åŠ©ä¸å¤§ï¼Ÿ","ä½¿ç”¨é«˜é€Ÿé›»è…¦ "," è®“ä½¿ç”¨è€…å¯ä»¥çœ‹åˆ°å…¶æ‰€è¼¸å…¥çš„è³‡æ–™ "," ç”±å…©å€‹äººè¼¸å…¥ç›¸åŒçš„è³‡æ–™ï¼Œå†æ¯”å°ä¹‹ "," ç›¡é‡ä½¿ç”¨å‹¾é¸ ",Ans1
-"65. ä¸€å¼µ 512x512 çš„é»‘ç™½ç…§ç‰‡ï¼Œéœ€è¦ 0.25MB(mega byte)ï¼Œå‰‡è©²ç…§ç‰‡ä¹‹ç°éšå€¼æœ‰å¹¾å€‹ï¼Ÿ ","8 "," 32 "," 128 "," 256 ",Ans4
-"66. åšå‚™ä»½ä¸»è¦æ˜¯ç‚ºäº†ææ˜‡è³‡æ–™ä¹‹ ","Accuracy "," Integrity "," Availability "," Confidentiality ",Ans3
-"67. ä¸‹åˆ—ä½•ç¨®è£ç½®å¯å°‡ç”Ÿç†ä¿¡è™Ÿè½‰æ›æˆé›»è…¦å¯å„²å­˜çš„å‹æ…‹? ","æ•¸ä½-é¡æ¯”è½‰æ›å™¨ ","æ”¾å¤§å™¨ ","é¡æ¯”-æ•¸ä½è½‰æ›å™¨ ","æ¿¾æ³¢å™¨ ",Ans3
-"68. ä»¥ä¸‹ä½•è€…é©ç”¨æ–¼é˜»çµ•ç¶²éš›ç¶²è·¯å±éšªå»¶ä¼¸åˆ°å…§éƒ¨ç¶²è·¯? ","DNS ","gateway "," proxy "," firewall ",Ans4
-"69. ä»¥ä¸‹ä½•é …é†«ç™‚è¨­å‚™è¼ƒä¸å…·ä¾µå®³æ€§? ","CT ","endoscope "," PET","ultrasound ",Ans4
-"70. Surveillanceè¼ƒé©åˆçš„æ„æ€æ˜¯? ","èª¿æŸ¥ ","ç›£æ§ ","åŸ·è¡Œ ","åæ‡‰",Ans2
-"71. ä»¥ä¸‹ä½•è€…ä¸é©ç”¨æ–¼åšæ±ºç­–æ”¯æ´? "," regression analysis "," neuralnetwork "," expert system "," virtual reality ",Ans4
-"72. ä»¥ä¸‹ä½•è€…ä¸æ˜¯ä¸€ç¨®ç·¨ç¢¼(code)æ¨™æº–? "," DICOM "," ICD-9","LONINC ","SNOMED ",Ans1
-"73. ä¾¿ç§˜ "," chrom "," constipation "," cystocele "," cyst ",Ans2
-"74. åˆ†å¨© "," deliver "," delitescence "," illusion "," joint ",Ans1
-"75. æ„Ÿè¦ºç•°å¸¸ "," cecitis "," cachexia "," chromhidrosis "," cacesthesia",Ans4
-"76. ç²¾ç¥åˆ†è£‚ç—‡ "," siphac "," septonasal "," schizophrenia ","scleroconjunctivitis ",Ans3
-"77. æ•—è¡€ç—‡ "," septicemia "," siphac "," skeocytosis "," sacrococyx ",Ans1
-"78. éª¨è³ªç–é¬† "," rabiate "," rash "," rheumatoid arthritis "," rarefaction ofbone ",Ans4
-"79. å››è‚¢éº»ç—º "," quickening "," quadrigeminal "," quadriplegia "," quinidine",Ans3
-"80. æ—©ç”¢ï¼Œæµç”¢ "," omentitis "," ophthalmechymosis "," omotocia ","omphalocele ",Ans3
-"81. è‡´ç™ŒåŸºå›  "," oncogene "," oosperm "," ophthalmia neonatorum ","oophoritis ",Ans1
-"82 å£è‡­ "," kysthoproptosis "," kyphosis "," knee reflex "," kakostomia",Ans4
-"83. å‰–è…¹æ‰‹è¡“ "," laryngismus "," lapaotomy "," laparoscopy "," leipothymia",Ans2
-"84. å¹³æ»‘è‚Œç„¡åŠ› "," paludide "," leiasthenia "," incontinence "," hemophilia",Ans2 
+"44. ¤U¦C±Ô­z¦óªÌ¿ù»~¡G","SSL(Secure Sockets Layer)´¶¹M¥Î¨Ó«OÅ@ºô¸ô¤Wªº³q°T¦w¥ş¡A¬O¦b TCP/IP ªº³q°T¨ó©w©MÀ³¥Îµ{¦¡¤§¶¡¹B§@ ","SET(SecureElectronic Transaction)¥Î¨Ó«OÅ@¹q¤l°Ó°È¥I´Ú¥æ©öªº¾÷¨î¡A±Ä¥Î¯µ±KÆ_°Í(Secret-Key)¥[±Kªk ","¼Æ¦ìÃ±³¹(Digital Signature)°t¦X¤½¶}Æ_°Í(Public-Key)¥[±Kªk¨Ó¸Ñ¨M¨­¥÷»{ÃÒ©M°T®§¯u½T©Êªº°İÃD ","¼Æ¦ì¯B¤ô¦L(Digital Watermarks)¬OÀ³¥ÎÁôÂÃ¾Ç(Steganography)§Ş³N±N¸ê°TÂÃ¦b¨ä¥¦¹Ï§Î¡B°T®§©Î¼v­µ¸ê®Æ¤¤ ",Ans2
+"45. °w¹ï³nÅé¤uµ{(Software Engineering)ªº±Ô­z¡A¤U¦C¦óªÌ¬°¬O¡G","¸ê®Æ¬yµ{¹Ï(Data Flow Diagram,DFD)¥Î¥Hªí¹F¨t²Îªº°ÊºA¸ê®Æ¬yµ{©Ò±Ä¥Îªº¸ê®Æµ²ºc","¸ê®Æ¦r¨å(Data Dictionary,DD)´y­z±ø¥ó¡B³W«h¥H¤Î©Ò±Ä¨úªº¦æ°Ê¤è°w ","¸ê®Æµ²ºc¹Ï(Data Structure Diagram,DSD)­Ó§O´y­z¸ê®Æ¬yµ{¹Ï¤¤©Ò¨Ï¥Î¨ìªº¸ê®Æ¬y¡BÀÉ®×¥H¤Î³B²zµ{§Ç ","¨Mµ¦¾ğ(Decision Tree)´y­zÀÉ®×ªº²Õ¦¨»PÃö«Y¡AÄİ©óÀRºAªº¸ê®Æµ²ºc ",Ans1
+"46. ¸ê®Æ³q°T¶Ç¿é³t«×ªº³æ¦ì¬°¤U¦C¦óªÌ¡H","MIPS ","BPS ","CPS","BPI ",Ans2
+"47. ¥H¤U­ş¤@­Ó¶µ¥Ø¡A»Pºô¸ô¦w¥ş¤¤ªº¥[¸Ñ±K¨S¦³ª½±µªºÃö«Y¡H","PIK:Public Key Infrastructure ","CA: Certificate Authority ","RFID:Radio frequency identification ","Digital Signature ",Ans3
+"48. ¼x­Ô¤Î¯gª¬ªº­^¤åÂ²ºÙ ","S&S ","CC ","PE ","Hx ",Ans1
+"49. ¦åÀ£ªº­^¤åÂ²ºÙ ","BR ","BH ","BP ","BF ",Ans3
+"50. "¬Y®aÂåÀø°|©Ò¦]À³¨C¤é°·«O IC ¥d¸ê®Æ¤W¶Ç¦Ó¦V¹q«H·~ªÌ¯² ADSL 512Kb ªºÀW¼e¡A512 Kb ªº b ¥Nªí¡G","Byte "," Bit ","Bite ","¥H¤W¬Ò«D",Ans2
+"51. ³z¹Lµø°T»P¸ê°T¡AÅıÂ÷®q©Î?»·?¦³¬YºØ±M¬ìÂå¥Í¤]¥i¥ß§Y¬°¯f¤H´£¨ÑÂåÀøÁ{§ÉªA°È¡A¦¹ºØ¤è¦¡ºÙ¬°¡G"," »·¶Z·|¶E "," »·¶Z±Ğ¾Ç ","»·¶Z·ÓÅ@ ","¥H¤W¬Ò«D ",Ans1
+"52. ²{¦æ½Ã¥Í¸p©M±Ğ¨|³¡¹ê¬I¤§Âå°|µûÅ²¤¤¡A±N±Ğ¾ÇÂå°|µûÅ²µ¥¯Å¤À¬°´XÃş¡H ","¤@ "," ¤G ","¤T ","¥| ",Ans2
+"53. ¦æ¬F°|½Ã¥Í¸p¨Ì¹q¤lÃ±³¹ªk¡A±N¦óªÌ¦C¬°¥¼¨Ó 3-5 ¦~¥D­n±À°Êªº­pµe¡G","ÂåÀø¨t²Î¦Û°Ê¤Æ "," ¹q¸£¤Æ¯f¾ú¨t²Î ","¹q¤l¯f¾ú "," ¦æ°ÊÂåÀø",Ans3 
+"54. ¤U¦C¨º¤@¶µ¬G»Ù©Î?·l¹ïÂå°|ªº­·ÀI³Ì¤j¡G ","¹q¸£¥D¾÷¬G»Ù ","¯f¤H¸ê®Æ?·l©Î¿ù»~ ","ºô¸ô³]³Æ¬G»Ù ","§@·~¨t²Î(OS)¬G»Ù ",Ans2
+"55. ¥D¾÷©Îºô¸ô±Ä°ª¥i¾a©Ê(HA)¬[ºc¡A¨ä¥Øªº¥D­n¬°¡G"," ¥­§¡¤À¾á¨t²Î­t²ü¡A´£¤É¨t²Î¹B§@®Ä¯à ","¤@³¡¬G»Ù®É¡A¥t¤@³¡¥i§Y®É©Ó±µ¡A«O«ù¨t²Î¤£¤¤Â_ "," ¥i´£°ª³]³Æ³æ¦ì¨Ï¥Î®Ä¯q¡AÅı¥D¾÷/ºô¸ô³æ¦ì®É¶¡¤ºµo´§¤j²£¯à "," ¸`¬ÙÂå°|¸ê°T¨t²Î§ë¸ê¦¨¥» ",Ans2
+"56. ¤U¦C¨º¨Ç¬OÂå°|±À°Ê¥­¿Å°O¤À¥d(BSC)©Ò§Æ±æÀò±oªº®Ä¯q¡G "," ´£°ª¸ê®Æ­åªR¯à¤O¤Î¨Mµ¦®Ä²v "," µo±¸°İÃD¡B§ïµ½§@·~¬yµ{ "," ¤è«K¨ú±o§Y®É¸ê®Æ","¥H¤W¬Ò¬O ",Ans4
+"57. ¤U¦C¦óªÌ¤£¬O¨¾¤õÀğªº¥D­n¥\¯à¡G"," ¸ê®Æ¥[±K "," ¥ø·~¤º/¥~ IP ¤§Âà´« "," °»´ú»PªıÀÉ²§±`¤§¨Ï¥ÎªÌ/«Ê¥](¤J«I) "," °O¿ı¶i¥X(log)",Ans1
+"58. ²{¦æ§Ú°ê¦æ¬F°|½Ã¥Í¸p±À°Ê¤§ HCA »{ÃÒ¤¤¡A¥i¥Î©ó¯f¤H´N¶E®ÉÅª¨ú¯f¤H­«¤j¶Ë¯fµ¥¯f¤H?¨p¸ê®ÆªÌ¬°¡G","ÂåÀø¾÷ºc¥d ","Âå¨Æ¤H­û¥d ","¯f¤H IC ¥d","¦ÛµM¤H¾ÌÃÒ ",Ans2
+"59. ¸ê®Æ®w¬d¸ß»y¨¥(SQL)¤¤¡A­n§R°£¾ã­Ó¸ê®Æªí(table)¡A³¯­z«ü¥O¬°¡G","DROP "," DELETE ","UPDATE "," ERASE ",Ans1
+"60. ¨â­Ó¸ê®Æªí(table)­n²£¥ÍÃöÁp(relation)¡A¥²¶·­n¦³ Key¡A¤U¦C´y­z¦óªÌ¬°«D¡G","¥~³¡°Ñ¦ÒÁä(Foreign Key)ªº­È¥i­«ÂĞ "," ¥DÁä(Primary Key) ªº­È¤£¥i¬° NULL ","¥DÁä(Primary Key)ªº­È¥i­«ÂĞ "," ¥H¤W¬Ò¬O",Ans3
+"61. ¥HÂåÀø¸ê°Tªº»â°ì¦Ó¨¥¡A¦ó¿× PACS ¡H "," Pan American ClimateStudies "," Physics and Astronomy Classification Scheme "," PhotodetectorArray Camera & Spectrometer "," Pictures Archiving and CommunicationSystem ",Ans4
+"62. ¬YÂå°|µo²{¦³®É­Ô¦P¤@¥÷¸ê®Æ¦³¨â­Ó¤H¦P®É­×§ï¡A³oÀ³¸Ó¬O¸ê®Æ®w­ş¶µ±±¨î¥X¤F°İÃD¡H","Access control "," Accuracy control "," Concurrentcontrol "," Integrity control ",Ans3
+"63. ¥¬ªL¥N¼Æ¡]Boolean algebra¡^¥Î 1 ¥Nªí¯u¡]true¡^¥Î 0 ¥Nªí°° (false)¡A¥ÎP ¥Nªí­z¥y A ¤§¯u°°­È¡AQ ¥Nªí­z¥y B ¤§¯u°°­È¡A¨º»ò ­z¥y¡yA ¥B B¡zªº¯u°°­È¥i¥Hªí¥Ü¬° A »P B "," ¬Û¥[ "," ¬Û´î "," ¬Û­¼ "," ¬Û°£",Ans3
+"64. ¿é¤J¸ê®Æ¤§¥¿½T©Ê¬Û·í­«­n¡A¥H¤U­ş¤@¶µ¥i¯à¹ï´£°ª¥¿½T©ÊÀ°§U¤£¤j¡H","¨Ï¥Î°ª³t¹q¸£ "," Åı¨Ï¥ÎªÌ¥i¥H¬İ¨ì¨ä©Ò¿é¤Jªº¸ê®Æ "," ¥Ñ¨â­Ó¤H¿é¤J¬Û¦Pªº¸ê®Æ¡A¦A¤ñ¹ï¤§ "," ºÉ¶q¨Ï¥Î¤Ä¿ï ",Ans1
+"65. ¤@±i 512x512 ªº¶Â¥Õ·Ó¤ù¡A»İ­n 0.25MB(mega byte)¡A«h¸Ó·Ó¤ù¤§¦Ç¶¥­È¦³´X­Ó¡H ","8 "," 32 "," 128 "," 256 ",Ans4
+"66. °µ³Æ¥÷¥D­n¬O¬°¤F´£ª@¸ê®Æ¤§ ","Accuracy "," Integrity "," Availability "," Confidentiality ",Ans3
+"67. ¤U¦C¦óºØ¸Ë¸m¥i±N¥Í²z«H¸¹Âà´«¦¨¹q¸£¥iÀx¦sªº«¬ºA? ","¼Æ¦ì-Ãş¤ñÂà´«¾¹ ","©ñ¤j¾¹ ","Ãş¤ñ-¼Æ¦ìÂà´«¾¹ ","Âoªi¾¹ ",Ans3
+"68. ¥H¤U¦óªÌ¾A¥Î©óªıµ´ºô»Úºô¸ô¦MÀI©µ¦ù¨ì¤º³¡ºô¸ô? ","DNS ","gateway "," proxy "," firewall ",Ans4
+"69. ¥H¤U¦ó¶µÂåÀø³]³Æ¸û¤£¨ã«I®`©Ê? ","CT ","endoscope "," PET","ultrasound ",Ans4
+"70. Surveillance¸û¾A¦Xªº·N«ä¬O? ","½Õ¬d ","ºÊ±± ","°õ¦æ ","¤ÏÀ³",Ans2
+"71. ¥H¤U¦óªÌ¤£¾A¥Î©ó°µ¨Mµ¦¤ä´©? "," regression analysis "," neuralnetwork "," expert system "," virtual reality ",Ans4
+"72. ¥H¤U¦óªÌ¤£¬O¤@ºØ½s½X(code)¼Ğ·Ç? "," DICOM "," ICD-9","LONINC ","SNOMED ",Ans1
+"73. «K¯µ "," chrom "," constipation "," cystocele "," cyst ",Ans2
+"74. ¤À®Y "," deliver "," delitescence "," illusion "," joint ",Ans1
+"75. ·PÄ±²§±` "," cecitis "," cachexia "," chromhidrosis "," cacesthesia",Ans4
+"76. ºë¯«¤Àµõ¯g "," siphac "," septonasal "," schizophrenia ","scleroconjunctivitis ",Ans3
+"77. ±Ñ¦å¯g "," septicemia "," siphac "," skeocytosis "," sacrococyx ",Ans1
+"78. °©½è²¨ÃP "," rabiate "," rash "," rheumatoid arthritis "," rarefaction ofbone ",Ans4
+"79. ¥|ªÏ³Â·ô "," quickening "," quadrigeminal "," quadriplegia "," quinidine",Ans3
+"80. ¦­²£¡A¬y²£ "," omentitis "," ophthalmechymosis "," omotocia ","omphalocele ",Ans3
+"81. ­PÀù°ò¦] "," oncogene "," oosperm "," ophthalmia neonatorum ","oophoritis ",Ans1
+"82 ¤f¯ä "," kysthoproptosis "," kyphosis "," knee reflex "," kakostomia",Ans4
+"83. ­å¸¡¤â³N "," laryngismus "," lapaotomy "," laparoscopy "," leipothymia",Ans2
+"84. ¥­·Æ¦ÙµL¤O "," paludide "," leiasthenia "," incontinence "," hemophilia",Ans2 

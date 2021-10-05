@@ -1,56 +1,56 @@
-Question,Answer1,Answer2,Answer3,Answer4,Correct Answer(s)
-"1.è¡Œæ”¿é™¢è¡›ç”Ÿç½²æ¨å‹•ã€Œåœ‹å®¶å¥åº·ç¶²è·¯å»ºè¨­è¨ˆåŠƒã€è‡³ä»Šï¼Œä½¿åœ‹å…§é†«ç™‚é™¢æ‰€éƒ½ç‚ºè·¨é†«é™¢é›»å­ç—…æ­·ä½œæ¥­ç™¼å±•åŠªåŠ›ï¼Œä¹Ÿé«”èªåˆ°é†«ç™‚è³‡è¨Šæ¨™æº–çš„é‡è¦æ€§ã€‚ç›®å‰æ¨å‹•çš„é†«ç™‚è³‡è¨Šæ¨™æº–ç‚º:","IHE ","DICOM "," HL7 ","ä»¥ä¸Šçš†æ˜¯ã€‚",Ans4
-"2.ç›®å‰æœ€é€šè¡Œçš„ç¶²éš›ç¶²è·¯æ˜¯åœ¨ä»€éº¼ç¶²è·¯æ¶æ§‹ä¸‹ï¼š","IBM SNA ","Novell LAN ","TCP/IP ","ä»¥ä¸Šçš†æ˜¯ã€‚",Ans3
-"3. HL7 (Health Level 7) é†«ç™‚è³‡è¨Šæ¨™æº–è‘—é‡æ–¼ OSI(Open Systems Interconnection )reference model çš„å“ªä¸€å±¤ç‚ºä¸»?"," Data Link "," Application "," Network "," Presentation",Ans2
-"4.é†«é™¢è³‡è¨Šç³»çµ±ä¸­çš„ç—…æ­·ç®¡ç†ç³»çµ±åŠŸèƒ½ï¼Œä¸åŒ…æ‹¬ä¸‹åˆ—ä½•è€…?","ç–¾ç—…åˆ†é¡ç™»è¨˜ ","ç—…æ­·æŸ¥è©¢ ","è³‡æä¾›æ‡‰ ","ç—…æ­·æ­¸æª”ä½œæ¥­",Ans3
-"5.ä¸‹åˆ—å“ªäº›å±¬å¯¦æ–½ PACS ç³»çµ±å¾Œæ‰€èƒ½æ”¹å–„ä¹‹é†«é™¢ç®¡ç†é …ç›®:"," ç—…æ‚£ç­‰å€™æª¢æŸ¥ä¹‹æ™‚é–“ ","ç­‰å€™æ´—ç‰‡çš„æ™‚é–“ ","X ç‰‡è¢‹å„²å­˜ç©ºé–“ ","ä»¥ä¸Šçš†æ˜¯",Ans4
-"6.é†«é™¢å¦‚æ¬²å»ºç½®å½±åƒå‚³è¼¸ç³»çµ±(PACS)é ˆè€ƒé‡èˆ‡ä½•ç³»çµ±ä¹‹æ•´åˆï¼š","é†«ç™‚å“è³ªç®¡ç†ç³»çµ± ","é›»å­è³‡æ–™äº¤æ›ç³»çµ±(EDI) ","é†«ç™‚è³‡è¨Šç³»çµ±(HIS)","é«˜éšä¸»ç®¡è³‡è¨Šç³»çµ±(EIS)",Ans3
-"7.ç›®å‰ä¸–ç•Œä¸Šæœ€å®Œæ•´çš„é†«å­¸è©å½™æ¨™æº–æ˜¯"," HL7 "," ICD-10 "," MeSH "," SNOMEDã€‚",Ans4
-"8.æª¢å‚·åˆ†é¡åˆ†ç´šä¸­ï¼Œéœ€è¦æœ€å„ªå…ˆè™•ç†çš„æ˜¯:"," ä¸€ "," äºŒ "," ä¸‰ "," å›› ç´š",Ans1
-"9.ç—…äººåœ¨ä½é™¢å¾Œï¼Œä¾ç…§å»ºè­°æ²»ç™‚ç—…äººï¼Œç„¶å¾Œç”±é†«è­·äººå“¡å°ç…§å¯¦éš›çš„æ²»ç™‚ç¨‹åºèˆ‡å·®ç•°ï¼Œç›´åˆ°ç—…äººå‡ºé™¢çš„æ˜¯:","è‡¨åºŠæº–å‰‡ ","ç–¾ç—…åˆ†é¡ ","DRGs ","è‡¨åºŠè·¯å¾‘",Ans4
-"10.ç›®å‰åœ‹å…§é†«é™¢æ‰€ä½¿ç”¨ä¹‹è³‡è¨Šç³»çµ±å¤šç‚ºä½•ç¨®æ¶æ§‹ï¼š","éšå±¤å¼(hierarchical) ","ç¶²ç‹€å¼(network) ","é—œè¯å¼(relational) ","æª”æ¡ˆ(file)",Ans3
-"11.ä¸‹åˆ—å°æ–¼å¥ä¿çµ¦ä»˜åˆ¶åº¦å„ªç¼ºé»æ¯”è¼ƒä½•è€…æœ‰èª¤ï¼š","è«–é‡è¨ˆé…¬å°æ–¼é†«å¸«çš„é†«ç™‚è¡Œç‚ºè‡ªä¸»æ¬Šè¼ƒé«˜ï¼Œä½†æ˜“é–“æ¥é¼“å‹µåŠ©é•·é†«ç™‚è²»ç”¨ä¸Šæ¼²","è«–ç—…ä¾‹è¨ˆé…¬å¯ä»¥é©ç”¨æ‰€æœ‰ç–¾ç—…é …ç›®","è«–äººè¨ˆé…¬æœƒä½¿é†«é™¢å°é†«ç™‚æˆæœ¬é™ä½ï¼Œä½†æ˜¯æœƒæ¸›å°‘é†«é™¢å° ç—…äººçš„é†«ç™‚é …ç›®å½±éŸ¿é†«ç™‚å“è³ª","ç¸½é¡çµ¦ä»˜ï¼Œå¯æ¸›ä½ä¸­å¤®å¥ä¿å±€è²¡å‹™è² æ“”ï¼Œä½†æœƒé€ æˆé†«é™¢ç‡Ÿæ”¶æ¸›å°‘ï¼Œå¯èƒ½ç”¢ç”Ÿäººçƒäº‹ä»¶",Ans2
-"12.ä¸‹åˆ—ä½•è€…é†«ç™‚è¨­å‚™åŠç›¸é—œç³»çµ±èˆ‡ PACS ç„¡ç›´æ¥é—œä¿‚ï¼š"," LIS "," CT "," MRI "," CR/DR",Ans1
-"13.ä¸‹åˆ—ç¶²è·¯æ¶æ§‹ä½•è€…é€Ÿåº¦æœ€å¿«ï¼š","ä¹™å¤ªç¶²è·¯(Ethernet) ","éåŒæ­¥å‚³è¼¸æ¨¡å¼(ATM)","è¶…é«˜é€Ÿä¹™å¤ªç¶²è·¯(Gigabit Ethernet) ","è¨˜è™Ÿç’°(Token Ring)",Ans3
-"14.ä¸‹åˆ—å°æ–¼è³‡æ–™åº«ä¹‹è¿°èªªä½•è€…æœ‰èª¤ï¼š","å¯ä»¥æ¸›å°‘è³‡æ–™çš„é‡è¤‡æ€§ ","åŠ å¼·è³‡æ–™çš„ä¸€è‡´æ€§","æä¾›ç¨‹å¼è¨­è¨ˆä¹‹ä¾¿åˆ© ","è¨­è¨ˆç¶­è­·æˆæœ¬ä½",Ans4
-"15.åœ¨ç¶²è·¯ä¸­è² è²¬æ”¶ä¿¡å·¥ä½œçš„å”å®šæ˜¯ï¼Ÿ"," FTP "," SMTP "," POP "," SNMPã€‚",Ans3
-"16.è³‡è¨Šå®‰å…¨ä¸»è¦ç›®çš„æ˜¯ä¿è­·ç³»çµ±è³‡æºå’Œè³‡æ–™çš„ç‰¹æ€§ä¸å—ä¾µå®³ï¼Œä»¥ä¸‹å“ªå€‹ç‰¹æ€§ä¸¦ä¸åœ¨æ‰€è¦ä¿è­·çš„ç¯„ç–‡å…§ï¼Ÿ","æ©Ÿå¯†æ€§ ","å®Œæ•´æ€§ ","å¯å–ç”¨æ€§ ","å³æ™‚æ€§ã€‚",Ans4
-"17.ã€Œé›»å­ç°½ç« æ³•æ¡ˆã€æ˜¯è¦ç¯„é›»å­ç°½ç« çš„ç›¸é—œä½œæ¥­ï¼Œç¢ºç«‹é›»å­ç°½ç« çš„æ³•å¾‹æ•ˆåŠ›ï¼Œåšç‚ºé›»å­å•†å‹™èˆ‡é›»å­è³‡æ–™äº¤æ›çš„ä½œæ¥­åŸºæº–ï¼›ä¸‹åˆ—é‚£å€‹åŸå‰‡ä¸æ˜¯æ­¤æ³•å»ºç«‹çš„åŸºç¤ï¼Ÿ"," æŠ€è¡“ä¸­ç«‹ ","è³‡æ–™å®Œæ•´ ","å¥‘ç´„è‡ªç”±","å¸‚å ´å°å‘ã€‚",Ans2
-"18. ä¸åŒå» ç‰Œçš„å…©éƒ¨é†«å­¸å½±åƒå„€å™¨ä¹‹é–“çš„å‚³è¼¸ï¼Œæ‡‰è©²éµå¾ªå“ªä¸€é …æ¨™æº–ï¼Ÿ"," HL7 "," LOINC "," DICOM "," UMLS",Ans3
-"19.æ•¸ä½ä¿¡å°åŠ å¯†æ™‚éœ€è¦ä½¿ç”¨ä½•ç¨®åŠ å¯†æ–¹æ³•ï¼Ÿ","å°ç¨±å¼ ","éå°ç¨±å¼ ","æ··åˆå¼ ","ä»¥ä¸Šçš†éã€‚",Ans3
-"20.é†«äº‹äººå“¡æ†‘è­‰ HCA(Healthcare Certification Authority)ä¸»è¦ç›®çš„ç‚ºä»¥ä¸‹ä½•è€…ï¼Ÿ","è¦åŠƒæ¶æ§‹ç¬¦åˆå…ˆé€²åœ‹å®¶ Healthcare PKI ä¹‹ç™¼å±•è¶¨å‹¢ ","éµå¾ªæ”¿åºœ GPKI æŠ€è¡“è¦ç¯„åŠåœ‹éš›æ¨™æº– ","çµåˆé†«äº‹æ©Ÿæ§‹åŠäººå“¡é›»å­è­‰æ›¸ã€äººå“¡ç®¡ç†ã€å­¸åˆ†æ•™è‚²ç­‰æ‡‰ç”¨ ","ä»¥ä¸Šçš†æ˜¯ã€‚",Ans4
-"21.ä»¥ä¸‹é‚£ä¸€é …æ˜¯è³‡è¨Šç®¡ç†è¦ä»¶ä¹‹ä¸€","çµ„ç¹” ","äººå“¡ ","é›»è…¦ ","è³‡æ–™",Ans1ã€2ã€3ã€4
-"22.ä»¥ä¸‹é‚£ä¸€é …æè¿°æ­£ç¢º ?","ç—…æ­·é›»å­åŒ–å°±ç›¸ç•¶æ–¼å¯¦æ–½é›»å­ç—…æ­· ","HCA æ˜¯è¡›ç”Ÿå±€æ‰€æ¨å‹•ä¹‹é†«äº‹äººå“¡èªè­‰æ©Ÿåˆ¶ ","é›»å­ç°½ç« èˆ‡æ•¸ä½ç°½ç« ä¹‹å®šç¾©ç›¸åŒ ","æ‰€è¬‚çš„PKIç³»çµ±æ˜¯å°‡å…¬é‘°åŠ å¯†æ¼”ç®—æ³•ã€æ†‘è­‰åŠ CA æ•´åˆä¹‹å®‰å…¨ç³»çµ±",Ans4
-"23 ä»¥ä¸‹é‚£ä¸€é …ä¸æ˜¯è³‡è¨Šå®‰å…¨æ‰€è¦ç¢ºä¿ä¹‹é …ç›® ?","è³‡æ–™éš±ç§æ€§ ","è³‡æ–™æ­£ç¢ºæ€§ ","è³‡æ–™ä¸å¯å¦èªæ€§ ","è³‡æ–™ä¸å¯ä¿®æ”¹æ€§",Ans4
-"24 ä»¥ä¸‹é‚£ä¸€é …ä¸æ˜¯è³‡è¨Šç³»çµ±ç™¼å±•æ­¥é©Ÿä¹‹ä¸€ ?","ç³»çµ±åˆ†æ ","ç³»çµ±è¨­è¨ˆ ","ç³»çµ±æ¸¬è©¦ ","ä»¥ä¸Šçš†æ˜¯",Ans4
-"25.é†«ç™‚é™¢æ‰€å¯¦æ–½é›»å­ç—…æ­·ä¹‹è¦é»ç‚º:","é›»å­ç—…æ­·é ˆåŠ å…¥ç”Ÿç‰©é›»å­ç°½ç«  ","é›»å­ç—…æ­·ä¸å¯ä¿®æ”¹ ","é›»å­ç—…æ­·å¿…é ˆè¦æœ‰å‚™ä»½ ","é›»å­ç—…æ­·å¯¦æ–½å¾Œå°±ä¸å¯æä¾›ç´™æœ¬ç—…æ­·çµ¦ç—…äºº",Ans3
-"26.é†«å­¸è³‡è¨Šå­¸æ˜¯ :","é†«ç™‚è³‡è¨Šç³»çµ±ä¹‹å­¸è¡“åç¨± ","ç¶œåˆè³‡è¨Šç§‘æŠ€èˆ‡é†«ç™‚é ˜åŸŸä¹‹ä¸€é–€å­¸å•","çµ±è¨ˆåˆ†æé†«ç™‚è³‡æ–™ä¹‹å·¥å…· ","å¯¦è­‰é†«å­¸ç™¼å±•ä¹‹åŸºç¤",Ans2
-"27.ä¸‹åˆ—ä½•è€…ä¸æ˜¯ä½¿ç”¨é›»å­ç—…æ­·çš„å„ªé»ï¼Ÿ","å–ä»£é¾å¤§åšé‡çš„ç´™å¼µè¨˜éŒ„ï¼Œç¯€çœç—…æ­·å„²å­˜ç©ºé–“","æ”¯æ´è‡¨åºŠæ±ºç­–åŠè­¦ç¤ºåŠŸèƒ½","ç—…äººè³‡æ–™å®¹æ˜“å‚³é€èˆ‡æ“·å–","é–‹å§‹å¯¦æ–½ç—…æ­·é›»å­åŒ–åˆæœŸå°±å¯ä»¥ç«‹å³ç²å¾—é¡¯è‘—çš„æ•ˆç›Š",Ans4
-"28.ç—…æ­·è³‡æ–™åº«ä¸­æ¯ä¸€ç—…æ‚£æœ‰ä¸€ç­†åŸºæœ¬è³‡æ–™ï¼Œé‚£å€‹æ¬„ä½æœ€é©åˆä½œç‚ºæŸ¥è©¢ä¸»éµå€¼ï¼Ÿ","ç”Ÿæ—¥ ","å§“å ","èº«åˆ†è­‰å­—è™Ÿ ","åœ°å€",Ans3
-"29.ç”Ÿç†ç›£è¦–å™¨æ˜¯ä»¥é†«å­¸è¨Šè™Ÿçš„è™•ç†æŠ€è¡“ä¾†ç›£æ¸¬ç—…äººå‘¼å¸ã€è¡€å£“ã€å¿ƒè·³ã€è¡€æ°§æ¿ƒåº¦ç­‰è³‡æ–™ï¼Œé€šå¸¸æ˜¯æ‡‰ç”¨åœ¨é†«é™¢çš„å“ªä¸€å€‹å–®ä½ï¼Ÿ","è—¥å±€ ","åŠ è­·ç—…æˆ¿ ","ç‡Ÿé¤Šå®¤ ","é–€è¨ºè¨ºé–“",Ans2
-"30.è¡›ç”Ÿç½²æˆç«‹é†«ç™‚æ†‘è­‰ä¸­å¿ƒ(HCA)ï¼Œç™¼æ”¾çš„é†«äº‹äººå“¡æ†‘è­‰ï¼Œä¸‹åˆ—æ•˜è¿°ä½•è€…æ­£ç¢ºï¼Ÿ","æ¡ç”¨ç§˜å¯†é‡‘é‘°çš„åŠ å¯†æ–¹æ³• ","æ˜¯ä¸€ç¨®å°ç¨±å¼çš„åŠ å¯†æŠ€è¡“ ","é†«äº‹äººå“¡æ†‘è­‰å¡å­˜æ”¾çš„å³æ˜¯æ‰€è¬‚çš„å…¬é–‹é‡‘é‘° ","éå°ç¨±å¼çš„åŠ è§£å¯†æŠ€è¡“æ˜¯æ¡ç”¨ RSA æ¼”ç®—æ³•",Ans4
-"31.è¡›ç”Ÿç½²å§”è¨—é†«å­¸è³‡è¨Šå­¸æœƒæœ€è¿‘åˆ¶å®šå®Œæˆçš„é›»å­ç—…æ­·åŸºæœ¬æ ¼å¼ï¼Œæ˜¯éµå¾ªäº†HL7/CDA çš„æ¨™æº–ï¼Œæ‰€è¬‚ CDA æ˜¯æŒ‡ä¸‹åˆ—ä½•è€…ï¼Ÿ"," Clinical Document Architecture "," Communication Data Access"," Computer Database Assistance "," Control Disease Association",Ans1
-"32.è¦åšå¥½ç¶²è·¯ç®¡ç†ï¼Œç¶²è·¯ç®¡ç†è€…å¿…é ˆé€éè»Ÿé«”å·¥å…·èˆ‡ç¶²è·¯è¨­å‚™æºé€šï¼Œä¸€èˆ¬æ‰€æ¡ç”¨çš„ã€Œç°¡æ˜“ç¶²è·¯ç®¡ç†é€šè¨Šå”å®šã€æ˜¯å“ªä¸€ç¨®å”å®šï¼Ÿ"," HTTP "," FTP "," SMTP "," SNMP",Ans4
-"33.è³‡è¨Šç³»çµ±é–‹ç™¼å„éšæ®µæ‡‰ç”¢ç”Ÿä¸åŒçš„æ–‡ä»¶ï¼Œåœ¨ç³»çµ±åˆ†æéšæ®µæ‰€ç”¢ç”Ÿçš„æ–‡ä»¶ç‚ºï¼Ÿ","ç³»çµ±éœ€æ±‚è¦æ ¼æ›¸ ","ç³»çµ±åŠŸèƒ½è¦æ ¼æ›¸ ","ç³»çµ±æ¸¬è©¦å ±å‘Š ","ç¨‹å¼èªªæ˜æ›¸",Ans1
-"34.ç³»çµ±æ¸¬è©¦æœ‰å›ºå®šçš„ç¨‹åºèˆ‡æ­¥é©Ÿï¼Œä¸€èˆ¬æ¸¬è©¦çš„é †åºç‚ºä½•ï¼Ÿ","æ•´åˆæ¸¬è©¦ã€å–®å…ƒæ¸¬è©¦ã€å¹³è¡Œæ¸¬è©¦æˆ–æ•´é«”æ¸¬è©¦ã€é©—æ”¶æ¸¬è©¦","å–®å…ƒæ¸¬è©¦ã€æ•´åˆæ¸¬è©¦ã€é©—æ”¶æ¸¬è©¦ã€å¹³è¡Œæ¸¬è©¦æˆ–æ•´é«”æ¸¬è©¦","å–®å…ƒæ¸¬è©¦ã€å¹³è¡Œæ¸¬è©¦æˆ–æ•´é«”æ¸¬è©¦ã€æ•´åˆæ¸¬è©¦ã€é©—æ”¶æ¸¬è©¦","é©—æ”¶æ¸¬è©¦ã€å–®å…ƒæ¸¬è©¦ã€æ•´åˆæ¸¬è©¦ã€å¹³è¡Œæ¸¬è©¦æˆ–æ•´é«”æ¸¬è©¦",Ans2
-"35.æˆ‘åœ‹ç›®å‰å¥ä¿ç”³å ±çµ¦ä»˜æ‰€æ¡ç”¨çš„ç–¾ç—…åˆ†é¡ç¢¼æ˜¯å“ªä¸€ç¨®ï¼Ÿ"," ICD9-CM "," SNOMED "," LOINC "," HL7",Ans1
-"36.ä»¥ä¸‹ä½•è€…ä¸æ˜¯å»ºæ§‹æœ‰æ•ˆé›»å­å¥åº·æª”æ¡ˆç³»çµ±é ˆè€ƒæ…®ä¹‹é‡è¦å› ç´ ?","æ¨™æº–åŒ–é†«å­¸åè© ","è³‡æ–™å®‰å…¨ã€éš±ç§","å»ºç½®è²»ç”¨ä¾†æº ","åˆ†æ•£å¼é†«ç™‚è³‡è¨Šè³‡æ–™è¼¸å…¥",Ans3
-"37.HIMSS èˆ‡ RSNA è¯åˆæå‡º IHE æŠ€è¡“æ¶æ§‹ï¼Œè«‹å•ç›®å‰æ˜¯ä»¥é‚£å…©å¤§é†«ç™‚è³‡è¨Šæ¨™æº–ç‚ºç™¼å±•åŸºç¤ï¼Ÿ"," HL8 & DICOM "," HL7 & DICOM ","LONIC & DICOM "," DOCOME",Ans2
-"38.è­·ç†å¸«ã€è­·å£«åœ¨é†«å¸«æŒ‡ç¤ºä¸‹ï¼Œå¾—å¾äº‹ï¼š","è¨˜è¼‰ç—…æ­· ","é†«ç™‚è¼”åŠ©è¡Œç‚º ","éº»é†‰è¡Œç‚º ","ä»¥ä¸Šçš†é",Ans2
-"39.é†«å¸«ä¸‹åˆ—è¡Œç‚ºï¼Œä¸æ§‹æˆç§»ä»˜æ‡²æˆ’äº‹ç”±ï¼š","æ¥­å‹™ä¸Šé‡å¤§éå¤± ","åŸ·æ¥­é•èƒŒé†«å­¸å€«ç† ","å‡ºç§Ÿé†«å¸«è­‰æ›¸ ","ä»¥ä¸Šçš†é",Ans3
-"40.é†«å¸«åœ¨ç™»è¨˜åŸ·æ¥­è™•æ‰€ä»¥å¤–ä¹‹è™•æ‰€åŸ·è¡Œæ¥­å‹™ï¼Œé ˆå‘è¡›ç”Ÿå±€å ±å‚™è€…ç‚ºï¼š","é‡å¤§é‡å‚·ç—…æ‚£ä¹‹æ”¯æ´ ","é–€è¨ºæˆ–ç¾©è¨º ","é‡ç—‡å‚·ç—…ä¹‹å¾µè©¢ ","ä»¥ä¸Šçš†é",Ans2
-"41.ä½•ç¨®é†«ç™‚è¡Œç‚ºï¼Œå…ç¶“ç—…äººç°½å…·åŒæ„æ›¸ï¼š","æ‰‹è¡“ã€éº»é†‰ ","ä¾µå…¥æ€§æª¢æŸ¥ã€æ²»ç™‚ ","å¼·åˆ¶æ€§æ²»ç™‚ ","ä»¥ä¸Šçš†éã€‚",Ans3
-"42.ä¸‹åˆ—ä½•è€…ä¸å¾—ç‚ºé†«ç™‚å»£å‘Šä¹‹å…§å®¹ï¼š","é†«å¸«æ€§åˆ¥ã€å­¸ç¶“æ­· ","è¨ºç™‚ç§‘åˆ¥ã€é–‹æ¥­æ—¥æœŸ ","é†«ç™‚æŠ€è¡“ã€ç™‚æ•ˆ","ä»¥ä¸Šçš†éã€‚",Ans3
-"43.ä¾æˆ‘åœ‹é†«ç™‚æ³•ç¬¬ 48 æ¢è¦å®šï¼Œé†«é™¢ç—…æ­·è‡³å°‘æ‡‰ä¿å­˜å¤šå°‘å¹´ï¼Ÿ"," 5 "," 10 "," 15 "," 20",Ans2
-"44.DRG( Diagnosis-Related Groups)ä¹‹æ”¯ä»˜æ¨™æº–ç”¨æ–¼ï¼š","æ€¥è¨º ","é–€è¨º ","ä½é™¢ ","é•·æœŸç…§è­·",Ans3
-"45.æˆ‘åœ‹ç™¼æ”¾é†«äº‹äººå“¡æ†‘è­‰ IC å¡åŠåŸ·è¡Œèªè­‰ä¸»ç®¡å–®ä½ç‚ºï¼š","å¥ä¿å±€ ","è¡›ç”Ÿç½² ","å…§æ”¿éƒ¨ ","å„é†«é™¢",Ans2
-"46.é—œè¯å¼è³‡è¨Šåº«è¦æ±‚æ¯å€‹è³‡æ–™è¡¨(table)éƒ½è¦æœ‰ä¸€å€‹éµ(key)ä¾†è­˜åˆ¥è©²è³‡æ–™è¡¨ä¹‹æ¯ä¸€å€‹ record, è©² key ç¨±ç‚º :"," primary key "," foreign key "," candidate key "," alternate key",Ans1
-"47.å…¨éœè„ˆç‡Ÿé¤Šæ³¨å°„ç°¡ç¨±ç‚ºï¼š"," TSN "," PPN "," TPN ","PVT",Ans3
-"48.ä»¥é†«ç™‚è³‡è¨Šçš„é ˜åŸŸè€Œè¨€ï¼Œä½•è¬‚ PACS ï¼Ÿ"," PanAmerican Climate Studies "," Physics and Astronomy ClassificationScheme "," Photodetector Array Camera & Spectrometer "," Pictures Archivingand Communication System",Ans4
-"49.æœ€æ—©çš„ Clinical Decision Support System ä¹‹ä¸€æ˜¯ Dr. Shortliffe åœ¨ 1972 å¹´å·¦å³ç™¼å±•çš„ MYCIN, å…¶ç›®çš„åœ¨æ–¼å¹«åŠ© physician è¨ºæ–·åŠæ²»ç™‚ meningitis (è…¦è†œç‚)ä¹‹ç—…äººã€‚å…¶ knowledge base (KB) ä¹‹ä¸€å°éƒ¨ä»½å¦‚ä¸‹:If the site of culture is blood AND the morphology of the organism is rod ANDthe Gram stain is Gram negative AND the patient is a compromised hostTHEN there is suggestive evidence (0.6) that the organism is Pseudomonasaeruginosa è«‹å•æ­¤ç³»çµ±ä¹‹æ¶æ§‹æ˜¯å±¬æ–¼:"," Rule-based approach "," Support Vector Machine"," Artificial Neural Network "," Statistical Modeling",Ans1
-"50.Medical Vocabulary ä¹‹æ¨™æº–åŒ–å°æ–¼é›»å­ç—…æ­·ä¹‹å¯¦ç¾æœ‰æ¥µé‡è¦çš„å½±éŸ¿ã€‚ ä»¥ä¸‹é‚£ä¸€çµ„æ¨™æº–æœ€é©åˆç”¨ä¾†æè¿°ç—…äººçš„è‡¨åºŠç—‡ç‹€ (Clinical Findings):","ICD-9 CM (åœ‹éš›ç–¾ç—…åˆ†é¡ç¢¼) ","Mesh Heading (ç¾ç”¨æ–¼Medlineä¹‹é†«å­¸æ–‡ä»¶æœå°‹) "," SNOMED "," LOINC",Ans3
-"51.æœ‰é—œé›»å­ç—…æ­·ï¼Œå…¶å¯¦ç¾ä¹‹éšœç¤™ä¸åŒ…æ‹¬ä¸‹åˆ—å“ªä¸€é …ï¼Ÿ","æ³•å¾‹å°å¯¦é«”ç—…æ­·ä¹‹é™åˆ¶ ","é†«ç™‚è³‡è¨Šä¹‹å¤šæ¨£æ€§åŠæ“·å–ä¹‹å›°é›£","ç·¨ç¢¼ç³»çµ±(Coding Scheme)æœªæ¨™æº–åŒ– ","é«˜é¡ä¹‹åˆæœŸæŠ•è³‡",Ans1ã€2ã€3ã€4
-"52.ç–¾ç—…ç®¡åˆ¶å±€å°‡æµæ„Ÿæµè¡Œç–«æƒ…åˆ†ç‚ºäº”ç´šï¼Œè«‹å•é‚£ä¸€ç´šæ˜¯ã€Œåœ‹å…§é€²å…¥æ–°å‹æµè¡Œæ€§æ„Ÿå†’äººå‚³äººç¢ºå®šç—…ä¾‹ä¹‹å¤§è¦æ¨¡æµè¡Œã€ï¼Ÿ"," C ç´š ","A2 ç´š ","B ç´š ","A1 ç´š",Ans1
+Question,Answer1,Answer2,Answer3,Answer4,Correct Answer(s),Year,Chapter
+"1.¦æ¬F°|½Ã¥Í¸p±À°Ê¡u°ê®a°·±dºô¸ô«Ø³]­p¹º¡v¦Ü¤µ¡A¨Ï°ê¤ºÂåÀø°|©Ò³£¬°¸óÂå°|¹q¤l¯f¾ú§@·~µo®i§V¤O¡A¤]Åé»{¨ìÂåÀø¸ê°T¼Ğ·Çªº­«­n©Ê¡C¥Ø«e±À°ÊªºÂåÀø¸ê°T¼Ğ·Ç¬°:","IHE ","DICOM "," HL7 ","¥H¤W¬Ò¬O¡C",Ans4
+"2.¥Ø«e³Ì³q¦æªººô»Úºô¸ô¬O¦b¤°»òºô¸ô¬[ºc¤U¡G","IBM SNA ","Novell LAN ","TCP/IP ","¥H¤W¬Ò¬O¡C",Ans3
+"3. HL7 (Health Level 7) ÂåÀø¸ê°T¼Ğ·ÇµÛ­«©ó OSI(Open Systems Interconnection )reference model ªº­ş¤@¼h¬°¥D?"," Data Link "," Application "," Network "," Presentation",Ans2
+"4.Âå°|¸ê°T¨t²Î¤¤ªº¯f¾úºŞ²z¨t²Î¥\¯à¡A¤£¥]¬A¤U¦C¦óªÌ?","¯e¯f¤ÀÃşµn°O ","¯f¾ú¬d¸ß ","¸ê§÷¨ÑÀ³ ","¯f¾úÂkÀÉ§@·~",Ans3
+"5.¤U¦C­ş¨ÇÄİ¹ê¬I PACS ¨t²Î«á©Ò¯à§ïµ½¤§Âå°|ºŞ²z¶µ¥Ø:"," ¯f±wµ¥­ÔÀË¬d¤§®É¶¡ ","µ¥­Ô¬~¤ùªº®É¶¡ ","X ¤ù³UÀx¦sªÅ¶¡ ","¥H¤W¬Ò¬O",Ans4
+"6.Âå°|¦p±ı«Ø¸m¼v¹³¶Ç¿é¨t²Î(PACS)¶·¦Ò¶q»P¦ó¨t²Î¤§¾ã¦X¡G","ÂåÀø«~½èºŞ²z¨t²Î ","¹q¤l¸ê®Æ¥æ´«¨t²Î(EDI) ","ÂåÀø¸ê°T¨t²Î(HIS)","°ª¶¥¥DºŞ¸ê°T¨t²Î(EIS)",Ans3
+"7.¥Ø«e¥@¬É¤W³Ì§¹¾ãªºÂå¾Çµü·J¼Ğ·Ç¬O"," HL7 "," ICD-10 "," MeSH "," SNOMED¡C",Ans4
+"8.ÀË¶Ë¤ÀÃş¤À¯Å¤¤¡A»İ­n³ÌÀu¥ı³B²zªº¬O:"," ¤@ "," ¤G "," ¤T "," ¥| ¯Å",Ans1
+"9.¯f¤H¦b¦í°|«á¡A¨Ì·Ó«ØÄ³ªvÀø¯f¤H¡AµM«á¥ÑÂåÅ@¤H­û¹ï·Ó¹ê»ÚªºªvÀøµ{§Ç»P®t²§¡Aª½¨ì¯f¤H¥X°|ªº¬O:","Á{§É·Ç«h ","¯e¯f¤ÀÃş ","DRGs ","Á{§É¸ô®|",Ans4
+"10.¥Ø«e°ê¤ºÂå°|©Ò¨Ï¥Î¤§¸ê°T¨t²Î¦h¬°¦óºØ¬[ºc¡G","¶¥¼h¦¡(hierarchical) ","ºôª¬¦¡(network) ","ÃöÁp¦¡(relational) ","ÀÉ®×(file)",Ans3
+"11.¤U¦C¹ï©ó°·«Oµ¹¥I¨î«×Àu¯ÊÂI¤ñ¸û¦óªÌ¦³»~¡G","½×¶q­p¹S¹ï©óÂå®vªºÂåÀø¦æ¬°¦Û¥DÅv¸û°ª¡A¦ı©ö¶¡±µ¹ªÀy§UªøÂåÀø¶O¥Î¤Wº¦","½×¯f¨Ò­p¹S¥i¥H¾A¥Î©Ò¦³¯e¯f¶µ¥Ø","½×¤H­p¹S·|¨ÏÂå°|¹ïÂåÀø¦¨¥»­°§C¡A¦ı¬O·|´î¤ÖÂå°|¹ï ¯f¤HªºÂåÀø¶µ¥Ø¼vÅTÂåÀø«~½è","Á`ÃBµ¹¥I¡A¥i´î§C¤¤¥¡°·«O§½°]°È­t¾á¡A¦ı·|³y¦¨Âå°|Àç¦¬´î¤Ö¡A¥i¯à²£¥Í¤H²y¨Æ¥ó",Ans2
+"12.¤U¦C¦óªÌÂåÀø³]³Æ¤Î¬ÛÃö¨t²Î»P PACS µLª½±µÃö«Y¡G"," LIS "," CT "," MRI "," CR/DR",Ans1
+"13.¤U¦Cºô¸ô¬[ºc¦óªÌ³t«×³Ì§Ö¡G","¤A¤Óºô¸ô(Ethernet) ","«D¦P¨B¶Ç¿é¼Ò¦¡(ATM)","¶W°ª³t¤A¤Óºô¸ô(Gigabit Ethernet) ","°O¸¹Àô(Token Ring)",Ans3
+"14.¤U¦C¹ï©ó¸ê®Æ®w¤§­z»¡¦óªÌ¦³»~¡G","¥i¥H´î¤Ö¸ê®Æªº­«½Æ©Ê ","¥[±j¸ê®Æªº¤@­P©Ê","´£¨Ñµ{¦¡³]­p¤§«K§Q ","³]­pºûÅ@¦¨¥»§C",Ans4
+"15.¦bºô¸ô¤¤­t³d¦¬«H¤u§@ªº¨ó©w¬O¡H"," FTP "," SMTP "," POP "," SNMP¡C",Ans3
+"16.¸ê°T¦w¥ş¥D­n¥Øªº¬O«OÅ@¨t²Î¸ê·½©M¸ê®Æªº¯S©Ê¤£¨ü«I®`¡A¥H¤U­ş­Ó¯S©Ê¨Ã¤£¦b©Ò­n«OÅ@ªº½dÃ¥¤º¡H","¾÷±K©Ê ","§¹¾ã©Ê ","¥i¨ú¥Î©Ê ","§Y®É©Ê¡C",Ans4
+"17.¡u¹q¤lÃ±³¹ªk®×¡v¬O³W½d¹q¤lÃ±³¹ªº¬ÛÃö§@·~¡A½T¥ß¹q¤lÃ±³¹ªºªk«ß®Ä¤O¡A°µ¬°¹q¤l°Ó°È»P¹q¤l¸ê®Æ¥æ´«ªº§@·~°ò·Ç¡F¤U¦C¨º­Ó­ì«h¤£¬O¦¹ªk«Ø¥ßªº°òÂ¦¡H"," §Ş³N¤¤¥ß ","¸ê®Æ§¹¾ã ","«´¬ù¦Û¥Ñ","¥«³õ¾É¦V¡C",Ans2
+"18. ¤£¦P¼tµPªº¨â³¡Âå¾Ç¼v¹³»ö¾¹¤§¶¡ªº¶Ç¿é¡AÀ³¸Ó¿í´`­ş¤@¶µ¼Ğ·Ç¡H"," HL7 "," LOINC "," DICOM "," UMLS",Ans3
+"19.¼Æ¦ì«H«Ê¥[±K®É»İ­n¨Ï¥Î¦óºØ¥[±K¤èªk¡H","¹ïºÙ¦¡ ","«D¹ïºÙ¦¡ ","²V¦X¦¡ ","¥H¤W¬Ò«D¡C",Ans3
+"20.Âå¨Æ¤H­û¾ÌÃÒ HCA(Healthcare Certification Authority)¥D­n¥Øªº¬°¥H¤U¦óªÌ¡H","³W¹º¬[ºc²Å¦X¥ı¶i°ê®a Healthcare PKI ¤§µo®iÁÍ¶Õ ","¿í´`¬F©² GPKI §Ş³N³W½d¤Î°ê»Ú¼Ğ·Ç ","µ²¦XÂå¨Æ¾÷ºc¤Î¤H­û¹q¤lÃÒ®Ñ¡B¤H­ûºŞ²z¡B¾Ç¤À±Ğ¨|µ¥À³¥Î ","¥H¤W¬Ò¬O¡C",Ans4
+"21.¥H¤U¨º¤@¶µ¬O¸ê°TºŞ²z­n¥ó¤§¤@","²ÕÂ´ ","¤H­û ","¹q¸£ ","¸ê®Æ",Ans1¡B2¡B3¡B4
+"22.¥H¤U¨º¤@¶µ´y­z¥¿½T ?","¯f¾ú¹q¤l¤Æ´N¬Û·í©ó¹ê¬I¹q¤l¯f¾ú ","HCA ¬O½Ã¥Í§½©Ò±À°Ê¤§Âå¨Æ¤H­û»{ÃÒ¾÷¨î ","¹q¤lÃ±³¹»P¼Æ¦ìÃ±³¹¤§©w¸q¬Û¦P ","©Ò¿×ªºPKI¨t²Î¬O±N¤½Æ_¥[±Kºtºâªk¡B¾ÌÃÒ¤Î CA ¾ã¦X¤§¦w¥ş¨t²Î",Ans4
+"23 ¥H¤U¨º¤@¶µ¤£¬O¸ê°T¦w¥ş©Ò­n½T«O¤§¶µ¥Ø ?","¸ê®ÆÁô¨p©Ê ","¸ê®Æ¥¿½T©Ê ","¸ê®Æ¤£¥i§_»{©Ê ","¸ê®Æ¤£¥i­×§ï©Ê",Ans4
+"24 ¥H¤U¨º¤@¶µ¤£¬O¸ê°T¨t²Îµo®i¨BÆJ¤§¤@ ?","¨t²Î¤ÀªR ","¨t²Î³]­p ","¨t²Î´ú¸Õ ","¥H¤W¬Ò¬O",Ans4
+"25.ÂåÀø°|©Ò¹ê¬I¹q¤l¯f¾ú¤§­nÂI¬°:","¹q¤l¯f¾ú¶·¥[¤J¥Íª«¹q¤lÃ±³¹ ","¹q¤l¯f¾ú¤£¥i­×§ï ","¹q¤l¯f¾ú¥²¶·­n¦³³Æ¥÷ ","¹q¤l¯f¾ú¹ê¬I«á´N¤£¥i´£¨Ñ¯È¥»¯f¾úµ¹¯f¤H",Ans3
+"26.Âå¾Ç¸ê°T¾Ç¬O :","ÂåÀø¸ê°T¨t²Î¤§¾Ç³N¦WºÙ ","ºî¦X¸ê°T¬ì§Ş»PÂåÀø»â°ì¤§¤@ªù¾Ç°İ","²Î­p¤ÀªRÂåÀø¸ê®Æ¤§¤u¨ã ","¹êÃÒÂå¾Çµo®i¤§°òÂ¦",Ans2
+"27.¤U¦C¦óªÌ¤£¬O¨Ï¥Î¹q¤l¯f¾úªºÀuÂI¡H","¨ú¥NÃe¤j«p­«ªº¯È±i°O¿ı¡A¸`¬Ù¯f¾úÀx¦sªÅ¶¡","¤ä´©Á{§É¨Mµ¦¤ÎÄµ¥Ü¥\¯à","¯f¤H¸ê®Æ®e©ö¶Ç°e»PÂ^¨ú","¶}©l¹ê¬I¯f¾ú¹q¤l¤Æªì´Á´N¥i¥H¥ß§YÀò±oÅãµÛªº®Ä¯q",Ans4
+"28.¯f¾ú¸ê®Æ®w¤¤¨C¤@¯f±w¦³¤@µ§°ò¥»¸ê®Æ¡A¨º­ÓÄæ¦ì³Ì¾A¦X§@¬°¬d¸ß¥DÁä­È¡H","¥Í¤é ","©m¦W ","¨­¤ÀÃÒ¦r¸¹ ","¦a§}",Ans3
+"29.¥Í²zºÊµø¾¹¬O¥HÂå¾Ç°T¸¹ªº³B²z§Ş³N¨ÓºÊ´ú¯f¤H©I§l¡B¦åÀ£¡B¤ß¸õ¡B¦å®ñ¿@«×µ¥¸ê®Æ¡A³q±`¬OÀ³¥Î¦bÂå°|ªº­ş¤@­Ó³æ¦ì¡H","ÃÄ§½ ","¥[Å@¯f©Ğ ","Àç¾i«Ç ","ªù¶E¶E¶¡",Ans2
+"30.½Ã¥Í¸p¦¨¥ßÂåÀø¾ÌÃÒ¤¤¤ß(HCA)¡Aµo©ñªºÂå¨Æ¤H­û¾ÌÃÒ¡A¤U¦C±Ô­z¦óªÌ¥¿½T¡H","±Ä¥Î¯µ±Kª÷Æ_ªº¥[±K¤èªk ","¬O¤@ºØ¹ïºÙ¦¡ªº¥[±K§Ş³N ","Âå¨Æ¤H­û¾ÌÃÒ¥d¦s©ñªº§Y¬O©Ò¿×ªº¤½¶}ª÷Æ_ ","«D¹ïºÙ¦¡ªº¥[¸Ñ±K§Ş³N¬O±Ä¥Î RSA ºtºâªk",Ans4
+"31.½Ã¥Í¸p©e°UÂå¾Ç¸ê°T¾Ç·|³Ìªñ¨î©w§¹¦¨ªº¹q¤l¯f¾ú°ò¥»®æ¦¡¡A¬O¿í´`¤FHL7/CDA ªº¼Ğ·Ç¡A©Ò¿× CDA ¬O«ü¤U¦C¦óªÌ¡H"," Clinical Document Architecture "," Communication Data Access"," Computer Database Assistance "," Control Disease Association",Ans1
+"32.­n°µ¦nºô¸ôºŞ²z¡Aºô¸ôºŞ²zªÌ¥²¶·³z¹L³nÅé¤u¨ã»Pºô¸ô³]³Æ·¾³q¡A¤@¯ë©Ò±Ä¥Îªº¡uÂ²©öºô¸ôºŞ²z³q°T¨ó©w¡v¬O­ş¤@ºØ¨ó©w¡H"," HTTP "," FTP "," SMTP "," SNMP",Ans4
+"33.¸ê°T¨t²Î¶}µo¦U¶¥¬qÀ³²£¥Í¤£¦Pªº¤å¥ó¡A¦b¨t²Î¤ÀªR¶¥¬q©Ò²£¥Íªº¤å¥ó¬°¡H","¨t²Î»İ¨D³W®æ®Ñ ","¨t²Î¥\¯à³W®æ®Ñ ","¨t²Î´ú¸Õ³ø§i ","µ{¦¡»¡©ú®Ñ",Ans1
+"34.¨t²Î´ú¸Õ¦³©T©wªºµ{§Ç»P¨BÆJ¡A¤@¯ë´ú¸Õªº¶¶§Ç¬°¦ó¡H","¾ã¦X´ú¸Õ¡B³æ¤¸´ú¸Õ¡B¥­¦æ´ú¸Õ©Î¾ãÅé´ú¸Õ¡BÅç¦¬´ú¸Õ","³æ¤¸´ú¸Õ¡B¾ã¦X´ú¸Õ¡BÅç¦¬´ú¸Õ¡B¥­¦æ´ú¸Õ©Î¾ãÅé´ú¸Õ","³æ¤¸´ú¸Õ¡B¥­¦æ´ú¸Õ©Î¾ãÅé´ú¸Õ¡B¾ã¦X´ú¸Õ¡BÅç¦¬´ú¸Õ","Åç¦¬´ú¸Õ¡B³æ¤¸´ú¸Õ¡B¾ã¦X´ú¸Õ¡B¥­¦æ´ú¸Õ©Î¾ãÅé´ú¸Õ",Ans2
+"35.§Ú°ê¥Ø«e°·«O¥Ó³øµ¹¥I©Ò±Ä¥Îªº¯e¯f¤ÀÃş½X¬O­ş¤@ºØ¡H"," ICD9-CM "," SNOMED "," LOINC "," HL7",Ans1
+"36.¥H¤U¦óªÌ¤£¬O«Øºc¦³®Ä¹q¤l°·±dÀÉ®×¨t²Î¶·¦Ò¼{¤§­«­n¦]¯À?","¼Ğ·Ç¤ÆÂå¾Ç¦Wµü ","¸ê®Æ¦w¥ş¡BÁô¨p","«Ø¸m¶O¥Î¨Ó·½ ","¤À´²¦¡ÂåÀø¸ê°T¸ê®Æ¿é¤J",Ans3
+"37.HIMSS »P RSNA Áp¦X´£¥X IHE §Ş³N¬[ºc¡A½Ğ°İ¥Ø«e¬O¥H¨º¨â¤jÂåÀø¸ê°T¼Ğ·Ç¬°µo®i°òÂ¦¡H"," HL8 & DICOM "," HL7 & DICOM ","LONIC & DICOM "," DOCOME",Ans2
+"38.Å@²z®v¡BÅ@¤h¦bÂå®v«ü¥Ü¤U¡A±o±q¨Æ¡G","°O¸ü¯f¾ú ","ÂåÀø»²§U¦æ¬° ","³Â¾K¦æ¬° ","¥H¤W¬Ò«D",Ans2
+"39.Âå®v¤U¦C¦æ¬°¡A¤£ºc¦¨²¾¥IÃg§Ù¨Æ¥Ñ¡G","·~°È¤W­«¤j¹L¥¢ ","°õ·~¹H­IÂå¾Ç­Û²z ","¥X¯²Âå®vÃÒ®Ñ ","¥H¤W¬Ò«D",Ans3
+"40.Âå®v¦bµn°O°õ·~³B©Ò¥H¥~¤§³B©Ò°õ¦æ·~°È¡A¶·¦V½Ã¥Í§½³ø³ÆªÌ¬°¡G","¹J¤j¶q¶Ë¯f±w¤§¤ä´© ","ªù¶E©Î¸q¶E ","­«¯g¶Ë¯f¤§¼x¸ß ","¥H¤W¬Ò«D",Ans2
+"41.¦óºØÂåÀø¦æ¬°¡A§K¸g¯f¤HÃ±¨ã¦P·N®Ñ¡G","¤â³N¡B³Â¾K ","«I¤J©ÊÀË¬d¡BªvÀø ","±j¨î©ÊªvÀø ","¥H¤W¬Ò«D¡C",Ans3
+"42.¤U¦C¦óªÌ¤£±o¬°ÂåÀø¼s§i¤§¤º®e¡G","Âå®v©Ê§O¡B¾Ç¸g¾ú ","¶EÀø¬ì§O¡B¶}·~¤é´Á ","ÂåÀø§Ş³N¡BÀø®Ä","¥H¤W¬Ò«D¡C",Ans3
+"43.¨Ì§Ú°êÂåÀøªk²Ä 48 ±ø³W©w¡AÂå°|¯f¾ú¦Ü¤ÖÀ³«O¦s¦h¤Ö¦~¡H"," 5 "," 10 "," 15 "," 20",Ans2
+"44.DRG( Diagnosis-Related Groups)¤§¤ä¥I¼Ğ·Ç¥Î©ó¡G","«æ¶E ","ªù¶E ","¦í°| ","ªø´Á·ÓÅ@",Ans3
+"45.§Ú°êµo©ñÂå¨Æ¤H­û¾ÌÃÒ IC ¥d¤Î°õ¦æ»{ÃÒ¥DºŞ³æ¦ì¬°¡G","°·«O§½ ","½Ã¥Í¸p ","¤º¬F³¡ ","¦UÂå°|",Ans2
+"46.ÃöÁp¦¡¸ê°T®w­n¨D¨C­Ó¸ê®Æªí(table)³£­n¦³¤@­ÓÁä(key)¨ÓÃÑ§O¸Ó¸ê®Æªí¤§¨C¤@­Ó record, ¸Ó key ºÙ¬° :"," primary key "," foreign key "," candidate key "," alternate key",Ans1
+"47.¥şÀR¯ßÀç¾iª`®gÂ²ºÙ¬°¡G"," TSN "," PPN "," TPN ","PVT",Ans3
+"48.¥HÂåÀø¸ê°Tªº»â°ì¦Ó¨¥¡A¦ó¿× PACS ¡H"," PanAmerican Climate Studies "," Physics and Astronomy ClassificationScheme "," Photodetector Array Camera & Spectrometer "," Pictures Archivingand Communication System",Ans4
+"49.³Ì¦­ªº Clinical Decision Support System ¤§¤@¬O Dr. Shortliffe ¦b 1972 ¦~¥ª¥kµo®iªº MYCIN, ¨ä¥Øªº¦b©óÀ°§U physician ¶EÂ_¤ÎªvÀø meningitis (¸£½¤ª¢)¤§¯f¤H¡C¨ä knowledge base (KB) ¤§¤@¤p³¡¥÷¦p¤U:If the site of culture is blood AND the morphology of the organism is rod ANDthe Gram stain is Gram negative AND the patient is a compromised hostTHEN there is suggestive evidence (0.6) that the organism is Pseudomonasaeruginosa ½Ğ°İ¦¹¨t²Î¤§¬[ºc¬OÄİ©ó:"," Rule-based approach "," Support Vector Machine"," Artificial Neural Network "," Statistical Modeling",Ans1
+"50.Medical Vocabulary ¤§¼Ğ·Ç¤Æ¹ï©ó¹q¤l¯f¾ú¤§¹ê²{¦³·¥­«­nªº¼vÅT¡C ¥H¤U¨º¤@²Õ¼Ğ·Ç³Ì¾A¦X¥Î¨Ó´y­z¯f¤HªºÁ{§É¯gª¬ (Clinical Findings):","ICD-9 CM (°ê»Ú¯e¯f¤ÀÃş½X) ","Mesh Heading (²{¥Î©óMedline¤§Âå¾Ç¤å¥ó·j´M) "," SNOMED "," LOINC",Ans3
+"51.¦³Ãö¹q¤l¯f¾ú¡A¨ä¹ê²{¤§»ÙÃª¤£¥]¬A¤U¦C­ş¤@¶µ¡H","ªk«ß¹ï¹êÅé¯f¾ú¤§­­¨î ","ÂåÀø¸ê°T¤§¦h¼Ë©Ê¤ÎÂ^¨ú¤§§xÃø","½s½X¨t²Î(Coding Scheme)¥¼¼Ğ·Ç¤Æ ","°ªÃB¤§ªì´Á§ë¸ê",Ans1¡B2¡B3¡B4
+"52.¯e¯fºŞ¨î§½±N¬y·P¬y¦æ¬Ì±¡¤À¬°¤­¯Å¡A½Ğ°İ¨º¤@¯Å¬O¡u°ê¤º¶i¤J·s«¬¬y¦æ©Ê·P«_¤H¶Ç¤H½T©w¯f¨Ò¤§¤j³W¼Ò¬y¦æ¡v¡H"," C ¯Å ","A2 ¯Å ","B ¯Å ","A1 ¯Å",Ans1
 "53. Which of the following technology makes the distributed databases possible"," wireless "," FTP "," data coding "," network",Ans4
 "54.When develop an information system, we usually start with :","testing design ","physical data modeling ","conceptual data schema design","logical data modeling",Ans3
 "55.The fundamental concepts of a data model include the following, except"," record "," entity "," attribute "," key attribute",Ans1
@@ -82,7 +82,7 @@ Question,Answer1,Answer2,Answer3,Answer4,Correct Answer(s)
 "81. Which of the following abbreviations is not a correct mnemonic code for themeaning behind the abbreviation?"," OB-GYN: Department of Obstetrics and Gynecology."," OR: Department of Surgery"," CAR: Department of Cardiology"," ENT: Department of Ear, Nose, Throat",Ans2
 "82. In order to avoid unnecessary trouble for the 'patients' and to minimize healthcarecosts, the aim in screening for disease x is to get as few healthy (e.g. not havingdisease x) people as possible into the healthcare system. In achieving this, which oneof the next test parameters (in percentages) should be as small as possible?"," FN (false negative). "," TN (true negative)."," TP (true positive). "," FP (false positive).",Ans4
 "83.Which one is not clinical decision support systems?","computer-assisted dosage systems ","computer-assisted diagnosis systems","preventive care reminder systems ","registration and billing systems",Ans4
-"84.Which statement regarding biases in demonstration studies is wrong?"," Volunteer effect means volunteers perform better than others"," Placebo effect means patientsâ€™ symptoms improve if â€œhigh techâ€ computers arepresent"," Hawthorne effect means subjects learn from the system, so performance improveson control cases"," Data completeness bias means more data are collected in computer versus controlcases, so assessment is more accurate",Ans3
+"84.Which statement regarding biases in demonstration studies is wrong?"," Volunteer effect means volunteers perform better than others"," Placebo effect means patients¡¦ symptoms improve if ¡§high tech¡¨ computers arepresent"," Hawthorne effect means subjects learn from the system, so performance improveson control cases"," Data completeness bias means more data are collected in computer versus controlcases, so assessment is more accurate",Ans3
 "85. Which data used for patient monitoring in ICUs is not continuous variable?","Blood pressure ","ECG ","Respiratory ","Blood chemistry",Ans4
 "86.Human interface design is performed during:","systems planning and selection. "," systems analysis. "," systems design."," systems implementation and operation.",Ans3
 "87.Which of the following is the standard method of gathering and displayinginformation on the Internet?"," Dialogue interaction "," Form interaction "," Report interaction"," Menu selection",Ans2
@@ -97,5 +97,5 @@ Question,Answer1,Answer2,Answer3,Answer4,Correct Answer(s)
 "96.Regarding consumer health informatics, which of the following issues will gain inethical importance over next decade:","peer review ","online consultations ","supporting groups ","all of the above",Ans4
 "97. 1.Negligence theory 2. Strict product liability 3. Fairness principle4. Accountability act. Which of the above are ideas from tort law potentiallyapplicable to the clinical use of software systems:"," 1, 2 "," 2, 3 ","3, 4 "," 1, 3",Ans1
 "98. HIPAA stands for"," Health Information Protection and Accountability Act"," Healthcare Information Privacy and Authorization Act"," Health Information Portability and Accountability Act"," Health Information Portability and Autonomy Act",Ans3
-"99. According to the â€Handbook of medical informaticsâ€, which of the following isnot an aspect of information:"," Syntactic "," Semantic "," Pragmatic "," Schematic,",Ans4
+"99. According to the ¡¨Handbook of medical informatics¡¨, which of the following isnot an aspect of information:"," Syntactic "," Semantic "," Pragmatic "," Schematic,",Ans4
 "100. Which of the following statement is incorrect"," SQL can express all the relations between entities "," the basic element ofrelational database is relation "," after normalization, human can exam the dataeasily "," all of the above",Ans3

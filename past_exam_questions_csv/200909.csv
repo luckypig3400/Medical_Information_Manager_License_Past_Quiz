@@ -1,51 +1,51 @@
-Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4
-Ans4,"1.Target Therapy 是指 (**149)","放射治療 ","電療 ","復健治療 ",標靶治療
-Ans2,"2.心肌炎的醫護術語為 (**41)","ankylosis ","myocarditis ","hyperemesis ",nullipara
-Ans2,"3.Glaucoma 是指 (**99)","高血糖症 ","青光眼 ","貧血 ",黃疸
-Ans4,"4.Schizophrenia 是指精神科的 (**141)","失智症 ","暴露症 ","畏懼症 ",精神分裂症
-Ans1,"5.最近 H1N1 疫苗問題被炒的很熱，請問疫苗的醫護術語是 (**138)","vaccine ","vaginitis","treatment ",enterorrhagia
-Ans1,"6.Acute Myocardial Infarctiom (AMI) 是指 (**41)","急性心肌梗塞 ","猛爆性肝炎 ","躁鬱症 ",急性腸胃炎
-Ans3,"7.Positron Emission Tomography (PET) 是指 (**44)","內視鏡檢查 ","癌症基因篩檢 ","正子斷層造影 ",核磁共振攝影
-Ans3,"8.cellulitis 糖尿病患者容易患的一種疾病，是指 (**132)","視網膜剝離 ","腎衰竭 ","蜂窩組織炎 ",氣胸
-Ans4,"9.下列那一項應用系統不使用 DICOM 標準？ (*674)","PACS ","CT ","MRI ",LIS
-Ans4,"10.以下那一項不是平衡計分卡的績效評估指標？ (*664)","顧客構面 ","財務構面 ","內部程序構面 ",外部環境構面
-Ans4,"11.下列那一項不是基因的成對序列排比？ (*624)","全域排比 ","半全域排比 ","區域排比 ",半區域排比
-Ans1,"12.下列那一項不是健保資料庫提供的研究資訊？ (*598)","健保財務統計資訊 ","藥物資訊 ","醫療院所資訊",疾病資訊
-Ans4,"13.下列那一項不是就醫記錄的 SOAP？ (*555)","主觀 ","客觀 ","處置 ",價格
-Ans3,"14.法定傳染病共分為幾類？ (*529)","三類","四類 ","五類 ",六類
-Ans4,"15.下列那一項不是病人安全資訊系統？ (*511)","無線射頻身分辨識系統 ","二維條碼手環辨識系統","不良醫藥事件通報系統 ",藥品採購管理系統
-Ans4,"16.下列那一項不是臨床護理作業？ (*429)","出院準備服務 ","護理記錄 ","護理計畫 ",病人分類
-Ans4,"17.下列那一項不是放射科的檢查儀器？ (*401)","X Ray ","CT ","MRI ",RFID
-Ans3,"18.下列那一項不是藥品庫存管理的基準？ (*386)","安全存量 ","最高存量 ","最高採購量",採購週期
-Ans4,"19.下列那一項不是藥囑類型？ (*291)","長期藥囑 ","立即給藥藥囑 ","需要時使用藥囑 ",住院藥囑
-Ans2,"20.下列那一項不是系統的整體測試？ (*242)","回復測試 ","α 及 β 測試 ","壓力測試 ",安全測試
-Ans4,"21.下列那一項不是網路效能的測量值？ (*124)","可靠度 ","延遲性 ","網路能量 ",電子郵件
-Ans3,"22.下列那一項是常用的資料庫管理系統架構？ (*112)","檔案式 ","網狀式 ","關聯式 ",階層式
-Ans2,"23.下列那一項不是門診資訊系統？ (*79)","掛號 ","會計 ","批價 ",病歷
-Ans3,"24.「電子簽章法案」是規範電子簽章的相關作業，確立電子簽章的法律效力，做為電子商務與電子資料交換的作業基準；下列那些原則是此法建立的基礎？ (*18)","技術中立、資料完整、契約自由","技術中立、資料完整、市場導向","技術中立、契約自由、市場導向",資料完整、契約自由、市場導向
-Ans3,"25.下列那一項是正確的描述? (*551)","病歷電子化就相當於實施電子病歷","HCA是衛生局所推動之醫事人員認證機制","電子病歷之電子簽章應於病歷製作後二十四小時內完成之",電子簽章只能憑中央主管機關之醫事憑證為之
-Ans2,"26.網路是一種分散且異質的環境，要做好網路管理，網路管理者必須透過軟體工具與網路設備溝通，一般所採用的「簡易網路管理通訊協定」是下列哪一種協定？ (*137)","SOAP ","SNMP ","SMTP ",SNCP
-Ans3,"27.衛生署預定於民國九十九年起全面實施新急診檢傷分類標準，使醫院能致力於處置危急的重症病患，將有限之資源留給最危急、最嚴重之病人使用。請問新急診檢傷分類標準共分為幾級？ (*313)","三 ","四 ","五 ",六級
-Ans4,"28.健保制度中的DRG支付制度之優點不包括下列中哪一點？ (*481)","獲得較好的醫療效率","減少不必要的住院日數，減少感染的機會","藉由醫院發展臨床路徑診療指引及醫療資訊公開，民眾獲得的照護水準會趨向一致",可促進病人的就醫可近性
-Ans1,"29.資料通訊傳輸速率的單位為bps，其中的b代表下列何者？ (*123)","bit ","byte ","block ",以上皆非
-Ans1,"30.下列那一項有關HL7的描述是錯誤的? (*96)","HL7的7代表第七版","HL7的7代表第七層的應用層","HL7是一種健康資訊的交換標準",HL7目前最新的版本是第三版
-Ans4,"31.電子病歷的發展階段最後是朝向哪一階段? ( *37)","電子化病歷系統(CMR) ","電子病歷(EMR)","電子病患資料系統(EPRS) ",電子健康資訊系統(EHR)
-Ans2,"32.衛生署委託 HL7 Taiwan 學會最近制定的電子病歷基本格式，是遵循了HL7/CDA 的標準，所謂 CDA 是指下列何者？ (*97)","Clinical Document Association ","Clinical Document Architecture","Control Disease Arrangement ",Control Disease Assistance
-Ans1,"33.依據電子及通訊工業協會(EIA/TIA)所訂立的 EIA/TIA-568 標準，雙絞線Category 5 的傳輸速度可達？ (*136)","100 MHz ","200 MHz ","500 MHz ",600 MHz
-Ans1,"34.下列何種型式是目前台灣醫療機構主要作為內部組織設計的依據？ (*12)","功能式 ","專科性 ","矩陣式 ",平行式
-Ans4,"35.醫院門診常有病患抱怨就診時發生三長二短的情形，下列何者並非其中的三長？ (*82)","排隊掛號時間長 ","候診時間長","排隊領藥時間長 ",以上皆非
-Ans3,"36.下列描述何者為非？ (*657,660,663,666)","建置資料倉儲(data warehouse)是商業智慧系統(BIS)與平衡記分卡(BSC)的基礎","BIS必須具備多維度(multi-dimension)分析的功能","BIS的各個構面必須與醫院願景等串連成策略地圖(strategy map)",資料倉儲計畫失敗大部份係因無法切中醫院經營目標。
-Ans2,"37.下列描述何者為非？ (*645,647,650)","遠距醫療是結合資訊(電腦)、通信(訊)與醫學(療)知識","依現有法規，遠距醫療環境只能用於遠距會診，不可用於醫學教學","醫院院內建置無線網路、結合行動護理車是希能達成行動醫療服務",藉由未來如WiMAX/4G等高頻寬及高覆蓋率之無線網/通訊號，健康照護將可由醫院延伸至社區與居家。
-Ans4,"38.下列描述何者為非？ (*567,570,571)","美國統計學家載明之PDCA管理也適用於改善醫療品質","台灣目前常見的醫療院所同儕品質指標參考主要是TQIP與THIS","TQIP主要內容為提供急性、精神與長照指標 ",THIS主要由財團法人醫院評鑑暨醫療品質策進會所主導。
-Ans3,"39.當門診醫生於看診時診斷病人是法定傳染病時，依法規醫院必須於規定時限內通報下列何單位？ (*528)","出入境管理局 ","國民健康局 ","疾病管制局 ",中央健康保險局。
-Ans3,"40.對醫院病人安全通報作業與系統，下列敘述何者為非？ (*509,514)","鼓勵醫院員工當事人自動性通報","目的預知並監控可能發生的安全事件與及早因應","除檢討改進發生原因外，亦懲處通報者",網頁、行動電話簡訊或電子郵件均是常用的通報工具。
-Ans4,"41.對醫院門診診間醫令系統，下列敘述何者為非？ (*459,460,462)","SOAP指subject, object, assessment, plan","線上病歷複製術語稱ditto","診斷碼目前採用ICD-9",為免影響醫生看診速度，藥物交互作用等提示不應出現。
-Ans1,"42.對醫院營養資訊系統，下列敘述何者為是？ (*445,446,448)","新住院入院後24小時內必須完成初步營養評估與飲食建議","因為標準化與快速供餐，醫院提供一般與治療飲食，但不提供管灌等複雜飲食","因為計費需要，出餐時餐盤上必須附有餐卡以供病人簽名",與HIS、LIS等系統中的資訊無連結關係
-Ans1,"43.對IHE，下列敘述何者為非？ (*673,676,683)","提供影像儀器製造商、系統廠商與病人間之共通語言","採用既有如HL7、DICOM標準制定共通的資訊交換規格","XDS係提供醫療院所間病歷分享交換規範",以物件導向之技術架構。
-Ans1,"44.為避免門診系統當機，是要提升資訊資產的 (*161)","Availability ","Accountability ","Confidentiality ",Integrity
-Ans3,"45.個人資訊隱私權之核心概念為 (*195)","家醜不可外揚 ","君子應該隱惡揚善","個人應可控制其隱私資訊 ",不要讓個人丟臉
-Ans4,"46.下列有關 Public Key Infrastructure 之憑證的敘述何者為非 (*185)","可解決無法確認網路上每個人的身分的問題","憑證可視為個人的網路身分證","可解決無法在網路上安全的傳遞資料的問題",憑證應該為非電子形式以避免造假
-Ans4,"47.下列醫療資訊相關標準的全名何者為非 (*673,95, 96)","DICOM (digital imaging and communications in medicine)","HL7 (health level 7)","LONIC (logical observations, identifiers, names and codes)",UMLS (universal medical language system)
-Ans1,"48.為降低非必要的資料重複，資料庫設計時需執行 (*116) ","正規化(Normalization ) ","最小化(Minimization)","最佳化(Optimization ) ",視覺化(Visualization)
-Ans4,"49.下列何者為非？ (*173)","DES 為對稱性密碼系統 ","RSA 為非對稱性密碼系統","對稱性密碼系統有金鑰交換問題 ",非對稱性密碼系統有金鑰交換問題
-Ans2,"50.一般醫院對病歷之管理，下列何者為非？ (*342)","審查分「量」與「質」兩種","病人出院後 4 天內需送回病歷室","病人出院後 7 天內需補全未完成之病歷",訂有獎懲規定
+Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4,Year,Chapter
+Ans4,"1.Target Therapy �O�� (**149)","��g�v�� ","�q�� ","�_���v�� ",�йv�v��
+Ans2,"2.�ߦ٪������@�N�y�� (**41)","ankylosis ","myocarditis ","hyperemesis ",nullipara
+Ans2,"3.Glaucoma �O�� (**99)","����}�g ","�C���� ","�h�� ",���n
+Ans4,"4.Schizophrenia �O���믫�쪺 (**141)","�����g ","���S�g ","���߯g ",�믫�����g
+Ans1,"5.�̪� H1N1 �̭]���D�Q�����ܼ��A�аݬ̭]�����@�N�y�O (**138)","vaccine ","vaginitis","treatment ",enterorrhagia
+Ans1,"6.Acute Myocardial Infarctiom (AMI) �O�� (**41)","��ʤߦٱ�� ","�r�z�ʨx�� ","ļ�{�g ",��ʸz�G��
+Ans3,"7.Positron Emission Tomography (PET) �O�� (**44)","�������ˬd ","���g��]�z�� ","���l�_�h�y�v ",�ֺϦ@����v
+Ans3,"8.cellulitis �}���f�w�̮e���w���@�دe�f�A�O�� (**132)","���������� ","�ǰI�� ","���۲�´�� ",���
+Ans4,"9.�U�C���@�����Ψt�Τ��ϥ� DICOM �зǡH (*674)","PACS ","CT ","MRI ",LIS
+Ans4,"10.�H�U���@�����O���ŭp���d���Z�ĵ������СH (*664)","�U�Ⱥc�� ","�]�Ⱥc�� ","�����{�Ǻc�� ",�~�����Һc��
+Ans4,"11.�U�C���@�����O��]������ǦC�Ƥ�H (*624)","����Ƥ� ","�b����Ƥ� ","�ϰ�Ƥ� ",�b�ϰ�Ƥ�
+Ans1,"12.�U�C���@�����O���O��Ʈw���Ѫ���s��T�H (*598)","���O�]�Ȳέp��T ","�Ī���T ","�����|�Ҹ�T",�e�f��T
+Ans4,"13.�U�C���@�����O�N��O���� SOAP�H (*555)","�D�[ ","���[ ","�B�m ",����
+Ans3,"14.�k�w�ǬV�f�@�����X���H (*529)","�T��","�|�� ","���� ",����
+Ans4,"15.�U�C���@�����O�f�H�w����T�t�ΡH (*511)","�L�u�g�W�������Ѩt�� ","�G�����X�������Ѩt��","���}���Ĩƥ�q���t�� ",�ī~���ʺ޲z�t��
+Ans4,"16.�U�C���@�����O�{���@�z�@�~�H (*429)","�X�|�ǳƪA�� ","�@�z�O�� ","�@�z�p�e ",�f�H����
+Ans4,"17.�U�C���@�����O��g�쪺�ˬd�����H (*401)","X Ray ","CT ","MRI ",RFID
+Ans3,"18.�U�C���@�����O�ī~�w�s�޲z����ǡH (*386)","�w���s�q ","�̰��s�q ","�̰����ʶq",���ʶg��
+Ans4,"19.�U�C���@�����O���������H (*291)","�������� ","�ߧY�������� ","�ݭn�ɨϥ����� ",���|����
+Ans2,"20.�U�C���@�����O�t�Ϊ�������աH (*242)","�^�_���� ","�\ �� �] ���� ","���O���� ",�w������
+Ans4,"21.�U�C���@�����O�����į઺���q�ȡH (*124)","�i�a�� ","����� ","������q ",�q�l�l��
+Ans3,"22.�U�C���@���O�`�Ϊ���Ʈw�޲z�t�ά[�c�H (*112)","�ɮצ� ","������ ","���p�� ",���h��
+Ans2,"23.�U�C���@�����O���E��T�t�ΡH (*79)","���� ","�|�p ","��� ",�f��
+Ans3,"24.�u�q�lñ���k�סv�O�W�d�q�lñ���������@�~�A�T�߹q�lñ�����k�߮ĤO�A�����q�l�ӰȻP�q�l��ƥ洫���@�~��ǡF�U�C���ǭ�h�O���k�إߪ���¦�H (*18)","�޳N���ߡB��Ƨ���B�����ۥ�","�޳N���ߡB��Ƨ���B�����ɦV","�޳N���ߡB�����ۥѡB�����ɦV",��Ƨ���B�����ۥѡB�����ɦV
+Ans3,"25.�U�C���@���O���T���y�z? (*551)","�f���q�l�ƴN�۷����I�q�l�f��","HCA�O�åͧ��ұ��ʤ���ƤH���{�Ҿ���","�q�l�f�����q�lñ������f���s�@��G�Q�|�p�ɤ�������",�q�lñ���u��̤����D�޾�������ƾ��Ҭ���
+Ans2,"26.�����O�@�ؤ����B���誺���ҡA�n���n�����޲z�A�����޲z�̥����z�L�n��u��P�����]�Ʒ��q�A�@��ұĥΪ��u²�������޲z�q�T��w�v�O�U�C���@�ب�w�H (*137)","SOAP ","SNMP ","SMTP ",SNCP
+Ans3,"27.�å͸p�w�w�����E�Q�E�~�_������I�s��E�˶ˤ����зǡA����|��P�O��B�m�M�檺���g�f�w�A�N�������귽�d���̦M��B���Y�����f�H�ϥΡC�аݷs��E�˶ˤ����зǦ@�����X�šH (*313)","�T ","�| ","�� ",����
+Ans4,"28.���O��פ���DRG��I��פ��u�I���]�A�U�C�����@�I�H (*481)","��o���n�������Ĳv","��֤����n�����|��ơA��ַP�V�����|","�ǥ���|�o�i�{�ɸ��|�E�����ޤ�������T���}�A������o�����@���Ƿ|�ͦV�@�P",�i�P�i�f�H���N��i���
+Ans1,"29.��Ƴq�T�ǿ�t�v����쬰bps�A�䤤��b�N���U�C��̡H (*123)","bit ","byte ","block ",�H�W�ҫD
+Ans1,"30.�U�C���@������HL7���y�z�O���~��? (*96)","HL7��7�N���ĤC��","HL7��7�N���ĤC�h�����μh","HL7�O�@�ذ��d��T���洫�з�",HL7�ثe�̷s�������O�ĤT��
+Ans4,"31.�q�l�f�����o�i���q�̫�O�¦V���@���q? ( *37)","�q�l�Ưf���t��(CMR) ","�q�l�f��(EMR)","�q�l�f�w��ƨt��(EPRS) ",�q�l���d��T�t��(EHR)
+Ans2,"32.�å͸p�e�U HL7 Taiwan �Ƿ|�̪��w���q�l�f���򥻮榡�A�O���`�FHL7/CDA ���зǡA�ҿ� CDA �O���U�C��̡H (*97)","Clinical Document Association ","Clinical Document Architecture","Control Disease Arrangement ",Control Disease Assistance
+Ans1,"33.�̾ڹq�l�γq�T�u�~��|(EIA/TIA)�ҭq�ߪ� EIA/TIA-568 �зǡA�����uCategory 5 ���ǿ�t�ץi�F�H (*136)","100 MHz ","200 MHz ","500 MHz ",600 MHz
+Ans1,"34.�U�C��ث����O�ثe�x�W�������c�D�n�@��������´�]�p���̾ڡH (*12)","�\�ড ","�M��� ","�x�}�� ",���榡
+Ans4,"35.��|���E�`���f�w���N�E�ɵo�ͤT���G�u�����ΡA�U�C��̨ëD�䤤���T���H (*82)","�ƶ������ɶ��� ","�ԶE�ɶ���","�ƶ����Įɶ��� ",�H�W�ҫD
+Ans3,"36.�U�C�y�z��̬��D�H (*657,660,663,666)","�ظm��ƭ��x(data warehouse)�O�ӷ~���z�t��(BIS)�P���ŰO���d(BSC)����¦","BIS������Ʀh����(multi-dimension)���R���\��","BIS���U�Ӻc�������P��|�@������s�������a��(strategy map)",��ƭ��x�p�e���Ѥj�����Y�]�L�k������|�g��ؼСC
+Ans2,"37.�U�C�y�z��̬��D�H (*645,647,650)","���Z�����O���X��T(�q��)�B�q�H(�T)�P���(��)����","�̲{���k�W�A���Z�������ҥu��Ω󻷶Z�|�E�A���i�Ω���Ǳо�","��|�|���ظm�L�u�����B���X����@�z���O�Ư�F����������A��",�ǥѥ��ӦpWiMAX/4G�����W�e�ΰ��л\�v���L�u��/�q�T���A���d���@�N�i����|�����ܪ��ϻP�~�a�C
+Ans4,"38.�U�C�y�z��̬��D�H (*567,570,571)","����έp�Ǯa������PDCA�޲z�]�A�Ω�ﵽ�����~��","�x�W�ثe�`���������|�ҦP���~����аѦҥD�n�OTQIP�PTHIS","TQIP�D�n���e�����ѫ�ʡB�믫�P���ӫ��� ",THIS�D�n�Ѱ]�Ϊk�H��|��Ų�[�����~�赦�i�|�ҥD�ɡC
+Ans3,"39.�����E��ͩ�ݶE�ɶE�_�f�H�O�k�w�ǬV�f�ɡA�̪k�W��|������W�w�ɭ����q���U�C����H (*528)","�X�J�Һ޲z�� ","������d�� ","�e�f�ި ",�������d�O�I���C
+Ans3,"40.����|�f�H�w���q���@�~�P�t�ΡA�U�C�ԭz��̬��D�H (*509,514)","���y��|���u���ƤH�۰ʩʳq��","�ت��w���úʱ��i��o�ͪ��w���ƥ�P�Φ��]��","���˰Q��i�o�ͭ�]�~�A���g�B�q����",�����B��ʹq��²�T�ιq�l�l�󧡬O�`�Ϊ��q���u��C
+Ans4,"41.����|���E�E����O�t�ΡA�U�C�ԭz��̬��D�H (*459,460,462)","SOAP��subject, object, assessment, plan","�u�W�f���ƻs�N�y��ditto","�E�_�X�ثe�ĥ�ICD-9",���K�v�T��ͬݶE�t�סA�Ī��椬�@�ε����ܤ����X�{�C
+Ans1,"42.����|��i��T�t�ΡA�U�C�ԭz��̬��O�H (*445,446,448)","�s���|�J�|��24�p�ɤ�����������B��i�����P������ĳ","�]���зǤƻP�ֳt���\�A��|���Ѥ@��P�v�������A�������Ѻ��鵥��������","�]���p�O�ݭn�A�X�\���\�L�W���������\�d�H�ѯf�Hñ�W",�PHIS�BLIS���t�Τ�����T�L�s�����Y
+Ans1,"43.��IHE�A�U�C�ԭz��̬��D�H (*673,676,683)","���Ѽv�������s�y�ӡB�t�μt�ӻP�f�H�����@�q�y��","�ĥάJ���pHL7�BDICOM�зǨ�w�@�q����T�洫�W��","XDS�Y���������|�Ҷ��f�����ɥ洫�W�d",�H����ɦV���޳N�[�c�C
+Ans1,"44.���קK���E�t�η����A�O�n���ɸ�T�겣�� (*161)","Availability ","Accountability ","Confidentiality ",Integrity
+Ans3,"45.�ӤH��T���p�v���֤߷����� (*195)","�a�ण�i�~�� ","�g�l�������c����","�ӤH���i��������p��T ",���n���ӤH���y
+Ans4,"46.�U�C���� Public Key Infrastructure �����Ҫ��ԭz��̬��D (*185)","�i�ѨM�L�k�T�{�����W�C�ӤH�����������D","���ҥi�����ӤH������������","�i�ѨM�L�k�b�����W�w�����ǻ���ƪ����D",�������Ӭ��D�q�l�Φ��H�קK�y��
+Ans4,"47.�U�C������T�����зǪ����W��̬��D (*673,95, 96)","DICOM (digital imaging and communications in medicine)","HL7 (health level 7)","LONIC (logical observations, identifiers, names and codes)",UMLS (universal medical language system)
+Ans1,"48.�����C�D���n����ƭ��ơA��Ʈw�]�p�ɻݰ��� (*116) ","���W��(Normalization ) ","�̤p��(Minimization)","�̨Τ�(Optimization ) ",��ı��(Visualization)
+Ans4,"49.�U�C��̬��D�H (*173)","DES ����٩ʱK�X�t�� ","RSA ���D��٩ʱK�X�t��","��٩ʱK�X�t�Φ����_�洫���D ",�D��٩ʱK�X�t�Φ����_�洫���D
+Ans2,"50.�@����|��f�����޲z�A�U�C��̬��D�H (*342)","�f�d���u�q�v�P�u��v���","�f�H�X�|�� 4 �Ѥ��ݰe�^�f����","�f�H�X�|�� 7 �Ѥ��ݸɥ����������f��",�q�����g�W�w

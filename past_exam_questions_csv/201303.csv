@@ -1,51 +1,51 @@
-Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4
-Ans3,"1: 萊克多巴胺在豬隻的動物實驗中，餵食藥劑後，許多豬隻的新陳代謝出了問題，而且產生攻擊性、情緒緊繃等情緒上的問題。下列何者是指『攻擊行為』? (**145)","Automatism ","Catatonia ","Aggression ",Delusion
-Ans2,"2: 胃潰瘍的發生是由於十二指腸的黏膜被胃液「吃掉」的結果，這種情形在胃液變得極度酸性的時候就會產生，『胃潰瘍』的英文是 ? (**173)","Gastric Cancer ","Gastric Ulcer ","Duodenal Ulcer ",Breast Cancer
-Ans2,"3: 腦中風的預防方面，首先要常量血壓，尤其有高血壓病史者，其中『高血壓』是指 ? (**209)","Hybridize ","Hypertension ","Hyperactive ",Hyperthermia
-Ans1,"4: 一般出院病歷摘要通常包含主訴、病史、體檢發現、併發症、出院指示與用藥等資訊，其中『併發症』是指? (**245)","Complications ","Laboratory ","Radiology ",Chief Complaint
-Ans2,"5: 潛血檢查是要檢查大便裡面是不是含有肉眼看不見的血液的檢查，『潛血』的英文是 ?(**34) ","White Blood ","Occult Blood ","Red Blood ",Green Blood
-Ans3,"6: 大腸癌是結腸直腸癌的統稱，為國人罹癌人數第一名，大腸癌的英文是指 ? (**60)","Lung cancer ","Liver cancer ","Colon cancer ",Breast cancer
-Ans1,"7: 低頭族因為長時間的低頭與駝背，會導致頸椎長骨刺以及椎間盤突出，其中 『椎間盤突出』 是指? (**75)","Herniated Intervertebral Disc ","Trigeminal Neuralgia","Hepatoma ",Acute Myocardial Infraction
-Ans4,"8: 在運動場上時常發生前十字韌帶斷裂的狀況，『前十字韌帶』是指 ? (**81)","LCL ","PCL ","MCL ",ACL
-Ans3,"9: 對關聯式資料庫而言，下列敘述何者錯誤 ? (*112)","每一張表格至少應有一個主鍵","被參考資料表所引用的稱為外部參考鍵 (Foreign Key)","主鍵的值可重覆",建立索引的目的在加快查詢速度
-Ans2,"10: 為降低非必要的資料重複，資料庫設計時需要執行 ? (*116)","最佳化(Optimization) ","正規化(Normalization)","最小化(Minimization) ",視覺化(Visualization)
-Ans2,"11: 正規化(Normalization)最常使用於下列何種資料庫結構 ? (*116)","網狀式 ","關聯式 ","階層式 ",物件導向式
-Ans4,"12: 網路是一種分散且異質的環境，要做好網路管理，網路管理者必須透過軟體工具與網路設備溝通，一般所採用的「簡易網路管理通訊協定」是下列 哪一種協定? (*137)","SOAP ","SMTP ","SNCP ",SNMP
-Ans1,"13: 下列有關加解密技術之描述何者正確 ? (*169)","非對稱性密碼系統是因加密端與解密端用以加密與解密之金鑰不相同而得名","傳輸大量的資料一般會用非對稱性加密系統直接加密之","醫療憑證管理中心採用對稱性加密系統",非對稱性密碼系統，因為不需要考慮對稱性，所以速度較快
-Ans4,"14: 用以增加新功能或改良原系統功能的工作，是哪一種系統維護工作 ? (*260)","矯正性維護 ","預防性維護 ","適應性維護 ",完善性維護
-Ans1,"15: 下列何者為正確的急診一般作業流程 ? (*311)","病人來院狀況若非常緊急，由急診醫師判斷為一級傷患並且立即處理","非緊急狀況由受過訓練之護理人員辦理檢傷分類，檢傷分類共分四級，以決定病患看診順序","急診一般都須先行掛號再看診",以上皆是
-Ans2,"16: 醫生補登未完成的病歷記錄，一般是被要求在幾天內完成 ? (*342)","1 天 ","7 天 ","14 天 ",21 天
-Ans1,"17: 病歷記錄的內容大都以 SOAP 的方式記錄，SOAP 的全名為? (*344)","Subject；Object；Assessment；Plan","Small; Object: Access; Protocol","Super; Object; Abstract; Plus",以上皆非
-Ans1,"18: 藥物不良事件是由於藥物的交互作用所造成的，其英文簡稱為 ? (*377)","ADE ","AED ","DAE ",EAD
-Ans2,"19: 單一劑量配送制度（unit dose system）是近年來何種病患用藥的主要作業模式之一 ?(*380)","門診病患 ","住院病患 ","急診病患 ",健檢病患
-Ans3,"20: 醫療影像儲存、交換、傳輸標準是採用國際通用的醫療影像標準 DICOM，即是數位醫學影像及傳輸(Digital Imaging and Communications in Medicine)，主要是訂定各式(Modalities)醫療影像傳輸的標準規格，可應用在 ? (*407)","實證醫學(EBM) ","診斷關聯群(DRG)","電腦斷層(CT) ",以上皆非
-Ans3,"21: 許多醫療機構護理資訊系統的架構，還是以下列何者之護理問題及內容為護理過程及護理資料庫建置的基礎 ? (*425)","CANDA ","LANDA ","NANDA ",PANDA
-Ans4,"22: 對醫院門診診間醫令系統，下列敘述何者為非 ? (*459,460,462)","包含排程作業系統","線上病歷複製術語稱 ditto","診斷碼目前採用 ICD-9",為免影響醫生看診速度，藥物交互作用等提示不應出現
-Ans2,"23: 下列那一項並非施行臨床路徑的優點之一 ? (*491)","避免醫院治療系統的故障 ","延長住院日數以提升滿意度","減少病人的住院醫療費用 ",減少併發症的發生
-Ans4,"24: 臨床路徑是由組織內的一群人員，根據某種疾病或某種手術方法制定了一種治療模式，讓病患由住院到出院都依此模式來接受治療。下列何者不是實施臨床路徑的優點 ? (*491)","縮短住院日數 ","減少病人的住院醫療費用","減少併發症的發生 ",增加醫院收入
-Ans4,"25: 下列那一項並非六大病人安全目標之一 ? (*508)","提升用藥安全 ","預防病人跌倒","提升手術正確性 ",禁止異常事件通報
-Ans3,"26: 下列那一項不是病人安全資訊系統 ? (*511)","不良醫藥事件通報系統 ","二維條碼手環辨識系統","藥品採購管理系統 ",無線射頻身分辨識系統
-Ans4,"27: 當門診醫生於看診時診斷病人是法定傳染病時，依法規醫院必須於規定時限內通報下列何單位 ? (*528)","國家衛生研究院 ","國民健康局","中央健康保險局 ",疾病管制局
-Ans4,"28: 電子病歷是文件的一種，而就不同的觀點可將其歸類為三種不同特性的文件，下列何者並非三種特性之一 ? (*539)","複雜的文件 ","私人的文件","延續照護的可信賴資料來源 ",可公開閱覽的文件
-Ans2,"29: 下列何者非電子病歷的發展趨勢 ? (*544)","一致化的國際醫療資訊標準格式 ","集中式的資料管理","多樣化的人機介面 ",任何時間、地點皆可存取的個性化系統
-Ans3,"30: 下列那一項法令與實施電子病歷無關 ? (*546)","電子簽章法 ","醫師法 ","專科護理師法 ",醫療法
-Ans1,"31: 裘蘭提出所謂的品質三部曲（Juran Trilogy）是指 ? (*563)","由品質規劃期到品質控制期再到品質改善期","由品質控制期到品質規劃期再到品質改善期","由品質規劃期到品質改善期再到品質控制期",以上皆是
-Ans1,"32: PDCA 循環是指 ? (*567)","Plan， Do， Check， Action","Plan， Do， Control， Action","Plan， Document， Check， Action",Plan， Do， Check， Assess
-Ans1,"33: e-Health 的 e 代表 ? (*579)","electronic ","electable ","elaborate ",elucidative
-Ans4,"34: 自 1998 年起，中央健保局將全民健保資料庫，委託那一個單位建立以學術研究為目的之研究資料庫 ? (*597)","中央研究院 ","國家科學委員會","國民健康局 ",國家衛生研究院
-Ans3,"35: 台灣遠距醫療之發展源自 1994 年開始推動之國家資訊基礎建設，該建設之英文簡稱為 ?(*647)","CII ","III ","NII ",以上皆非
-Ans1,"36: 對於 IHE，下列敘述何者為非 ? (*673,676,683)","使用 XLS 提供醫療院所間病歷分享交換規範","以物件導向之技術架構","採用既有如 HL7、DICOM 標準制定共通的資訊交換規格",提供影像儀器製造商、系統廠商與醫院間之共通語言
-Ans3,"37: 以下何種醫療代碼與醫療保險給付有較密切的關係? (*94-95)","LOINC ","MeSH ","DRGs ",UMLS
-Ans3,"38: 下列那一項有關 HL7 的描述是錯誤的 ? (*96)","HL7 是一種健康資訊的交換標準 ","HL7 的 7 代表第七層的應用層","HL7 目前最新的版本是第七版 ",HL7 是 Health Level 7 的縮寫
-Ans3,"39: 下列與電子簽章有關之敘述，何者有誤 ? (*172-175, 181-182)","我國電子簽章法係 2011 年立法通過","我國電子病歷採電子簽章係為取代醫師人工簽章","我國電子病歷採用之電子簽章加解密方式係採對稱式(正向)",電子簽章的立法三大原則為「技術中立」、「契約自由」及「市場導向」。
-Ans4,"40: 對於醫療資訊之揭露與隱私保障，下列敘述何者有誤 ? (*193-198)","就醫或體檢紀錄都屬於個人隱私，受法律保護範圍","我國對隱私保護的法規(簡稱)為個資法","表現個人控制其隱私權之核心概念在於行使知情同意權",病歷因必須在醫院間方便轉診及避免重複醫療，故可不須經當事人同意下於醫療機構間交換。
-Ans2,"41: 下列何者對於健保 IC 敘述何者有誤 ? (*177,199)","可作為(就醫)身分憑證","所有須儲存、註記於 IC 卡內的資料均屬強制性，無選擇性","因健保保險醫療行為時可直接讀取內容，不須再詢問經病人同意",讀取 IC 卡內容之醫療資料區段須有醫師卡或醫療機構卡
-Ans1,"42: 在資訊系統測試期間，因修正動作持續不斷進行，為確保提供的系統係最新且一致，所須採用的管控為 ? (*243)","版本管控 ","架構管控 ","人員管控 ",安全管控
-Ans4,"43: 對醫院住院管理，下列敘述何者正確? (*278-279)","住院的唯一管道是經由急診轉入","住院帳務不須日結，而是於病人出院當日一次總結算","平均住院日愈高，表示醫院經營績效愈好",一般住院程序，雖經醫院開立入院通知，但仍須等待與確認有空床後才能辦理入院
-Ans2,"44: 有關健保申報，下列敘述何者正確 ? (*285-286)","可採媒體或紙本申報","門診與住院分開申報","所有病人的所有就醫(醫令、檢查等)均強制納入申報",申報無期限規範，但愈晚申報，愈慢獲得給付
-Ans2,"45: 就急診與住院，下列敘述何者為非 ? (*286-288,315-320)","住院有長期與臨時醫囑之分，急診則無","急診與住院醫令經醫師開立後，均須經護理在資訊系統做「執行確認」","住院有出院記錄(discharge note)，急診則無",急診有檢傷分類，住院則無
-Ans4,"46: 為提供醫師開立醫令之方便性，常會提供的配套功能為? (*322-323)","醫令套餐 ","複製功能 ","常用處置或品項 ",以上皆是
-Ans1,"47: 對檢驗資訊系統，下列敘述何者為非 ? (*353-363)","檢驗資訊系統不包括與儀器介接","執行項目不僅包括抽血、驗尿等，也包括病理組織","檢驗醫令係由前端醫師開立後下傳，非由檢驗師開立",檢驗資訊系統包括產生檢驗報告功能
-Ans4,"48: 下列那一項是單一劑量的常用醫囑類別 ? (*383-384)","重整藥囑(renew order) ","需要時使用藥囑(prn order)","立即給藥藥囑(state order) ",以上皆是
-Ans2,"49: 下列何者不是護理資訊系統的範圍 ? (*428-429)","護理排班 ","出院批價 ","出院準備 ",護理品質
-Ans2,"50:下列對於健保給付制度優缺點比較何者有誤 ? (*27-34)","論量計酬對於醫師的醫療行為自主權較高，但易間接鼓勵助長醫療費用上漲","論病例計酬可以適用所有疾病項目","論人計酬會使醫院對醫療成本降低，但是會減少醫院對病人的醫療項目影響醫療品質",總額給付，可減低中央健保局財務負擔，但會造成醫院營收減少，可能產生人球事件
+Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4,Year,Chapter
+Ans3,"1: �ܧJ�h���i�b�ް����ʪ����礤�A�����ľ���A�\�h�ް����s���N�¥X�F���D�A�ӥB���ͧ����ʡB�������^�������W�����D�C�U�C��̬O���y�����欰�z? (**145)","Automatism ","Catatonia ","Aggression ",Delusion
+Ans2,"2: �G��Ū��o�ͬO�ѩ�Q�G���z���H���Q�G�G�u�Y���v�����G�A�o�ر��Φb�G�G�ܱo���׻ĩʪ��ɭԴN�|���͡A�y�G��šz���^��O ? (**173)","Gastric Cancer ","Gastric Ulcer ","Duodenal Ulcer ",Breast Cancer
+Ans2,"3: ���������w���譱�A�����n�`�q�����A�ר䦳�������f�v�̡A�䤤�y�������z�O�� ? (**209)","Hybridize ","Hypertension ","Hyperactive ",Hyperthermia
+Ans1,"4: �@��X�|�f���K�n�q�`�]�t�D�D�B�f�v�B���˵o�{�B�ֵo�g�B�X�|���ܻP���ĵ���T�A�䤤�y�ֵo�g�z�O��? (**245)","Complications ","Laboratory ","Radiology ",Chief Complaint
+Ans2,"5: ����ˬd�O�n�ˬd�j�K�̭��O���O�t���ײ��ݤ�������G���ˬd�A�y���z���^��O ?(**34) ","White Blood ","Occult Blood ","Red Blood ",Green Blood
+Ans3,"6: �j�z���O���z���z�����κ١A����H�����H�ƲĤ@�W�A�j�z�����^��O�� ? (**60)","Lung cancer ","Liver cancer ","Colon cancer ",Breast cancer
+Ans1,"7: �C�Y�ڦ]�����ɶ����C�Y�P�m�I�A�|�ɭP�V�ժ�����H�δն��L��X�A�䤤 �y�ն��L��X�z �O��? (**75)","Herniated Intervertebral Disc ","Trigeminal Neuralgia","Hepatoma ",Acute Myocardial Infraction
+Ans4,"8: �b�B�ʳ��W�ɱ`�o�ͫe�Q�r���a�_�������p�A�y�e�Q�r���a�z�O�� ? (**81)","LCL ","PCL ","MCL ",ACL
+Ans3,"9: �����p����Ʈw�Ө��A�U�C�ԭz��̿��~ ? (*112)","�C�@�i����ܤ������@�ӥD��","�Q�ѦҸ�ƪ��ҤޥΪ��٬��~���Ѧ��� (Foreign Key)","�D�䪺�ȥi����",�إ߯��ު��ت��b�[�֬d�߳t��
+Ans2,"10: �����C�D���n����ƭ��ơA��Ʈw�]�p�ɻݭn���� ? (*116)","�̨Τ�(Optimization) ","���W��(Normalization)","�̤p��(Minimization) ",��ı��(Visualization)
+Ans2,"11: ���W��(Normalization)�̱`�ϥΩ�U�C��ظ�Ʈw���c ? (*116)","������ ","���p�� ","���h�� ",����ɦV��
+Ans4,"12: �����O�@�ؤ����B���誺���ҡA�n���n�����޲z�A�����޲z�̥����z�L�n��u��P�����]�Ʒ��q�A�@��ұĥΪ��u²�������޲z�q�T��w�v�O�U�C ���@�ب�w? (*137)","SOAP ","SMTP ","SNCP ",SNMP
+Ans1,"13: �U�C�����[�ѱK�޳N���y�z��̥��T ? (*169)","�D��٩ʱK�X�t�άO�]�[�K�ݻP�ѱK�ݥΥH�[�K�P�ѱK�����_���ۦP�ӱo�W","�ǿ�j�q����Ƥ@��|�ΫD��٩ʥ[�K�t�Ϊ����[�K��","�������Һ޲z���߱ĥι�٩ʥ[�K�t��",�D��٩ʱK�X�t�ΡA�]�����ݭn�Ҽ{��٩ʡA�ҥH�t�׸���
+Ans4,"14: �ΥH�W�[�s�\��Χ�}��t�Υ\�઺�u�@�A�O���@�بt�κ��@�u�@ ? (*260)","�B���ʺ��@ ","�w���ʺ��@ ","�A���ʺ��@ ",�����ʺ��@
+Ans1,"15: �U�C��̬����T����E�@��@�~�y�{ ? (*311)","�f�H�Ӱ|���p�Y�D�`���A�ѫ�E��v�P�_���@�Ŷ˱w�åB�ߧY�B�z","�D��檬�p�Ѩ��L�V�m���@�z�H����z�˶ˤ����A�˶ˤ����@���|�šA�H�M�w�f�w�ݶE����","��E�@�볣�����汾���A�ݶE",�H�W�ҬO
+Ans2,"16: ��͸ɵn���������f���O���A�@��O�Q�n�D�b�X�Ѥ����� ? (*342)","1 �� ","7 �� ","14 �� ",21 ��
+Ans1,"17: �f���O�������e�j���H SOAP ���覡�O���ASOAP �����W��? (*344)","Subject�FObject�FAssessment�FPlan","Small; Object: Access; Protocol","Super; Object; Abstract; Plus",�H�W�ҫD
+Ans1,"18: �Ī����}�ƥ�O�ѩ��Ī����椬�@�Ωҳy�����A��^��²�٬� ? (*377)","ADE ","AED ","DAE ",EAD
+Ans2,"19: ��@���q�t�e��ס]unit dose system�^�O��~�Ӧ�دf�w���Ī��D�n�@�~�Ҧ����@ ?(*380)","���E�f�w ","���|�f�w ","��E�f�w ",���˯f�w
+Ans3,"20: �����v���x�s�B�洫�B�ǿ�зǬO�ĥΰ�ڳq�Ϊ������v���з� DICOM�A�Y�O�Ʀ���Ǽv���ζǿ�(Digital Imaging and Communications in Medicine)�A�D�n�O�q�w�U��(Modalities)�����v���ǿ骺�зǳW��A�i���Φb ? (*407)","�������(EBM) ","�E�_���p�s(DRG)","�q���_�h(CT) ",�H�W�ҫD
+Ans3,"21: �\�h�������c�@�z��T�t�Ϊ��[�c�A�٬O�H�U�C��̤��@�z���D�Τ��e���@�z�L�{���@�z��Ʈw�ظm����¦ ? (*425)","CANDA ","LANDA ","NANDA ",PANDA
+Ans4,"22: ����|���E�E����O�t�ΡA�U�C�ԭz��̬��D ? (*459,460,462)","�]�t�Ƶ{�@�~�t��","�u�W�f���ƻs�N�y�� ditto","�E�_�X�ثe�ĥ� ICD-9",���K�v�T��ͬݶE�t�סA�Ī��椬�@�ε����ܤ����X�{
+Ans2,"23: �U�C���@���ëD�I���{�ɸ��|���u�I���@ ? (*491)","�קK��|�v���t�Ϊ��G�� ","�������|��ƥH���ɺ��N��","��֯f�H�����|�����O�� ",��ֵ֨o�g���o��
+Ans4,"24: �{�ɸ��|�O�Ѳ�´�����@�s�H���A�ھڬY�دe�f�άY�ؤ�N��k��w�F�@�تv���Ҧ��A���f�w�Ѧ��|��X�|���̦��Ҧ��ӱ����v���C�U�C��̤��O��I�{�ɸ��|���u�I ? (*491)","�Y�u���|��� ","��֯f�H�����|�����O��","��ֵ֨o�g���o�� ",�W�[��|���J
+Ans4,"25: �U�C���@���ëD���j�f�H�w���ؼФ��@ ? (*508)","���ɥ��Ħw�� ","�w���f�H�^��","���ɤ�N���T�� ",�T��`�ƥ�q��
+Ans3,"26: �U�C���@�����O�f�H�w����T�t�� ? (*511)","���}���Ĩƥ�q���t�� ","�G�����X�������Ѩt��","�ī~���ʺ޲z�t�� ",�L�u�g�W�������Ѩt��
+Ans4,"27: �����E��ͩ�ݶE�ɶE�_�f�H�O�k�w�ǬV�f�ɡA�̪k�W��|������W�w�ɭ����q���U�C���� ? (*528)","��a�åͬ�s�| ","������d��","�������d�O�I�� ",�e�f�ި
+Ans4,"28: �q�l�f���O��󪺤@�ءA�ӴN���P���[�I�i�N���k�����T�ؤ��P�S�ʪ����A�U�C��̨ëD�T�دS�ʤ��@ ? (*539)","��������� ","�p�H�����","������@���i�H���ƨӷ� ",�i���}�\�������
+Ans2,"29: �U�C��̫D�q�l�f�����o�i�Ͷ� ? (*544)","�@�P�ƪ����������T�зǮ榡 ","����������ƺ޲z","�h�ˤƪ��H������ ",����ɶ��B�a�I�ҥi�s�����өʤƨt��
+Ans3,"30: �U�C���@���k�O�P��I�q�l�f���L�� ? (*546)","�q�lñ���k ","��v�k ","�M���@�z�v�k ",�����k
+Ans1,"31: �������X�ҿת��~��T�����]Juran Trilogy�^�O�� ? (*563)","�ѫ~��W������~�豱����A��~��ﵽ��","�ѫ~�豱�����~��W�����A��~��ﵽ��","�ѫ~��W������~��ﵽ���A��~�豱���",�H�W�ҬO
+Ans1,"32: PDCA �`���O�� ? (*567)","Plan�A Do�A Check�A Action","Plan�A Do�A Control�A Action","Plan�A Document�A Check�A Action",Plan�A Do�A Check�A Assess
+Ans1,"33: e-Health �� e �N�� ? (*579)","electronic ","electable ","elaborate ",elucidative
+Ans4,"34: �� 1998 �~�_�A�������O���N�������O��Ʈw�A�e�U���@�ӳ��إߥH�ǳN��s���ت�����s��Ʈw ? (*597)","������s�| ","��a��ǩe���|","������d�� ",��a�åͬ�s�|
+Ans3,"35: �x�W���Z�������o�i���� 1994 �~�}�l���ʤ���a��T��¦�س]�A�ӫس]���^��²�٬� ?(*647)","CII ","III ","NII ",�H�W�ҫD
+Ans1,"36: ��� IHE�A�U�C�ԭz��̬��D ? (*673,676,683)","�ϥ� XLS ���������|�Ҷ��f�����ɥ洫�W�d","�H����ɦV���޳N�[�c","�ĥάJ���p HL7�BDICOM �зǨ�w�@�q����T�洫�W��",���Ѽv�������s�y�ӡB�t�μt�ӻP��|�����@�q�y��
+Ans3,"37: �H�U��������N�X�P�����O�I���I�����K�������Y? (*94-95)","LOINC ","MeSH ","DRGs ",UMLS
+Ans3,"38: �U�C���@������ HL7 ���y�z�O���~�� ? (*96)","HL7 �O�@�ذ��d��T���洫�з� ","HL7 �� 7 �N���ĤC�h�����μh","HL7 �ثe�̷s�������O�ĤC�� ",HL7 �O Health Level 7 ���Y�g
+Ans3,"39: �U�C�P�q�lñ���������ԭz�A��̦��~ ? (*172-175, 181-182)","�ڰ�q�lñ���k�Y 2011 �~�ߪk�q�L","�ڰ�q�l�f���Ĺq�lñ���Y�����N��v�H�uñ��","�ڰ�q�l�f���ĥΤ��q�lñ���[�ѱK�覡�Y�Ĺ�٦�(���V)",�q�lñ�����ߪk�T�j��h���u�޳N���ߡv�B�u�����ۥѡv�Ρu�����ɦV�v�C
+Ans4,"40: ���������T�����S�P���p�O�١A�U�C�ԭz��̦��~ ? (*193-198)","�N������ˬ������ݩ�ӤH���p�A���k�߫O�@�d��","�ڰ�����p�O�@���k�W(²��)���Ӹ�k","���{�ӤH��������p�v���֤߷����b���Ϫ����P�N�v",�f���]�����b��|����K��E���קK���������A�G�i�����g���ƤH�P�N�U���������c���洫�C
+Ans2,"41: �U�C��̹�󰷫O IC �ԭz��̦��~ ? (*177,199)","�i�@��(�N��)��������","�Ҧ����x�s�B���O�� IC �d������Ƨ��ݱj��ʡA�L��ܩ�","�]���O�O�I�����欰�ɥi����Ū�����e�A�����A�߰ݸg�f�H�P�N",Ū�� IC �d���e��������ưϬq������v�d���������c�d
+Ans1,"42: �b��T�t�δ��մ����A�]�ץ��ʧ@�����_�i��A���T�O���Ѫ��t�ΫY�̷s�B�@�P�A�Ҷ��ĥΪ��ޱ��� ? (*243)","�����ޱ� ","�[�c�ޱ� ","�H���ޱ� ",�w���ޱ�
+Ans4,"43: ����|���|�޲z�A�U�C�ԭz��̥��T? (*278-279)","���|���ߤ@�޹D�O�g�ѫ�E��J","���|�b�Ȥ����鵲�A�ӬO��f�H�X�|����@���`����","�������|��U���A������|�g���Z�ķU�n",�@����|�{�ǡA���g��|�}�ߤJ�|�q���A���������ݻP�T�{���ŧɫ�~���z�J�|
+Ans2,"44: �������O�ӳ��A�U�C�ԭz��̥��T ? (*285-286)","�i�ĴC��ίȥ��ӳ�","���E�P���|���}�ӳ�","�Ҧ��f�H���Ҧ��N��(��O�B�ˬd��)���j��ǤJ�ӳ�",�ӳ��L�����W�d�A���U�ߥӳ��A�U�C��o���I
+Ans2,"45: �N��E�P���|�A�U�C�ԭz��̬��D ? (*286-288,315-320)","���|�������P�{�����񤧤��A��E�h�L","��E�P���|��O�g��v�}�߫�A�����g�@�z�b��T�t�ΰ��u����T�{�v","���|���X�|�O��(discharge note)�A��E�h�L",��E���˶ˤ����A���|�h�L
+Ans4,"46: ��������v�}����O����K�ʡA�`�|���Ѫ��t�M�\�ର? (*322-323)","��O�M�\ ","�ƻs�\�� ","�`�γB�m�Ϋ~�� ",�H�W�ҬO
+Ans1,"47: �������T�t�ΡA�U�C�ԭz��̬��D ? (*353-363)","�����T�t�Τ��]�A�P��������","���涵�ؤ��ȥ]�A���B�秿���A�]�]�A�f�z��´","������O�Y�ѫe����v�}�߫�U�ǡA�D������v�}��",�����T�t�Υ]�A����������i�\��
+Ans4,"48: �U�C���@���O��@���q���`���������O ? (*383-384)","��������(renew order) ","�ݭn�ɨϥ�����(prn order)","�ߧY��������(state order) ",�H�W�ҬO
+Ans2,"49: �U�C��̤��O�@�z��T�t�Ϊ��d�� ? (*428-429)","�@�z�ƯZ ","�X�|��� ","�X�|�ǳ� ",�@�z�~��
+Ans2,"50:�U�C��󰷫O���I����u���I�����̦��~ ? (*27-34)","�׶q�p�S�����v�������欰�ۥD�v�����A�����������y�U�������O�ΤW��","�ׯf�ҭp�S�i�H�A�ΩҦ��e�f����","�פH�p�S�|����|�������������C�A���O�|�����|��f�H���������ؼv�T�����~��",�`�B���I�A�i��C�������O���]�ȭt��A���|�y����|�禬��֡A�i�ಣ�ͤH�y�ƥ�
