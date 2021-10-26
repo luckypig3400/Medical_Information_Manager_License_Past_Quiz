@@ -1,51 +1,51 @@
-Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4,Year,Ref_Page,Chapter
-Ans2,1. �զ�f�S�٦����A�O�m�g�@���`�����ͯf���q�C�D�]����y��ӭM���ͤ����`�W�͡A�i�Ӽv�T����y��\�઺�c�ʯe�f�C�y�զ�f�z���^��O�H(**33),Thrombocytosis ,Leukemia ,Splenomegaly ,Albumin,201711,(**33),�`�����@�N�y33
-Ans2,2. ĵ��M��Ǯվǭ��b 3000 ���ض]�B����ɬ�M�^�˩��ˡA�e���ϡC���˪��^��O�G(**27),Edema ,Fainting ,Arteriosclerosis ,Arrhythmia,201711,(**27),�`�����@�N�y27
-Ans1,3. �@�Ҥ@���P�j�A�h�ƤW�Z�ڼ~�L�ҡC�s�_������¾����ùL�Ҹ��X��A�̫ḣ�������C���X�媺�^��O�G(**66),Cerebral Hemorrhage ,Parkinson's Disease ,Epilepsy ,Diabetes Mellitus,201711,(**66),�`�����@�N�y66
-Ans1,4. �H�u�º�D�n�@���v���������|�����U�ʹާ޳N�A����Ӥ]���֤H�Q�ή���̴��Ѫ���l�Ϥk�ʵL�ݨk�ʹ٦�K�i�h���ͤl�C�H�u�º몺�^��O�G,Artificial Insemination ,Artificial Abortion ,Caesarean Section ,Painless Labor,201711,null,null
-Ans3,5. �{�b�ܦh�p�Ĥl���`�N�O�ʥ��P�L�ʻ�ê(ADHD)���D�A�^��O�G(**158),Adjustment Disorder/Hyperactivity Disorder ,Anxiety Disorder/Hyperactivity Disorder,Attention-Deficit/Hyperactivity Disorder ,Attention-Deficit/Hostile Disorder,201711,(**158),�`�����@�N�y158
-Ans3,6. ��s���i���X�A�Z���b�}�������o��f���������v�O�@��H�� 28 ���C�f�������^��O�G(**110),Lung Cancer ,Orbital Cancer ,Oral Cancer ,Breast Cancer,201711,(**110),�`�����@�N�y110
-Ans1,7. �u�Ѧ�ʥ�J�v�O�Ѧ�g�y�������g�CMultiple-Resistant Staphylococcus Aureus�A²�� MRSA�A�`�`�O�����CMRSA �O�G(**103),���ĩʪ����⸲��y�� ,�ͪ����y�� ,���ֵ� ,���U��,201711,(**103),�`�����@�N�y103
-Ans2,8. �êA�Įe���y�� Chronic Renal Failure�A���O���G(**95),�C�ʪͪ��� ,�C�ʵǰI�� ,���۲�´�� ,����������,201711,(**95),�`�����@�N�y95
-Ans1,9. �U�C���@�������O�Τ�I��סA���������O����׶q�p�S����x�Ҫ��ﵽ���U���j�H(*31�B286),�פ�p�S ,�ׯf�ҭp�S ,�פH�p�S ,�`�B�w����,201711,(*31�B286),2
-Ans4,10. ������T�зǪ����ʥi�a�ӥ|���D�n���n�B�A�аݤU�C��̤��ݩ�䤤���@���n�B�H(*93),�洫�� ,��X�� ,�W�ߩ� ,�ƥL��,201711,(*93),5
-Ans4,11. CEN TC251 �O�ݩ�U�C��̪��� 251 ���޳N�e���|�H(*82),���إ����a�зǲ�´ ,��ڼзǲ�´,�����a�зǲ�´ ,�ڬw�зǩe���|,201711,(*82),5
-Ans3,12. ��Ʈw�� SQL �O�U�C��̪��Y�g�H(*99),Standardized Question Layer ,Standardized Query Language,Structured Query Language ,System Quality Logical,201711,(*99),6
-Ans1,13. �H�U��̨ëD�����į���q��?(*137),Security ,Delay ,Reliability ,Capacity,201711,(*137),7
-Ans1,14. �@��{���}�o���q�A�{���]�p�v�ҥ����i�檺���ն��إH�椸���լ��D�A���Y�H�t�Τ��̤p��쪺�{���Ҳլ���H�A�@�볣�ĥΤU�C���ا޳N�Ӵ��յ{���Ҳդ������n������|�A��X�{���i��o�ͪ����~�H(*239),�սc���� ,�½c���� ,�^�_���� ,���O����,201711,(*239),12
-Ans2,15. �t�δ��ժ��覡�]�A A:�禬���աBB�G��X���աBC�G�椸���աB�M D�G������թΥ�����աA�@�몺���ᶶ�Ǭ���H(*246),A->B->C->D , C->B->A->D , B->C->D->A ,C->D->B->A,201711,(*246),13
-Ans2,16. ����f����|�N�q�l�f�����o�i�A�Ϥ����X�Ӥ��P�����q�A�U�C���ᶶ�ǡA��̥��T�H(*34),�f���۰ʤơB�q�l���d�����B�q�l�f�� ,�f���۰ʤơB�q�l�f���B�q�l���d����,�q�l�f���B�f���۰ʤơB�q�l���d���� ,�q�l���d�����B�f���۰ʤơB�q�l�f��,201711,(*34),2
-Ans1,17. �U�C����@�먾���𪺱ԭz��̿��~?(*175),�i���J�I�欰�S�x�X ,�i�L�o�ʥ]�ӷ��Υت� IP ��}�O�_�X�k,�i���ܶi�X��q�� IP ��} ,�i�L�o�ʥ]�O�_�ϥΦX�k�� TCP/UDP ��,201711,(*175),9
-Ans3,18. ���}��Ʈw�ɪ��Ĥ@�B���p�O�@�޳N�A�������N���ѧO�ӤH����첾�����ʧ@���U�C��̡H(*205),�����P�N�v(informed consent) ,�����{��(Authentication),�h�ѧO��(deidentification) ,�h��p�K�p��(multiparty secure computation),201711,(*205),10
-Ans1,19. �@�z��T�t�Υ������X�@�z�L�{�ӳ]�p�A�@�z�L�{�q�`�O�̷ӤU�C���@�ض��ǡH(*429),�f�H�����B�E�_�B�p�e�B�@�z���I�B���G����,���G���ȡB�p�e�B�f�H�����B�@�z���I�B�E�_,�@�z���I�B�E�_�B�f�H�����B�p�e�B���G����,�f�H�����B�@�z���I�B�E�_�B���G���ȡB�p�e,201711,(*429),22
-Ans4,20. �U�C��̬O�Ѭ����a��ǹϮ��](NLM)�p�e�ҵo�i����ǵ��J�зǡA�H metathesaurus �J��U�ؤ��P����ǵ��J�A�åB�H semantic network ���F�r���������Y�H(*86),ICD ,LOINC ,SNOMED ,UMLS,201711,(*86),5
-Ans3,"21. �������|�ҩνåͦ�F�����ұĥΪ������p������(Virtual Private Network, VPN)�D�n�ĥΪ���T�w���޳N�A�䤤���]�A�U�C��̡H(*179)",���G(Tunneling) ,�[�ѱK(Encryption & Decryption),���μh�L�o��(Application Filter) ,�K�_�޲z(Key Management),201711,(*179),9
-Ans2,22. �U�C��̬O�M�צ��\���T�j�����H(*226),�H���B�]�ơB��� ,�~��B�ɶ��B����,�W���B�]�p�B���� ,�X���B�ʷ��B�禬,201711,(*226),12
-Ans3,23. ���F�T�O������檺���T�ʡA�@�ӥ���b��Ʈw�޲z�t�Τ��㦳�|�دS�ʤΩҿץ���� ACID �S�ʡA�аݤU�C��̤��ݩ� ACID �S�ʡH(*103~104),�椸��(Atomicity) ,�@�P��(Consistency),�W�ߩ�(Independency) ,�ä[��(Durability),201711,(*103~104),6
-Ans3,24. ���|�ħ������f���������T���A�а����f�t�o�@���q�A�C�����q�����`�q�A���Įɶ��t�Φ۰ʳ]�w���ҥήɶ��A�o�O�ݩ�U�C������f�H(*294),�u�����f ,�������f ,�ߧY�������f ,�ݭn�ɨϥ����f,201711,(*294),15
-Ans1,25. ��� HL7 �зǲ�´���ԭz�A�U�C��̦��~�H(*87),�O�Ѱ�ڤW�C�a�D�n��������T�t�Ӧb���Q�����p�U�Ҳզ�����|,�{�ɤ��ɬ[�c(CDA)�O�� HL7 ��´�Ҩ�w���з�,HL7 �w�g���� ANSI �{�i���зǵo�i��´,HL7 �� 3.0 ���������䴩 XML �榡,201711,(*87),5
-Ans4,26. ��T�w���ؼЪ��v���b��O�@��ƤΨt�θ귽���T�ةʽ�A�U�C��̤��O�䤤���@�H(*170-171),Integrity ,Confidentiality ,Availability ,Authority,201711,(*170-171),9
-Ans4,27. ��T�w���ؼХ����q�|�Ӥ�V�ӦҼ{�A�U�C��̤��ݩ�o�|�Ӥ�V�H(*171),�t�Φw�� ,��Ʀw�� ,�{���w�� ,�H���w��,201711,(*171),9
-Ans1,28. �}�o��|��T�t�ήɡA�@�볣�H ADT ��²�٦U�쪺�@�~�y�{�ñN�䤤�Ҳ��͸�Ʀ걵�_�ӡA�H����������@�ݨD�A�а� ADT �����W�O�H(*330),"Admissions, Discharge, Transfer ","Admissions, Diagnosis, Transfer","Admissions, Discharge, Transport ","Admissions, Diagnosis, Transport",201711,(*330),16
-Ans2,29. �b�Ī���T�t�Τ��A�����ѥ���ĵ�ܥ\��A�а��Ī��椬�@��ĵ�ܬO���F�קK��ت��p�H(*378),���ƳB�� ,�Ī����}�ƥ� ,�Ī��L�q ,�H�W�ҫD,201711,(*378),19
-Ans4,30. �e�f�ʴ��Ʊ����F�����ت��A���]�A�U�C���@���H(*527),�����Y�ɬ̱� ,�إ߯e�f�۵M�v,���̬F������w�P���� ,���̪���ǳ�,201711,(*527),27
-Ans4,31. ��� HIMSS �P RSNA �p�X���X�����~������T��X IHE�A�U�C���ԭz��̤����T?(*666), IHE �O Integrating the Healthcare Enterprise ���Y�g, IHE �w���|�����p�������ʡA�ñN�˴������G�W�����Ѭd��, IHE ���޳N�[�c�i�H���� Integrating Profiles�BActors �M Transactions, IHE �O�̷ӶE����O�����A��w�u�@�y�{���W�d�A�]�A����B�~��B������M��쵥,201711,(*666),35
-Ans2,32. LOINC �O�U�C��̪��s�X�t�ΡH(*86),�ľ��B�� ,�����ˬd ,�v������ ,�����J,201711,(*86),5
-Ans3,33. �i�۰ʱN�f�H�����絲�G�P�ͪ��϶������A�p�W�X���`�d��n�S�O��ܡA�аݳo�O�ݩ�U�C���@�ؤ��H(*363),���`�Ȥ�� ,�e��Ȥ�� ,�϶��Ȥ�� ,�M�I�Ȥ��,201711,(*363),18
-Ans3,34. ����Ī����}�������ԭz�A�U�C��̿��~�H(*393),ADR �O Adverse Drug Reaction ���Y�g,�@��������סB���שM�Y���T�ص��Ū����}����,�|�����f�H���|�ɶ��A�B�y���f�H���ΪA�O�ݩ󻴫פ��}����,�|�y���f�H���`�ΦM�ΥͩR�O�ݩ��Y�������}����,201711,(*393),19
-Ans3,35. �åͺ֧Q�������Z���d���@�p�e�A�D�n�����T�ذ��d���@�A�ȼҦ��A���]�A�U�C���@��?(*645),���c�� ,���Ϧ� ,��ʦ� ,�~�a��,201711,(*645),33
-Ans2,36. ���������T�t�Ϊ��^���Y�g�A�U�C��̤����T�H(*424),LIS �������T�t�� ,MIS ���@�z��T�t��,PIS ���ħ���T�t�� ,RIS ����g�v����T�t��,201711,(*424),22
-Ans4,37. �y�P�̭]�q���~�Q��@��}�l�I���A�аݤU�C��̤��ŦX�ɧU���(*527~531),50 ���H�W ,�����I�C�ʯf�� BMI >= 30,���� ,12 �Ӥ뤺���ध����,201711,(*527~531),27
-Ans2,38. �̾ڡu�������c�q�l�f���s�@�κ޲z��k�v���A���q�l�f����T�t�������ŦX�W�w���޲z���I�A�䤤���]�A�U�C���@���H(*548),�q���O�ٹq�l�f����Ʀw�������� ,�q���ŦX������T�зǥ洫������,�q���O����T�t�ήɶ����T������ ,�q���t�άG�٤�������ܾ���,201711,(*548),28
-Ans3,39. �b�T�h����Ʈw���c���A���ѨϥΪ̴y�z����ʪ���Ƶ��c�O���Ӽh���H(*101),�����h�� ,��Ƽh�� ,�����h�� ,�~���h��,201711,(*101),6
-Ans2,40. �b��T�t�δ��մ����A�]�ץ��ʧ@�����_�i��A���T�O���Ѫ��t�ΫY�̷s�B�@�P�A�Ҷ��ĥΪ����ެ��H(*248),�[�c�ޱ� ,�����ޱ� ,�H���ޱ� ,�w���ޱ�,201711,(*248),13
-Ans3,41. �U�C���@���ëD JCAHO ��ĳ���f�H�w���ؼФ��@�H(*509),�f�H���Ѥ��ǽT�� ,�����A�Ȫ̶������ķ��q,�f����ƥ[�K�O�@�f�H���p ,�W�i�Ī������Ħw��,201711,(*509),26
-Ans1,42. �q������O�t�X�q�l�f���A�i�H�i�@�B���o�i�{�ɨM���䴩�t��(CDSS)�A�O���U�C��̡H(*454),Clinical Decision Support System ,Clinical Document Structure System,Computerized Design Service Support ,Computerized Decision Support Services,201711,(*454),24
-Ans2,43. ��E�˶ˤ����šA�аݤU�C����ݩ�Ĥ@�šH(*318),�M��(Emergent) ,�_�d���(Resuscitation),���(Urgent) ,�����(Less Urgent),201711,(*318),16
-Ans4,44. �������d�O�I��Ʈw���ӫO����k�H�ɡA�C�զ@��X���U�H�A��X�˥������T���ܶ������G�A�P���鶡�õL����t���H(*598),��O���O�O�B�a�ϡB��~�O ,���E�B���|�B�S���ħ�,��O�B�E�_�B���� ,�~�֡B�ʧO�B�O��,201711,(*598),31
-Ans4,45. ���d��T���~��X�з�(IHE)�w�q�Τ������޳N�W�d�A�O�Ʊ�������T�t������ƭ��@�دS�ʡH(*666),Availability (�i�Ω�) ,Confidentiality (���K��),Integrity (�����) ,Interoperability (���ާ@��),201711,(*666),35
-Ans4,46. �аݤU�C��̤��ݩ�q�lñ�����ߪk��h�H(*191~192),�޳N���߭�h ,�����ۥѭ�h ,�����ɦV��h ,�x��D�ɭ�h,201711,(*191~192),9
-Ans4,47. �U�C��̫D�@��[�@�f�Ф�����Ͳz�ʵ��������s���������H(*417),�߹q�Ͼ� ,�I�l�� ,�I�w���� ,��}��,201711,(*417),21
-Ans2,48. Health on the Net Foundation �ҭq�w����Ǥΰ��d���������h Hon code�A���]�A�U�C��̡H(*583),�۪̳z���ơG��P�@���pô,�Ըߤ��e�z���ơG�������T�ꤽ���f�H�m�W�οԸߤ��e,�٧U�̳z���ơG���}����B����άF���٧U,�s�i�νs���w�������۹�,201711,(*583),30
-Ans1,49. �����O�@�ؤ����B���誺���ҡA�n���n�����޲z�A�����޲z�̥����z�L�n��u��P�����]�Ʒ��q�A�@��ұĥΪ��u²�������޲z�q�T��w�v�O�U�C���@�ب�w�H (*150),SNMP ,SOAP ,SMTP ,SNCP,201711,(*150),7
-Ans3,50. �аݤU�C��̤��ݩ� SOAP �䤤���@�H(*461),Subjective ,Objective ,Assignment ,Plan,201711,(*461),24
+﻿Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4,Year,Ref_Page,Chapter
+Ans2,1. 白血病又稱血癌，是鄉土劇中常見的生病橋段。主因骨髓造血細胞產生不正常增生，進而影響骨髓造血功能的惡性疾病。『白血病』的英文是？(**33),Thrombocytosis ,Leukemia ,Splenomegaly ,Albumin,201711,(**33),常用醫護術語33
+Ans2,2. 警察專科學校學員在 3000 公尺跑步測驗時突然跌倒昏倒，送醫急救。昏倒的英文是：(**27),Edema ,Fainting ,Arteriosclerosis ,Arrhythmia,201711,(**27),常用醫護術語27
+Ans1,3. 一例一休鬆綁，多數上班族憂過勞。新北首任技職科長疑過勞腦出血，最後腦死器捐。腦出血的英文是：(**66),Cerebral Hemorrhage ,Parkinson's Disease ,Epilepsy ,Diabetes Mellitus,201711,(**66),常用醫護術語66
+Ans1,4. 人工授精主要作為治療不孕不育的輔助生殖技術，但近來也不少人利用捐精者提供的精子使女性無需男性夥伴便可懷孕生子。人工授精的英文是：,Artificial Insemination ,Artificial Abortion ,Caesarean Section ,Painless Labor,201711,null,null
+Ans3,5. 現在很多小孩子有注意力缺失與過動障礙(ADHD)問題，英文是：(**158),Adjustment Disorder/Hyperactivity Disorder ,Anxiety Disorder/Hyperactivity Disorder,Attention-Deficit/Hyperactivity Disorder ,Attention-Deficit/Hostile Disorder,201711,(**158),常用醫護術語158
+Ans3,6. 研究報告指出，嚼食檳榔的民眾得到口腔癌的機率是一般人的 28 倍。口腔癌的英文是：(**110),Lung Cancer ,Orbital Cancer ,Oral Cancer ,Breast Cancer,201711,(**110),常用醫護術語110
+Ans1,7. 「敗血性休克」是敗血症造成的重症。Multiple-Resistant Staphylococcus Aureus，簡稱 MRSA，常常是元凶。MRSA 是：(**103),抗藥性金黃色葡萄球菌 ,肺炎雙球菌 ,結核菌 ,芽孢菌,201711,(**103),常用醫護術語103
+Ans2,8. 亂服藥容易造成 Chronic Renal Failure，它是指：(**95),慢性肺阻塞 ,慢性腎衰竭 ,蜂窩組織炎 ,視網膜剝離,201711,(**95),常用醫護術語95
+Ans1,9. 下列哪一種醫療費用支付制度，對於全民健保初期論量計酬收支困境的改善幫助不大？(*31、286),論日計酬 ,論病例計酬 ,論人計酬 ,總額預算制度,201711,(*31、286),2
+Ans4,10. 醫療資訊標準的推動可帶來四項主要的好處，請問下列何者不屬於其中之一的好處？(*93),交換性 ,整合性 ,獨立性 ,排他性,201711,(*93),5
+Ans4,11. CEN TC251 是屬於下列何者的第 251 號技術委員會？(*82),中華民國國家標準組織 ,國際標準組織,美國國家標準組織 ,歐洲標準委員會,201711,(*82),5
+Ans3,12. 資料庫的 SQL 是下列何者的縮寫？(*99),Standardized Question Layer ,Standardized Query Language,Structured Query Language ,System Quality Logical,201711,(*99),6
+Ans1,13. 以下何者並非網路效能測量值?(*137),Security ,Delay ,Reliability ,Capacity,201711,(*137),7
+Ans1,14. 一般程式開發階段，程式設計師所必須進行的測試項目以單元測試為主，它係以系統中最小單位的程式模組為對象，一般都採用下列哪種技術來測試程式模組中的重要控制路徑，找出程式可能發生的錯誤？(*239),白箱測試 ,黑箱測試 ,回復測試 ,壓力測試,201711,(*239),12
+Ans2,15. 系統測試的方式包括 A:驗收測試、B：整合測試、C：單元測試、和 D：整體測試或平行測試，一般的先後順序為何？(*246),A->B->C->D , C->B->A->D , B->C->D->A ,C->D->B->A,201711,(*246),13
+Ans2,16. 美國病歷協會將電子病歷的發展，區分為幾個不同的階段，下列先後順序，何者正確？(*34),病歷自動化、電子健康紀錄、電子病歷 ,病歷自動化、電子病歷、電子健康紀錄,電子病歷、病歷自動化、電子健康紀錄 ,電子健康紀錄、病歷自動化、電子病歷,201711,(*34),2
+Ans1,17. 下列關於一般防火牆的敘述何者錯誤?(*175),可比對入侵行為特徵碼 ,可過濾封包來源及目的 IP 位址是否合法,可改變進出交通的 IP 位址 ,可過濾封包是否使用合法的 TCP/UDP 埠號,201711,(*175),9
+Ans3,18. 公開資料庫時的第一步隱私保護技術，必須先將能識別個人之欄位移除的動作為下列何者？(*205),知情同意權(informed consent) ,身分認證(Authentication),去識別化(deidentification) ,多方私密計算(multiparty secure computation),201711,(*205),10
+Ans1,19. 護理資訊系統必須結合護理過程來設計，護理過程通常是依照下列哪一種順序？(*429),病人評估、診斷、計畫、護理措施、成果評值,成果評值、計畫、病人評估、護理措施、診斷,護理措施、診斷、病人評估、計畫、成果評值,病人評估、護理措施、診斷、成果評值、計畫,201711,(*429),22
+Ans4,20. 下列何者是由美國國家醫學圖書館(NLM)計畫所發展的醫學詞彙標準，以 metathesaurus 彙整各種不同的醫學詞彙，並且以 semantic network 表達字詞間的關係？(*86),ICD ,LOINC ,SNOMED ,UMLS,201711,(*86),5
+Ans3,"21. 跨醫療院所或衛生行政機關所採用的虛擬私有網路(Virtual Private Network, VPN)主要採用的資訊安全技術，其中不包括下列何者？(*179)",穿隧(Tunneling) ,加解密(Encryption & Decryption),應用層過濾器(Application Filter) ,密鑰管理(Key Management),201711,(*179),9
+Ans2,22. 下列何者是專案成功的三大元素？(*226),人員、設備、資金 ,品質、時間、成本,規劃、設計、執行 ,合約、監督、驗收,201711,(*226),12
+Ans3,23. 為了確保交易執行的正確性，一個交易在資料庫管理系統中具有四種特性及所謂交易的 ACID 特性，請問下列何者不屬於 ACID 特性？(*103~104),單元性(Atomicity) ,一致性(Consistency),獨立性(Independency) ,永久性(Durability),201711,(*103~104),6
+Ans3,24. 住院藥局的藥矚類型分為三類，請問藥矚配發一次量，每次劑量等於總量，停藥時間系統自動設定為啟用時間，這是屬於下列何者藥矚？(*294),短期藥矚 ,長期藥矚 ,立即給藥藥矚 ,需要時使用藥矚,201711,(*294),15
+Ans1,25. 對於 HL7 標準組織的敘述，下列何者有誤？(*87),是由國際上七家主要的醫療資訊廠商在互利的情況下所組成的協會,臨床文檔架構(CDA)是由 HL7 組織所制定的標準,HL7 已經成為 ANSI 認可的標準發展組織,HL7 的 3.0 版本直接支援 XML 格式,201711,(*87),5
+Ans4,26. 資訊安全目標的宗旨在於保護資料及系統資源的三種性質，下列何者不是其中之一？(*170-171),Integrity ,Confidentiality ,Availability ,Authority,201711,(*170-171),9
+Ans4,27. 資訊安全目標必須從四個方向來考慮，下列何者不屬於這四個方向？(*171),系統安全 ,資料安全 ,程式安全 ,人身安全,201711,(*171),9
+Ans1,28. 開發醫院資訊系統時，一般都以 ADT 來簡稱各科的作業流程並將其中所產生資料串接起來，以滿足整體照護需求，請問 ADT 的全名是？(*330),"Admissions, Discharge, Transfer ","Admissions, Diagnosis, Transfer","Admissions, Discharge, Transport ","Admissions, Diagnosis, Transport",201711,(*330),16
+Ans2,29. 在藥物資訊系統中，有提供用藥警示功能，請問藥物交互作用警示是為了避免何種狀況？(*378),重複處方 ,藥物不良事件 ,藥物過量 ,以上皆非,201711,(*378),19
+Ans4,30. 疾病監測希望能夠達成的目的，不包括下列哪一項？(*527),偵測即時疫情 ,建立疾病自然史,防疫政策的制定與評估 ,防疫物資準備,201711,(*527),27
+Ans4,31. 對於 HIMSS 與 RSNA 聯合提出的企業醫療資訊整合 IHE，下列的敘述何者不正確?(*666), IHE 是 Integrating the Healthcare Enterprise 的縮寫, IHE 定期舉辦實機聯測的活動，並將檢測的結果上網提供查詢, IHE 的技術架構可以分為 Integrating Profiles、Actors 和 Transactions, IHE 是依照診療科別的領域，制定工作流程的規範，包括內科、外科、婦產科和兒科等,201711,(*666),35
+Ans2,32. LOINC 是下列何者的編碼系統？(*86),藥劑處方 ,檢驗檢查 ,影像儀器 ,醫學辭彙,201711,(*86),5
+Ans3,33. 可自動將病人的檢驗結果與生物區間做比對，如超出正常範圍要特別顯示，請問這是屬於下列哪一種比對？(*363),正常值比對 ,前後值比對 ,區間值比對 ,危險值比對,201711,(*363),18
+Ans3,34. 對於藥物不良反應的敘述，下列何者錯誤？(*393),ADR 是 Adverse Drug Reaction 的縮寫,一般分為輕度、中度和嚴重三種等級的不良反應,會延長病人住院時間，且造成病人不舒服是屬於輕度不良反應,會造成病人死亡或危及生命是屬於嚴重的不良反應,201711,(*393),19
+Ans3,35. 衛生福利部的遠距健康照護計畫，主要分為三種健康照護服務模式，不包括下列哪一種?(*645),機構式 ,社區式 ,行動式 ,居家式,201711,(*645),33
+Ans2,36. 對於醫療資訊系統的英文縮寫，下列何者不正確？(*424),LIS 為檢驗資訊系統 ,MIS 為護理資訊系統,PIS 為藥局資訊系統 ,RIS 為放射影像資訊系統,201711,(*424),22
+Ans4,37. 流感疫苗從今年十月一日開始施打，請問下列何者不符合補助資格(*527~531),50 歲以上 ,高風險慢性病或 BMI >= 30,孕婦 ,12 個月內嬰兒之父母,201711,(*527~531),27
+Ans2,38. 依據「醫療機構電子病歷製作及管理辦法」中，對於電子病歷資訊系統應有符合規定的管理措施，其中不包括下列哪一項？(*548),訂有保障電子病歷資料安全之機制 ,訂有符合醫療資訊標準交換之機制,訂有保持資訊系統時間正確之機制 ,訂有系統故障之緊急應變機制,201711,(*548),28
+Ans3,39. 在三層式資料庫結構中，提供使用者描述整體性的資料結構是哪個層次？(*101),內部層次 ,資料層次 ,概念層次 ,外部層次,201711,(*101),6
+Ans2,40. 在資訊系統測試期間，因修正動作持續不斷進行，為確保提供的系統係最新且一致，所須採用的控管為？(*248),架構管控 ,版本管控 ,人員管控 ,安全管控,201711,(*248),13
+Ans3,41. 下列那一項並非 JCAHO 建議的病人安全目標之一？(*509),病人辨識之準確性 ,醫療服務者間之有效溝通,病歷資料加密保護病人隱私 ,增進藥物之用藥安全,201711,(*509),26
+Ans1,42. 電腦化醫令配合電子病歷，可以進一步的發展臨床決策支援系統(CDSS)，是指下列何者？(*454),Clinical Decision Support System ,Clinical Document Structure System,Computerized Design Service Support ,Computerized Decision Support Services,201711,(*454),24
+Ans2,43. 急診檢傷分五級，請問下列何者屬於第一級？(*318),危急(Emergent) ,復甦急救(Resuscitation),緊急(Urgent) ,次緊急(Less Urgent),201711,(*318),16
+Ans4,44. 全民健康保險資料庫的承保抽樣歸人檔，每組共抽出五萬人，抽出樣本之哪三種變項的分佈，與母體間並無明顯差異？(*598),投保的保費、地區、行業別 ,門診、住院、特約藥局,科別、診斷、用藥 ,年齡、性別、費用,201711,(*598),31
+Ans4,45. 健康資訊產業整合標準(IHE)定義及公布的技術規範，是希望醫療資訊系統應具備哪一種特性？(*666),Availability (可用性) ,Confidentiality (機密性),Integrity (完整性) ,Interoperability (互操作性),201711,(*666),35
+Ans4,46. 請問下列何者不屬於電子簽章的立法原則？(*191~192),技術中立原則 ,契約自由原則 ,市場導向原則 ,官方主導原則,201711,(*191~192),9
+Ans4,47. 下列何者非一般加護病房之床邊生理監視器介面連接的儀器？(*417),心電圖機 ,呼吸器 ,點滴幫浦 ,血糖機,201711,(*417),21
+Ans2,48. Health on the Net Foundation 所訂定的醫學及健康網站執行原則 Hon code，不包括下列何者？(*583),著者透明化：能與作者聯繫,諮詢內容透明化：網站應確實公布病人姓名及諮詢內容,贊助者透明化：公開資金、基金或政府贊助,廣告及編輯方針的公正誠實,201711,(*583),30
+Ans1,49. 網路是一種分散且異質的環境，要做好網路管理，網路管理者必須透過軟體工具與網路設備溝通，一般所採用的「簡易網路管理通訊協定」是下列哪一種協定？ (*150),SNMP ,SOAP ,SMTP ,SNCP,201711,(*150),7
+Ans3,50. 請問下列何者不屬於 SOAP 其中之一？(*461),Subjective ,Objective ,Assignment ,Plan,201711,(*461),24

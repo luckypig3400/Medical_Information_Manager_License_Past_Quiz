@@ -1,51 +1,51 @@
-Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4,Year,Ref_Page,Chapter
-Ans4,1. �s�a�ͪ�(COVID-19)�̱��j�z�o�A���`�B���g�H�ƳФU���~�s���A�������H�ߴq�q�C�̭]�i��O�w���Z�~�ͪ��̦��Ī���q���@�A�]���U�ɤ��V���ߡC�аݬ̭]���^��H(**162), Pathogen , Antibody , Antigen , Vaccine,202004,(**162),�`�����@�N�y162
-Ans1,2. �ӤW�D�A�̱����y���t���N�A�����ܦ��F�����I�I�F�C�ӫ�ı���կg�w�̡A��Ҹ��ʳ��A�i�ण�Ӱt�X���̱��I�A�e���y�����̯}�f�C�аݫ�ı���կg���^��H(**172), Schizophrenia , Delusional Disorder, Exhibitionism , Amnesia,202004,(**172),�`�����@�N�y172
-Ans3,3. �ӤW�D�A�ͪ����g�f�w�A���i��ݭn������(��ޤ��}�N)���ޡC�аݮ�����^��H(**42), Pulmonary Fibrosis , Emphysema, Tracheotomy , Pulmonary obstruction,202004,(**42),�`�����@�N�y42
-Ans3,"4. �ӤW�D�A���Ƿs�a�ͪ��X�{�D�嫬�g���A�]�����m�]�C�J�Z�~�ͪ��T�E�q������C�аݸ��m���^��H(**10,58,155,188)", Vomiting , Asthma , Diarrhea , Fever,202004,"(**10,58,155,188)","�`�����@�N�y10,58,155,188"
-Ans2,"5. �զ�f�S�٦����A�O�m�g�@���`�����ͯf���q�C�D�]����y��ӭM���ͤ����`�W�͡A�i�Ӽv�T����y��\�઺�c�ʯe�f�C�аݥզ�f���^��H(**37,160)", Thrombocytosis , Leukemia, Splenomegaly , Thyroid cancer,202004,"(**37,160)","�`�����@�N�y37,160"
-Ans2,6. ���W���H�]�Y���D�ʯ�ä�U���A�����ǲΥD�ʯ�ä���m����N�A�N��]��Ŧ�\���_���}�L�@�A�޵o�Q�סC�аݥD�ʯ߯U�����^��H�]**32�^, Acute Myocardial Infarction , Aortic Stenosis, Varicose Vein , Atrial Flutter,202004,(**32),�`�����@�N�y32
-Ans3,7. �l�c�櫫�`�`���H�H�֡B���D�B�z�l�����x�櫫�A�y���\�h���A�P���g�C��Өϥ�?�Ƥl�c�����T�w�N�ӳB�m���רҼW�[�C�аݤl�c�櫫���N�y�H(**139), Umbilical Prolapse , Prolapse Vagina, Uterine Prolapse , Venereal Disease,202004,(**139),�`�����@�N�y139
-Ans2,"8. �����`���n�o��t�����`�Ϋ����`�A�]�����[�H�����`�ҩӨ����t���ζˮ`�ҳy���A�䤤�����`���O�U�C��̡H(**7,89,206)", Osteotomy , Osteoarthritis , Osteoporosis , Osteomyelitis,202004,"(**7,89,206)","�`�����@�N�y7,89,206"
-Ans4,9. ���榡��´�[�c�O���F�n�P�i���~���~��ӵo�i�X�Ӫ����ز�´�Φ��A�¦��x��������´�Φ������u�t�d�Ҧ檺�@�~�A�ӥ��榡����´�[�c�h�i�ΨӸѨM�U�C���@���H(*17),²�檺���D ,��o�����p ,���ê��M�� ,���������D,202004,(*17),1
-Ans4,10. �O�W���d���p�e���A���@���l���O�ظm���H���d�޲z���x�H�Ҧp�ڪ����d�g���x�� App ���C(*39),������ ,���@�� ,���̶� ,�O����,202004,(*39),2
-Ans3,11. ����ήɦ��Ĩ��v�s���ǬV�f�A���ݱj�ƤΥ[�t�ڰ�̱������د�O�H(*39),�����O ,�B�z��O ,������O ,�Ŷǯ�O,202004,(*39),2
-Ans2,12. ��E�t�Ϊ����I�P���E�t�ΫD�`�����A���̤j�t���b��E�t�Υ�����ƤU�C���@���\��H(*53),�f���ǰe ,�˶ˤ��� ,���i�ǿ� ,�������,202004,(*53),3
-Ans1,13. �Ѥ@�s���@�P�ؼЪ��H���β�´�b���Q�����p�U�A�F���Y�Ǹ�T�W�檺�{�P�ΦP�N�A�ҦpDICOM�A�O�ݩ���@�ؤ覡�ҵo�i���зǡH(*63),���ȾɦV�з� ,���з�,�F���j��з� ,�@�ѫ��з�,202004,(*63),3
-Ans3,"14. �U�C���� ICD-10-CM ���y�z��̦��~�H (*67, �ɨ��D)",���׳̪��i��C�X ,���צܤ֤T�X,�Ĥ@�Ӧr���O�Ʀr ,�b�� 3 �Ӧr����ϥΤp���I,202004," (*67, �ɨ��D)",4
-Ans1,15. �ֳt���d���@���ާ@�ʸ귽(Fast Healthcare Interoperability Resources; FHIR)�O�ѭ��@�Ӳ�´�ҵo�i����ƥ洫�зǡH(*71),��ڰ��d��T�洫�ĤC�h��w��|(HL7),�����g����Ƿ|(ACR)�ΰ�a�q���s�y�Ө�|(NEMA),�@�ɽåͲ�´(WHO),�����a��ǹϮ��](NLM),202004,(*71),4
-Ans4,16. ������T�зǪ����ʥi�a�ӤU�X�ӥD�n���n�B�A�аݤU�C��ؤ��ݩ�䤤���n�B�H(*75),��X�� ,�W�ߩ� ,���ɰ���v���O ,�����}�o����,202004,(*75),4
-Ans3,17. ��Ʈw�޲z�t�Ϊ��ާ@�A�i�H�z�L SQL �i��d�߻P���ʡA�ҿ� SQL �O���U�C��̡H(*82), Standard Query Language, Standard Question Logic, Structured Query Language, Server Quality Level,202004,(*82),5
-Ans3,18. �������p����Ʈw������ʭ���A���Q�ѷӸ�ƪ����D��(Primary Key)�P�ѷӸ�ƪ����~����(Foreign Key)���ԭz�U�C��̥��T�H(*95),�Q�ѷӸ�ƪ����D��i���ŭ�,�D�䪺�Ȧb�Q�ѷӸ�ƪ����i�H����,�~���䪺�ȥ����O�b�Q�ѷӸ�ƪ����D��ȩάO�ŭ�,�~����b�ѷӸ�ƪ��������O�ߤ@�L�G,202004,(*95),5
-Ans4,19. �U�C��̬O���b��Ʈw�]�p�ɡA�|���`�ۦP���]�p�Ҧ��A�ˬd��ƬO�_���Ʀs��A��ت��O�إߡu�}�n���c�����p���v�A�o�O�@�بS�����Ƹ�ƪ����p���A�ӥB�b�s�W�B�R���Χ�s��ƮɡA���|�y�����~�θ�Ƥ��@�P�H(*98),�̤p��(Minimization) ,�̨Τ�(Optimization),��ı��(Visualization) ,���W��(Normalization),202004,(*98),6
-Ans3,20. �b���z��|���o�i���A�z�L�P����(Sensor)�Φ����p���A���������A�ȫ~��A���p�� IOT ���Y�g�O�U�C��̡H(*110), Information Object Terms , Input Output Technology, Internet of Things , Interconnection Object Template,202004,(*110),6
-Ans1,21. ATM �i�H�̤��P����ƫ��A�A���Ѥ��P���A�ȫ~��ӲŦX���P�h���������A�ȻݨD�F�o�Ǯį�A�ȯS��i�H���������ϥΪ��ǵۥ��̱N�����]�p���@�ӥH�A�ȼh�����ɦV���t�ΡA�H�K�������㦳��j���u�ʡA�P�ɤ]�������㦳�ϧO�A�ȼh��������A�а� ATM �����W�O�U�C���@�ӡH(*111), ATM(Asynchronous Transfer Mode) , ATM(Asynchronous Transportation Mode), ATM(Automated Teller Machine) , ATM(Automated Transfer Mode),202004,(*111),6
-Ans2,22. ���W���t�A�Ӻ���(Gigabit Ethernet)���ԭz�A�U�C��̤����T�H(*121),�ĥ� CSMA/CD �q�T��w ,�ĥ� IEEE 802.11 ���зǳW�d,�i�H�ϥ� SNMP �޲z���� ,�i�ϥΫD�B�������u(UTP)�Υ��֪��u���G�u,202004,(*121),6
-Ans1,23. �x�W�U�a��|���T�O��w�����F�������ʡA���b�����t�ΤW�t�X�ĥΰ��O��T���ʳ��ʱM�ݺ����A�]���h�D������A�i�j�T���C�b�ȤJ�I�t�Ωεs����Ƥ����I�A�аݳo�ӱM�ݺ����O�U�C��̡H(*136), VPN(Virtual Private Network) , PVC(Permanent Virtual Circuit), VAN(Value Added Network) , PTN(Public Transport Network),202004,(*136),7
-Ans4,24. ��ƫʥ]�L�o��������i�H�̾ں޲z�̨�w���W�h�A�w��ʥ]�i��L�o�ˬd�A���]�A�U�C���@���ءH(*142),�ӷ��D�� IP ��} ,�ӷ��ΥؼЪ� TCP/UDP Port Number,�ؼХD�� IP ��} ,�z�L Email �ǰe���q���f�r,202004,(*142),7
-Ans1,25. �U�C��̤��O��ƾ��Һ޲z����(HCA)�ֵo���T�إΤ���ҡH(*163),�������O�d�f�H���� ,��ƾ��c����,��ƤH������ ,���A�����γn�����,202004,(*163),8
-Ans4,"26. �s�a�ͪ��̱����y�z�o�A�x�W�����̱��I�ƨ���ڪ֩w�A���̫����x���ɤ��������X�T�j����]���A�U�C��̤��ݩ�䤤���@�H(*173, �ɨ��D)",ĵı�ʰ� ,�L�h���̸g��,�M�a���Ѫ��M�~��ĳ ,�T�E�Ӹ꧹���z����,202004,"(*173, �ɨ��D)",9
-Ans4,27. �b���p�O�@�޳N���A���S��ƫe�A�����n�N���ѧO�ӤH����첾���A�o�Ӱʧ@�٤�����H(*174),�t�����p ,��ƥ��W�� ,�h��p�K�p�� ,�h�ѧO��,202004,(*174),9
-Ans3,28. ��|��T�t�Ωe�~��ۦ�}�o���\�h�u�I�A�U�C��̤����T�H(*186),�b�W�ҤW�j���t�Ӧb�P�]�ơB�n�������ĳ�����ɭԡA������u��,�b�g��W�A�t�ӹJ�쪺�Ȥ�α��p���h�A�ֿn���״I���g��,�b�O�ΤW�A�ȥH�������g�O�A�i�H�n�D�t�Ӱ��X�W�X�������ظm,�b�M�~�W�A�t�ӹJ���ഫ�s�t�ΩΨt�ά[�c�A�y�����|�۹���h,202004,(*186),9
-Ans3,29. �t�δ��ժ��{�ǥ]�A A:�禬���աBB�G������աBC�G�椸���աBD�G��X���թM E�G������յ����ӨB�J�A�@�몺���ᶶ�Ǭ���H(*218), A��B��C��D �� E , C��B��A �� E��D, C��D��A��B �� E , E �� C��D��B��A,202004,(*218),11
-Ans3,30. ����|�n�ɤJ�s��T�t�Ϊ����q�A�����O���¸�T�t���~�򥿱`�B�@�C�p�n����s�B�¸�T�t�ζ��Ҳ��ͼƾڪ��������Y�A���i���ش��աH(*220),��X���� ,������� ,������� ,�椸����,202004,(*220),11
-Ans4,31. ��|���B�@�D�n���������ưȡB�������@�M�g��޲z�T�j���A���U�C�޲z�t�Ϊ��ԭz�A��̤����T�H(*253),���|�޲z�M�f���޲z�O�ݩ������ư� ,�ī~�޲z�M��i�޲z�O�ݩ��������@,�Z�ĺ޲z�M�X�Ǻ޲z�O�ݩ�g��޲z ,��O�޲z�M�H�ƺ޲z�O�ݩ������ư�,202004,(*253),13
-Ans2,32. �{���ľǱM�a�N�Ī����}���������Ť����Y���B���סB���פT�ӵ��šA�аݤU�C����ݩ󻴫ת����}�����H(*367),�ȳy���f�H���ΪA,�ȩ����f�H���|�ɶ�,�|�����f�H���|�ɶ��A�B�y���f�H���ΪA,�|�y���f�H���`�ΦM�ΥͩR *���G���D�̽ҥ� P.367 �X�D�A���׬OB�C���̾ڦҥʹ��X����ơA�T�꦳�Ǧa���� ADR���צ����P���w�q�A�u���סV�L�ݪv���B���θ��ġv�A�O�G���D����A��B�������C,202004,(*367),18
-Ans3,33. �U�C���@���ݩ��@�z��T�t�Τ��ظm���I�ε��G���зǨ̾ڡH (*406), SNOMED , NHIRD , NANDA-I , NLM,202004,(*406),20
-Ans2,34. �U�C��̤��O�e�f�ި�p�����Ц��ǬV�f�ʴ��t��(*492),�k�w�ǬV�f�ʵ��q���t�� ,�~�a�ˬ̩M�j���Y�ɺʵ��ιwĵ�t��,�ͪ��άy�P���`�Y�ɺʴ��t�� ,����Ǧ۰ʳq���t��,202004,(*492),25
-Ans2,35. �������O��Ʈw���]�t�H�U��ؤ��ɡH(*556),���E�B��Ϊv�������� ,��g�ˬd�B��γ��i��,�S���ħ��B��νվ������� ,���|�����O�βM�������,202004,(*556),28
-Ans1,36. �U�C��̫D�ݭn���Z�������D�n��]���@�H(*589),����|�N�E�e���o�ͥ椬�P�V ,�ݭn��i��E�ηӷ|���~��,�P�i�ӮװQ�סB�ǳN��y ,���Ѱ����a����v�~��Ш|,202004,(*589),30
-Ans2,37. �U�C��̤��O���d��T���~��X(IHE)��|�D�n���u�@�H(*619),��w������T�t�Ϊ��зǳW�d�ѨѼt�ӧ@�����~�}�o���̾�,�}�o�ظm�ŦX�зǪ�������T�t�ΨþP�⵹�����|��,�w����z���~������p������,���i�U�t�Ӫ����~�g�L�˴��M����,202004,(*619),32
-Ans4,38. ���d��T���~��X�з�(IHE)�w�q�Τ������޳N�W�d�A�O�Ʊ�������T�t������ƭ��@�دS�ʡH(*666), Availability(�i�Ω�) , Confidentiality(���K��), Integrity(�����) , Interoperability(���ާ@��),202004,(*666),35
-Ans3,39. �ҿ� LOINC �O���U�C��̪��Y�g�H(*86), Laboratory Object Identifiers Names and Codes, Laboratory Object Information Names and Codes, Logical Observation Identifiers Names and Codes, Logical Observation Interaction Names and Codes,202004,(*86),5
-Ans4,40. �U�C�����[�ѱK�޳N���y�z��̥��T�H(*151-153),�������Һ޲z���߱ĥι�٩ʥ[�K�t��,�D��٩ʱK�X�t�ΡA�]�����ݭn�Ҽ{��٩ʡA�ҥH�t�׸���,�ǿ�j�q����Ƥ@��|�ΫD��٩ʥ[�K�t�Ϊ����[�K��,�D��٩ʱK�X�t�άO�]�[�K�ݻP�ѱK�ݥΥH�[�K�P�ѱK�����_���ۦP�ӱo�W,202004,(*151-153),7
-Ans2,41. ���� 10%�Ī����}�ƥ�O�ѩ��Ī����椬�@�Ωҳy�����A�Ī����}�ƥ�^��²�٬��H(*352), AED , ADE , DAE , EAD,202004,(*352),17
-Ans2,42. �Q�Τ��P�W�v���q�Ϫi�߽ġA�ް_�H�餣�P���x����l�@���A�A�ѭ�l�^��򩳪��A�ɡA�ҩ�X����q�A�ް_�ϳ��V�q�����ܡA�����P���u��q�y�A�ഫ���v�����O�U�C���@�سy�v�޳N�H(*377-378), CT (Computerized Tomography) , MRI (Magnetic Resonance Imaging), Ultrasound , PCR,202004,(*377-378),19
-Ans1,43. �f���O�������e�j���H SOAP ���覡�O���ASOAP �����W���H (*321), Subject�FObject�FAssessment�FPlan , Small; Object: Access; Protocol, Super; Object; Abstract; Plus , Subscribe; Order; Apply; Process,202004, (*321),16
-Ans4,44. ���d�O�I��I��פ��A�A�Ω�������@�ׯf�ҭp�S���귽�ӥθs²�٬��U�C��̡H(*260), APGs , DRGs , HMOs , RUGs,202004,(*260),13
-Ans1,45. �H�U���@�����O���ŭp���d���Z�ĵ������СH(*608-609),�A�Ⱥc�� ,�U�Ⱥc�� ,�����{�Ǻc�� ,�ǲ߻P�����c��,202004,(*608-609),31
-Ans2,46. ��T�t�εo�i���U�Ӷ��q�|���ͤ��P���A�U�C�ԭz��̥��T�H(*203-207),�t�γ]�p���q�|���ͪ�B�]�p�W�d�� ,�t�Τ��R���q�|���ͨt�λݨD�W���,�t�εo�i���q�|���ͨt�γW�满���� ,�t�α��涥�q�|���͵{��������,202004,(*203-207),10
-Ans3,47. �H�U��̤��O�q�l�f����󪺯S��H(*501),�h�����Y�H(multiple stakeholders) ,�h�����@���A(multiple type of cares),�h���O��(multiple guarantee) ,�h����Ʈ榡(multiple forms of data),202004,(*501),25
-Ans2,48. �b��T�w�����ؼФ��A�T�O���餧�欰�i�ߤ@�l����ӹ��骺�S�ʡA�٤�����T�����@�ӯS�ʡH(*137-138),����� ,Ų�O�� ,�i���Ω� ,���K�� *���G�e���A���D���Ѭ��i�k�d�ʡC,202004,(*137-138),7
-Ans2,49. �����޲z�M���䴩�A�ĥθ�ƭ��x�θ�Ʊ��ɪ��޳N�A�H�U�C��̬��D�H(*602),�}���Ʈw�s��(Open Database Connectivity;ODBC),�u�W���R�B�z(Online Analytical Processing; OLAP),�u�W����B�z(Online Transaction Processing; OLTP),�}��t�Τ��s�з�(Open System Interconnection Standard; OSIS),202004,(*602),31
-Ans1,50. �H�U����������O��Ʈw���ԭz��̿��~�H (*551),���O����ݩ�åͺ֧Q������κ޲z�n�I�����G�Ÿ��,���O��ƪ��ϥγ��Ҭ��åͺ֧Q��Ƭ�Ǥ��ߺ[��s�����߿W�ߧ@�~��,���O��ƥӽЮ֭��A�ϥδ������T�~,���ΰ��O��ƶi���s�A���ݳq�L�۲z�e���|(IRB)�f�d,202004,(*551),28
+﻿Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4,Year,Ref_Page,Chapter
+Ans4,1. 新冠肺炎(COVID-19)疫情大爆發，死亡、重症人數創下歷年新高，讓民眾人心惶惶。疫苗可能是預防武漢肺炎最有效的手段之一，因此各界引頸期盼。請問疫苗的英文？(**162), Pathogen , Antibody , Antigen , Vaccine,202004,(**162),常用醫護術語162
+Ans1,2. 承上題，疫情全球迅速延燒，防疫變成政府重點施政。而思覺失調症患者，思考較封閉，可能不太配合防疫措施，容易造成防疫破口。請問思覺失調症的英文？(**172), Schizophrenia , Delusional Disorder, Exhibitionism , Amnesia,202004,(**172),常用醫護術語172
+Ans3,3. 承上題，肺炎重症病患，有可能需要執行氣切(氣管切開術)插管。請問氣切的英文？(**42), Pulmonary Fibrosis , Emphysema, Tracheotomy , Pulmonary obstruction,202004,(**42),常用醫護術語42
+Ans3,"4. 承上題，有些新冠肺炎出現非典型症狀，因此腹瀉也列入武漢肺炎確診通報條件。請問腹瀉的英文？(**10,58,155,188)", Vomiting , Asthma , Diarrhea , Fever,202004,"(**10,58,155,188)","常用醫護術語10,58,155,188"
+Ans2,"5. 白血病又稱血癌，是鄉土劇中常見的生病橋段。主因骨髓造血細胞產生不正常增生，進而影響骨髓造血功能的惡性疾病。請問白血病的英文？(**37,160)", Thrombocytosis , Leukemia, Splenomegaly , Thyroid cancer,202004,"(**37,160)","常用醫護術語37,160"
+Ans2,6. 知名藝人因嚴重主動脈瓣狹窄，接受傳統主動脈瓣膜置換手術，術後因心臟功能恢復不良過世，引發討論。請問主動脈狹窄的英文？（**32）, Acute Myocardial Infarction , Aortic Stenosis, Varicose Vein , Atrial Flutter,202004,(**32),常用醫護術語32
+Ans3,7. 子宮脫垂常常伴隨膀胱、尿道、腸子等器官脫垂，造成許多不適與後遺症。近來使用?棘子宮網膜固定術來處置之案例增加。請問子宮脫垂的術語？(**139), Umbilical Prolapse , Prolapse Vagina, Uterine Prolapse , Venereal Disease,202004,(**139),常用醫護術語139
+Ans2,"8. 骨關節炎好發於負重關節及指關節，因為長久以來關節所承受的負荷及傷害所造成，其中骨關節炎是下列何者？(**7,89,206)", Osteotomy , Osteoarthritis , Osteoporosis , Osteomyelitis,202004,"(**7,89,206)","常用醫護術語7,89,206"
+Ans4,9. 平行式組織架構是為了要促進產品的品質而發展出來的ㄧ種組織形式，舊有官僚式的組織形式往往只負責例行的作業，而平行式的組織架構則可用來解決下列那一項？(*17),簡單的問題 ,突發的狀況 ,隱藏的危機 ,複雜的難題,202004,(*17),1
+Ans4,10. 臺灣健康雲計畫中，哪一朵子雲是建置全人健康管理平台？例如我的健康讚平台及 App 等。(*39),醫療雲 ,照護雲 ,防疫雲 ,保健雲,202004,(*39),2
+Ans3,11. 為能及時有效防治新興傳染病，首需強化及加速我國疫情的哪種能力？(*39),圍堵能力 ,處理能力 ,偵測能力 ,宣傳能力,202004,(*39),2
+Ans2,12. 急診系統的重點與門診系統非常類似，但最大差異在急診系統必須具備下列那一項功能？(*53),病歷傳送 ,檢傷分類 ,報告傳輸 ,掛號批價,202004,(*53),3
+Ans1,13. 由一群有共同目標的人員或組織在互利的情況下，達到對某些資訊規格的認同及同意，例如DICOM，是屬於哪一種方式所發展的標準？(*63),任務導向標準 ,實質標準,政府強制型標準 ,共識型標準,202004,(*63),3
+Ans3,"14. 下列有關 ICD-10-CM 的描述何者有誤？ (*67, 時事題)",長度最長可到七碼 ,長度至少三碼,第一個字元是數字 ,在第 3 個字元後使用小數點,202004," (*67, 時事題)",4
+Ans1,15. 快速健康照護互操作性資源(Fast Healthcare Interoperability Resources; FHIR)是由哪一個組織所發展的資料交換標準？(*71),國際健康資訊交換第七層協定協會(HL7),美國放射科醫學會(ACR)及國家電器製造商協會(NEMA),世界衛生組織(WHO),美國國家醫學圖書館(NLM),202004,(*71),4
+Ans4,16. 醫療資訊標準的推動可帶來下幾個主要的好處，請問下列何種不屬於其中的好處？(*75),整合性 ,獨立性 ,提升國際競爭力 ,提高開發成本,202004,(*75),4
+Ans3,17. 資料庫管理系統的操作，可以透過 SQL 進行查詢與異動，所謂 SQL 是指下列何者？(*82), Standard Query Language, Standard Question Logic, Structured Query Language, Server Quality Level,202004,(*82),5
+Ans3,18. 有關關聯式資料庫的完整性限制，對於被參照資料表的主鍵(Primary Key)與參照資料表的外來鍵(Foreign Key)的敘述下列何者正確？(*95),被參照資料表的主鍵可為空值,主鍵的值在被參照資料表內可以重複,外來鍵的值必須是在被參照資料表的主鍵值或是空值,外來鍵在參照資料表內必須是唯一無二,202004,(*95),5
+Ans4,19. 下列何者是指在資料庫設計時，會遵循相同的設計模式，檢查資料是否重複存放，其目的是建立「良好結構的關聯表」，這是一種沒有重複資料的關聯表，而且在新增、刪除或更新資料時，不會造成錯誤或資料不一致？(*98),最小化(Minimization) ,最佳化(Optimization),視覺化(Visualization) ,正規化(Normalization),202004,(*98),6
+Ans3,20. 在智慧醫院的發展中，透過感測器(Sensor)形成物聯網，提升醫療服務品質，物聯網 IOT 的縮寫是下列何者？(*110), Information Object Terms , Input Output Technology, Internet of Things , Interconnection Object Template,202004,(*110),6
+Ans1,21. ATM 可以依不同的資料型態，提供不同的服務品質來符合不同層次的網路服務需求；這些效能服務特質可以讓網路的使用者藉著它們將網路設計成一個以服務層次為導向的系統，以便讓網路具有更大的彈性，同時也讓網路具有區別服務層次的智能，請問 ATM 的全名是下列那一個？(*111), ATM(Asynchronous Transfer Mode) , ATM(Asynchronous Transportation Mode), ATM(Automated Teller Machine) , ATM(Automated Transfer Mode),202004,(*111),6
+Ans2,22. 對於超高速乙太網路(Gigabit Ethernet)的敘述，下列何者不正確？(*121),採用 CSMA/CD 通訊協定 ,採用 IEEE 802.11 之標準規範,可以使用 SNMP 管理介面 ,可使用非遮蔽雙絞線(UTP)或光纖的線材佈線,202004,(*121),6
+Ans1,23. 台灣各家醫院為確保資安相關政策的推動，均在網路系統上配合採用健保資訊網封閉性專屬網路，設有多道防火牆，可大幅降低駭客入侵系統或盜取資料之風險，請問這個專屬網路是下列何者？(*136), VPN(Virtual Private Network) , PVC(Permanent Virtual Circuit), VAN(Value Added Network) , PTN(Public Transport Network),202004,(*136),7
+Ans4,24. 資料封包過濾器防火牆可以依據管理者制定的規則，針對封包進行過濾檢查，不包括下列哪一項目？(*142),來源主機 IP 位址 ,來源及目標的 TCP/UDP Port Number,目標主機 IP 位址 ,透過 Email 傳送的電腦病毒,202004,(*142),7
+Ans1,25. 下列何者不是醫事憑證管理中心(HCA)核發的三種用戶憑證？(*163),全民健保卡病人憑證 ,醫事機構憑證,醫事人員憑證 ,伺服器應用軟體憑證,202004,(*163),8
+Ans4,"26. 新冠肺炎疫情全球爆發，台灣的防疫措施備受國際肯定，防疫指揮官陳時中部長指出三大關鍵因素，下列何者不屬於其中之一？(*173, 時事題)",警覺性高 ,過去防疫經驗,專家提供的專業建議 ,確診個資完全透明化,202004,"(*173, 時事題)",9
+Ans4,27. 在隱私保護技術中，揭露資料前，首先要將能識別個人之欄位移除，這個動作稱之為何？(*174),差分隱私 ,資料正規化 ,多方私密計算 ,去識別化,202004,(*174),9
+Ans3,28. 醫院資訊系統委外比自行開發有許多優點，下列何者不正確？(*186),在規模上大型廠商在與設備、軟體供應商議價的時候，比較佔優勢,在經驗上，廠商遇到的客戶及情況較多，累積較豐富的經驗,在費用上，僅以有限的經費，可以要求廠商做出超出成本的建置,在專業上，廠商遇到轉換新系統或系統架構涉獵的機會相對較多,202004,(*186),9
+Ans3,29. 系統測試的程序包括 A:驗收測試、B：整體測試、C：單元測試、D：整合測試和 E：平行測試等五個步驟，一般的先後順序為何？(*218), A→B→C→D 或 E , C→B→A 或 E→D, C→D→A→B 或 E , E 或 C→D→B→A,202004,(*218),11
+Ans3,30. 當醫院要導入新資訊系統的階段，必須保持舊資訊系統繼續正常運作。如要比較新、舊資訊系統間所產生數據的對應關係，應進行何種測試？(*220),整合測試 ,整體測試 ,平行測試 ,單元測試,202004,(*220),11
+Ans4,31. 醫院之運作主要分為醫療事務、醫療照護和經營管理三大項，對於下列管理系統的敘述，何者不正確？(*253),住院管理和病歷管理是屬於醫療事務 ,藥品管理和營養管理是屬於醫療照護,績效管理和出納管理是屬於經營管理 ,醫令管理和人事管理是屬於醫療事務,202004,(*253),13
+Ans2,32. 臨床藥學專家將藥物不良反應的等級分為嚴重、中度、輕度三個等級，請問下列何者屬於輕度的不良反應？(*367),僅造成病人不舒服,僅延長病人住院時間,會延長病人住院時間，且造成病人不舒服,會造成病人死亡或危及生命 *註：本題依課本 P.367 出題，答案是B。但依據考生提出的資料，確實有些地方對於 ADR輕度有不同的定義，「輕度–無需治療、不用解藥」，是故本題答案A或B都給分。,202004,(*367),18
+Ans3,33. 下列哪一個屬於護理資訊系統中建置措施及結果的標準依據？ (*406), SNOMED , NHIRD , NANDA-I , NLM,202004,(*406),20
+Ans2,34. 下列何者不是疾病管制署的指標式傳染病監測系統(*492),法定傳染病監視通報系統 ,居家檢疫和隔離即時監視及預警系統,肺炎及流感死亡即時監測系統 ,實驗室自動通報系統,202004,(*492),25
+Ans2,35. 全民健保資料庫不包含以下何種分檔？(*556),門診處方及治療明細檔 ,放射檢查處方及報告檔,特約藥局處方及調劑明細檔 ,住院醫療費用清單明細檔,202004,(*556),28
+Ans1,36. 下列何者非需要遠距醫療的主要原因之一？(*589),到醫院就診容易發生交互感染 ,需要改進轉診及照會的品質,促進個案討論、學術交流 ,提供偏遠地區醫師繼續教育,202004,(*589),30
+Ans2,37. 下列何者不是健康資訊產業整合(IHE)協會主要的工作？(*619),制定醫療資訊系統的標準規範書供廠商作為產品開發的依據,開發建置符合標準的醫療資訊系統並銷售給醫療院所,定期辦理產品的實機聯測活動,公告各廠商的產品經過檢測和驗證,202004,(*619),32
+Ans4,38. 健康資訊產業整合標準(IHE)定義及公布的技術規範，是希望醫療資訊系統應具備哪一種特性？(*666), Availability(可用性) , Confidentiality(機密性), Integrity(完整性) , Interoperability(互操作性),202004,(*666),35
+Ans3,39. 所謂 LOINC 是指下列何者的縮寫？(*86), Laboratory Object Identifiers Names and Codes, Laboratory Object Information Names and Codes, Logical Observation Identifiers Names and Codes, Logical Observation Interaction Names and Codes,202004,(*86),5
+Ans4,40. 下列有關加解密技術之描述何者正確？(*151-153),醫療憑證管理中心採用對稱性加密系統,非對稱性密碼系統，因為不需要考慮對稱性，所以速度較快,傳輸大量的資料一般會用非對稱性加密系統直接加密之,非對稱性密碼系統是因加密端與解密端用以加密與解密之金鑰不相同而得名,202004,(*151-153),7
+Ans2,41. 約有 10%藥物不良事件是由於藥物的交互作用所造成的，藥物不良事件英文簡稱為？(*352), AED , ADE , DAE , EAD,202004,(*352),17
+Ans2,42. 利用不同頻率的電磁波脈衝，引起人體不同器官內原子共振，再由原子回到基底狀態時，所放出的能量，引起磁場向量的改變，接收感應線圈電流再轉換成影像的是下列哪一種造影技術？(*377-378), CT (Computerized Tomography) , MRI (Magnetic Resonance Imaging), Ultrasound , PCR,202004,(*377-378),19
+Ans1,43. 病歷記錄的內容大都以 SOAP 的方式記錄，SOAP 的全名為？ (*321), Subject；Object；Assessment；Plan , Small; Object: Access; Protocol, Super; Object; Abstract; Plus , Subscribe; Order; Apply; Process,202004, (*321),16
+Ans4,44. 健康保險支付制度中，適用於長期照護論病例計酬的資源耗用群簡稱為下列何者？(*260), APGs , DRGs , HMOs , RUGs,202004,(*260),13
+Ans1,45. 以下那一項不是平衡計分卡的績效評估指標？(*608-609),服務構面 ,顧客構面 ,內部程序構面 ,學習與成長構面,202004,(*608-609),31
+Ans2,46. 資訊系統發展的各個階段會產生不同文件，下列敘述何者正確？(*203-207),系統設計階段會產生初步設計規範書 ,系統分析階段會產生系統需求規格書,系統發展階段會產生系統規格說明書 ,系統推行階段會產生程式說明書,202004,(*203-207),10
+Ans3,47. 以下何者不是電子病歷文件的特質？(*501),多重關係人(multiple stakeholders) ,多重照護型態(multiple type of cares),多重保障(multiple guarantee) ,多重資料格式(multiple forms of data),202004,(*501),25
+Ans2,48. 在資訊安全的目標中，確保實體之行為可唯一追溯到該實體的特性，稱之為資訊的哪一個特性？(*137-138),整體性 ,鑑別性 ,可取用性 ,機密性 *註：送分，本題正解為可歸責性。,202004,(*137-138),7
+Ans2,49. 醫療管理決策支援，採用資料倉儲或資料探勘的技術，以下列何者為主？(*602),開放資料庫連結(Open Database Connectivity;ODBC),線上分析處理(Online Analytical Processing; OLAP),線上交易處理(Online Transaction Processing; OLTP),開放系統互連標準(Open System Interconnection Standard; OSIS),202004,(*602),31
+Ans1,50. 以下關於全民健保資料庫的敘述何者錯誤？ (*551),健保資料屬於衛生福利資料應用管理要點中的二級資料,健保資料的使用場所為衛生福利資料科學中心暨研究分中心獨立作業區,健保資料申請核准後，使用期限為三年,應用健保資料進行研究，仍需通過倫理委員會(IRB)審查,202004,(*551),28

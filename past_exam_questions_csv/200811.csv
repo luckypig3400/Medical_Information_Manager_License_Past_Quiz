@@ -1,51 +1,51 @@
-Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4,Year,Ref_Page,Chapter
-Ans2,"1. The suffix -oma, like in the word hemangioma, is defined as:(**4)",pain ,tumor ,inflammation ,coma,200811,(**4),�`�����@�N�y���`4
-Ans1,"2. The suffix -osis, like in the word osteoporosis, is defined as: (**4)",disease condition ,inflammation ,pain ,injury,200811,(**4),�`�����@�N�y���`4
-Ans1,"3. The prefix meta-, like in the word metastasis, is defined as: (**5)",beyond ,behind ,small ,new,200811,(**5),�`�����@�N�y���`5
-Ans3,"4. The prefix dys-, like in the word dyspnea, is defined as: (**3)",inflammation ,disease condition ,abnormal ,over excessive,200811,(**3),�`�����@�N�y���`3
-Ans2,5. uHealthcare means: (*33),Unique Healthcare ,Ubiquitous Healthcare,Unified Healthcare ,Universal Healthcare,200811,(*33),�`�����@�N�y���`33
-Ans4,6.�Ī����}�����@��²�٬�ADR�A����W���G(*19),Affected Drug Reaction ,Alert Drug Reaction,Advance Drug Reaction ,Adverse Drug Reaction,200811,(*19),�`�����@�N�y���`19
-Ans1,7.���R����i�`�g²�٬��G(*23),TPN ,PPN ,TSN ,PVT,200811,(*23),�`�����@�N�y���`23
-Ans1,8. Cyberphobia means: (**7),Technophobia ,Netphile ,Acrophobia ,Homophobia,200811,(**7),�`�����@�N�y���`7
-Ans2,9.�g���f�G(**7),Cynophobia ,Hydrophobia ,Acrophobia ,Homophobia,200811,(**7),�`�����@�N�y���`7
-Ans4,10.���G�D�g�Ըs(CTS)�G(**8),Carpel Tunnel Syndrome ,Carpet Tunnel Syndrome,Carper Tunnel Syndrome ,Carpal Tunnel Syndrome,200811,(**8),�`�����@�N�y���`8
-Ans1,11. PDCA �`���O���G(*29),"Plan, Do, Check, Action ","Plan, Do, Check, Assess","Plan, Document, Check, Action ","Plan, Do, Control, Action",200811,(*29),29
-Ans1,12.��Ӹ�ƪ�(table)�n�������p(relation)�A�����n��key�A�U�C�y�z��̬��O�G(*6),�Q�ѦҸ�ƪ��ҤޥΪ��٬��~���Ѧ���(Foreign Key),�D��(Primary Key)���ȥu�n����NULL�Y�i,�D�䪺�ȥi����,�~���Ѧ��䪺�Ȥ��i����,200811,(*6),6
-Ans3,13.�Ω���D�ɦV�f�����������{�ǡA�٤����G(*24),Simple Object Access Protocol ,Symptom Oriented Analysis Process,Subject Object Assessment Plan ,Syndrome Oriented Alert Protocol,200811,(*24),24
-Ans1�B3,"14.����f����|(MRI)�N�q�l�f���o�i���f���۰ʤ�(AutomatedMedical Records, AMD)�B�q���Ưf���t��(Computerized Medical Record System,CMR)�B�q�l�f��(Electronic Medical Record, EMR)�B�q�l�f�w��ƨt��(ElectronicPatient Record System, EPR)�B�ιq�l���d��T�t��(Electronic Health Record,EHR)�����q�A�ثe�����|�үf���o�i�j���b���򶥬q?(*2)",�q���Ưf���t��(CMR) ,�q�l�f�w��ƨt��(EPR),�q�l�f��(EMR) ,�q�l���d��T�t��(EHR),200811,(*2),2
-Ans4,15.�q�l�f���i���Φb�G(*28),���ѷ��@�f�H�����n��T ,�O�I���c�֥I�����O�Ϊ��D�n�̾�,�q�k���P�����Ų�w���D�n�Ҿ� ,�H�W�ҬO,200811,(*28),28
-Ans2,16.�̼s�x����Ʈw�޲z�t��(DBMS)���t�ά[�c����?(*6),������(Network) ,���p��(Relational),���h��(Hierarchical) ,�H�W�ҫD,200811,(*6),6
-Ans3,17.�ϥθ�Ʈw�޲z�t��(DBMS)�ɡA���קK��Ʋ��`(Anomaly)�o�͡A�N��Ƥ����h�Ӹ�ƪ�(Table)�x�s�����W��(Normalization)�L�{�A�åΰѦ���(Key)�H�զX(Join)�٭�A�������Ҽ{�G(*6),������զX(Constraint-Join) ,���p���զX(Relational-Join),�L�l���զX(Lossless-Join) ,�H�W�ҫD,200811,(*6),6
-Ans3,18.�L�u�ϰ�������w���������Ҽ{ CAI(���O���ꤤ����)�AC ���ܬ���ƫO�K��(Confidentiality)�A I ���ܬ���Ƨ����(Integrity)�A�� A ���ܬ���?(*7),���v��(Authorization) ,�i�Q�Ω�(Availability),�{�ҩ�(Authentication) ,�H�W�ҫD,200811,(*7),7
-Ans2,19.�b�����޲z�ثe���ĥ�²�������޲z�q�T��w(Simple NetworkManagement Protocol SNMP)�A�Ѻ޲z�ݡB�Q�޲z�ݡBMIB �ȡB�q�T��w�|�Ӥ���զ��A�հ� MIB �Ȭ���?(*7),�H��������¦(Man-machine Interface Basis),�޲z�T���w(Management Information Base),�����Q�q���X(Money Interests Bond),�H�W�ҫD,200811,(*7),7
-Ans4,20.�q�l����|��T�޲z�t�Ϋظm�{�Ǥ��A�]�A�]�p�B�{�����g�δ��յ��B�J�A�ӳ]�p�B�J�]�A�G(*12),��Ƴ]�p(Data Design) ,�{�ǳ]�p(Procedure Design),�ɭ��]�p(Interface Design) ,�H�W�ҬO,200811,(*12),12
-Ans4,21.��|�]�Ⱥ޲z���ت��O�H���Ī��޲z�z�]�Χ�ꬡ�ʡA��o�X�z���Q���ε��ɪ��|�d���A����|�_�������Υ���g��A�i�Ѹ겣�t�Ū��ηl�q���F����|��B�]�Ȫ��p�C�H�U�󶵹�]�Ȥ�v���겣���ʤO�������~?(*15),�����b�ڶg��v=�P�f/���������b��,�������b����=365/�����b�ڶg��v,�s�f�g��v=�P�f����/�s�f,�����s�f����=�P�f/�����b��,200811,(*15),15
-Ans4,22.HL7 �O��w�@�� OSI �����[�c�W�����洫�зǡA���зǥD�n�ۭ���U�ؤ��P�t�ζ��ǰe�M�����f�w ADT ���(�J�|/���� �X�|�M���)�B�d�ߡB�귽�M�f�Ƶ{�B�������絲�G�B�{���[��G�B�b��B�D�ɧ�s��T�B�f���B�f�w��E�H�ίf�w���@�C�䤤 HL7 �� 7 �N������?(*35),�O���d�A�Ȩt�βĤC�� ,�O���d���@�ĤC�\��,�O�N�E�ɲĤC��f�w ,�H�W�ҫD,200811,(*35),35
-Ans1,23.�����v���x�s�B�洫�B�ǿ�зǬO�ĥΰ�ڳq�Ϊ������v���з�DICOM�A�Y�O�Ʀ���Ǽv���ζǿ�(Digital Imaging and Communications inMedicine)�A�D�n�O�q�w�U��(Modalities)�����v���ǿ骺�зǳW��A�i���Φb�G(*35),�q���_�h(CT) ,�������(EBM) ,�E�_���p�s(DRG) ,�H�W�ҫD,200811,(*35),35
-Ans2,24.�U�C��̬� IHE (Integrating the Healthcare Enterprise)���\��?(*35),���Ѹ���|���c�@�Ӧ@�q�ʪ������y��,�Ϥ��P���y�v�����s�y�ӡB�t�μt�ӡB��|������������g�Ѥ@�M�@�q���ǫh�B�[�c�A�èϥβ{��������������T�зǡA�@����X��������Үɷ��q�ҥ�,�åͥD�޾��������e�f���v�Τ��@�åͨM�������n�ѦҸ��,�H�W�ҬO,200811,(*35),35
-Ans2,25.���E�˶˦Ө��A�U�C�ԭz��̬��D�H(*16),�����|��,�żƶV���N���V���,�ĤG�Ŭ��ŦX��E����A�����M�ΥͩR�A�����b�Q���������B�z,�����˶˦A����E����,200811,(*16),16
-Ans2,26.�ڰ� 1995 �~�}�l�� NII ���Z�|�E���ɨt�ΡA�O�ݩ�G(*33),�P�B���T�����Z���d���@ ,�P�B���T�����Z����,�D�P�B���T�����Z���d���@ ,�D�P�B���T�����Z����,200811,(*33),33
-Ans2,27.��|���������U�ȡB�]�ȡB�y�{�ξǲߵ��Z�ī��ЬO�_�F����g�礧�������@���A�ұĥΤ��t�κ٬��G(*34),�ӷ~���z�t��(BIS) ,���ŭp���d�t��(BSC),���Ѻ޲z�t��(KMS) ,�M���䴩�t��(DSS) ,200811,(*34),34
-Ans4,28.�ڰ���ʹq�l�f���A�b�����k�W�W�A�U�C�ԭz��̬��D�H(*28),�w�q�L�q�lñ���k,�����k 69 �����H�q�l���覡�s�@,�å͸p�w�q�w�������c�q�l�f�һs�@�κ޲z��k���,�����зǧ��w���i�q�l�f�ҼзǮ榡,200811,(*28),28
-Ans1,29.��I�{�ɸ��|(DRGs)�A�U�C�ԭz��̬��D: (*25),�Ҧ��e�f�P��N���A�X��I,��|����v���إߦۤv���{�ɸ��|,���Y�u�ѼƤδ�������O�Τ��u�I,�i�ﵽ�v���δ��������~��,200811,(*25),25
-Ans2�B3,30.��|��f�H�X�|�ɥ浹�f�H�@�����A���ѯf�H�줣�P��|�N��ɡA����v�E�_�f�����ѦҡA�����٬��G(*25),�X�|�p�e ,�X�|�K�n ,�X�|�f�K ,�X�|���i,200811,(*25),25
-Ans3,31.�@��Ө��A�U�C�󶵩�E����O�t�Τ��A�i��������v�˦۾ާ@�G(*24),��J�E�_ ,��J�D�D�P�B�m,��J�����B�߷i ,�d���ˬd�B������i,200811,(*24),24
-Ans2,32.�U�C��̤��O�ĥ� PACS ���u�I�G(*20),�`�٬~���B�դ����H�O ,�ظm�κ��@�O�Τ���,��ͽվ\�v���ֳt ,�Q���|�洫,200811,(*20),20
-Ans3,33.��|�ī~�޲z�t�Τ������J�����A�U�C��̬��D:(*15�B*19),�ystat order�z������t�o�@���q�A�C�����q�����`�q,�yDC�z��������(��)��,�yUD�z���@���u���@����,�y����q�z���f�H�Ĥ@�Ѧ��|�Ҩϥ��Ī����q�ݨD,200811,(*15�B*19),15
-Ans3,34.�@����|��f�����޲z�A�U�C��̬��D�G(*17),�f�d���u�q�v�P�u��v���,�f�H�X�|�� 3 �Ѥ��ݰe�^�f����,�f�H�X�|�� 30 �Ѥ��ݸɥ����������f��,�q�����g�W�w,200811,(*17),17
-Ans4,35.�p�ت����˰ѥ[�F�Y��|���@���H�����A�^�a����ܤ߷N�Ʊ�h�X�A�p�ؾ\Ū�����P�N�ѫ�A�o�{�S���s���覡�A���ɸӻP��|�����p���H(*10),�����ȯɳB�z�e���| ,�f�H�w���e���|,�����~��e���| ,�H�����e���|,200811,(*10),10
-Ans3,36.�Y��|�����@�ѷl���G���A�q��T�w�������סA�o�O��T�겣�����@�ӭ��V�X�F���D�H�]*9�^,Integrity ,Accuracy ,Availability ,Confidentiality ,200811,(*9),9
-Ans1,37.�U�C��̤��O�����𪺸�ƹL�o�覡�H(*9),Fourier filter ,Application filter ,Screened Host Gateway ,Packet filter,200811,(*9),9
-Ans2,38.�U�C�����[�ѱK�޳N���y�z��̥��T�H(*9),�D��٩ʱK�X�t�ΡA�]�����ݭn�Ҽ{��٩ʩҥH�t�׸���,�D��٩ʱK�X�t�άO�]�[�K�ݻP�ѱK�ݥΥH�[�K�P�ѱK�����_���ۦP�ӱo�W,�ǿ�j�q����Ƥ@��|�ΫD��٩ʥ[�K�t�Ϊ����[�K��,�������Һ޲z���߱ĥι�٩ʥ[�K�t��,200811,(*9),9
-Ans3,39.�U�C�������������y�z��̤����T�H(*9),�����������e�i��P�ɥ]�t�U�ؤ��P�ӷ�,�����������e�i��P�ɥ]�t�U�ؤ��P�榡���C��,���������b�����欰������Y�i�P��,������T�t�Τ��s������y�H������������¦,200811,(*9),9
-Ans1,40.�H�U�������p�v���ԭz��̥��T�H(*10),���p�v���֤߷������L���ӤH���ۥD�v,���p�v�N�O���F�O�٭ӤH���K���Q���|���v�Q,�Y�H�����˸�Ƥ@�����`�A���}�o�˪�������Ӥ��O���K�A�ҥH�i�H���},�H�v��´�`�|�ǤּƤH�]���ӤH��ƥ~���Ө��`���Ҥl�A���F���H���Q�q�A���ӵL�����묹�ּƤH,200811,(*10),10
-Ans4,41.�b�\�h�����p�W�d���������p�x(privacy officer)�o�˪��c�Q�A�U�C��������O���X���c�Q����]�H(*10),�O�@���p�ݭn�귽,���p�O�@�i��P��L�������~�Ȧ��Ĭ�,���p�O�@�@��ëD���c���֤߷~��,�i�H������~���ü{���˪O,200811,(*10),10
-Ans1,42.�����ڰ��������Ҥ��ԭz��̤����T�H(*9),�������ҥѬF�����Һ޲z����(GCA)ñ�o,��ƤH�����Ҧ��p�ӤH�LŲ,��ƤH���]�t�@�h,��ƾ��c���Ҧ��p�����|�Ҥ�����,200811,(*9),9
-Ans4,43.�B���|�X�{�u����q�v�A�O�]���G(*19),�f�w���|�Ĥ@�ѩҭn���Ī��ݨD,�f�w�X�|�Ĥ@�ѩҭn���Ī��ݨD,�f�w�γ�@���q�B��Ҷ}���Ī��ݨD,�f�w�Ĥ@�ѨϥΦ��L�k��W�T�w�վ��ɶ����Ī��վ��ݨD,200811,(*19),19
-Ans1,44.�غc�@�z��T�t�ΡA�ثe�j�h�H���Ӳ�´����Ʈw���ѦҡG(*22),NANDA ,HL7 ,TAMI ,MEDLINE,200811,(*22),22
-Ans4,45.�U�C���@���t�Τ��ݩ��{���@�z�@�~�t�ΡH(*22) ,�X�|�ǳƪA�Ȩt�� ,�@�z�O���t��,�@�z�p�e�t�� ,�@�z�~�ިt��,200811,(*22),22
-Ans3,46.��|��T�t�Τ����f���޲z�t�Υ\��A���]�A�U�C���?(*4),�e�f�����n�O ,�f���d�� ,������� ,�f���k�ɧ@�~,200811,(*4),4
-Ans4,47.�U�C��̬����s��������T�t�ά[�c�G(*24),mainframe ,client-server ,2-tier ,3-tier architecture,200811,(*24),24
-Ans4,48.�ثe���ʰ�a�q�l�f���зǪ��ؼЬ���?(*28),��w�q�l�f�����e�򥻮榡�W�d ,��X��ǵ��J�з�,�K���q�l�f�������s ,�H�W�ҬO,200811,(*28),28
-Ans4,49.�U�C���������T���B�z���ԭz�A��̬��D�H(*8),�j�h�ĥΤ����u�����Y��k,�o�i��������P�Ʀ�G��,�W�Ф��R���̱`�Ϊ���k���ť߸��ഫ,�ثe�S����T�t�Υi���U��v�PŪ�����T��,200811,(*8),8
-Ans4,50.������T�q���ƨ�Ƭ۷��������ʡA�����@�~��������Ƥ��צb���A�B�����B�ƶq�Τ��e�������P�S�ʡA�ثe�i�ϥΪ�������T���A���^���覡�p�U�G,��r��T ,�ϧθ�� ,�R�A�v����� ,�H�W�ҬO,200811,null,null
+﻿Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4,Year,Ref_Page,Chapter
+Ans2,"1. The suffix -oma, like in the word hemangioma, is defined as:(**4)",pain ,tumor ,inflammation ,coma,200811,(**4),常用醫護術語章節4
+Ans1,"2. The suffix -osis, like in the word osteoporosis, is defined as: (**4)",disease condition ,inflammation ,pain ,injury,200811,(**4),常用醫護術語章節4
+Ans1,"3. The prefix meta-, like in the word metastasis, is defined as: (**5)",beyond ,behind ,small ,new,200811,(**5),常用醫護術語章節5
+Ans3,"4. The prefix dys-, like in the word dyspnea, is defined as: (**3)",inflammation ,disease condition ,abnormal ,over excessive,200811,(**3),常用醫護術語章節3
+Ans2,5. uHealthcare means: (*33),Unique Healthcare ,Ubiquitous Healthcare,Unified Healthcare ,Universal Healthcare,200811,(*33),常用醫護術語章節33
+Ans4,6.藥物不良反應一般簡稱為ADR，其全名為：(*19),Affected Drug Reaction ,Alert Drug Reaction,Advance Drug Reaction ,Adverse Drug Reaction,200811,(*19),常用醫護術語章節19
+Ans1,7.全靜脈營養注射簡稱為：(*23),TPN ,PPN ,TSN ,PVT,200811,(*23),常用醫護術語章節23
+Ans1,8. Cyberphobia means: (**7),Technophobia ,Netphile ,Acrophobia ,Homophobia,200811,(**7),常用醫護術語章節7
+Ans2,9.狂犬病：(**7),Cynophobia ,Hydrophobia ,Acrophobia ,Homophobia,200811,(**7),常用醫護術語章節7
+Ans4,10.腕隧道症候群(CTS)：(**8),Carpel Tunnel Syndrome ,Carpet Tunnel Syndrome,Carper Tunnel Syndrome ,Carpal Tunnel Syndrome,200811,(**8),常用醫護術語章節8
+Ans1,11. PDCA 循環是指：(*29),"Plan, Do, Check, Action ","Plan, Do, Check, Assess","Plan, Document, Check, Action ","Plan, Do, Control, Action",200811,(*29),29
+Ans1,12.兩個資料表(table)要產生關聯(relation)，必須要有key，下列描述何者為是：(*6),被參考資料表所引用的稱為外部參考鍵(Foreign Key),主鍵(Primary Key)的值只要不為NULL即可,主鍵的值可重覆,外部參考鍵的值不可重覆,200811,(*6),6
+Ans3,13.用於問題導向病歷紀錄中的程序，稱之為：(*24),Simple Object Access Protocol ,Symptom Oriented Analysis Process,Subject Object Assessment Plan ,Syndrome Oriented Alert Protocol,200811,(*24),24
+Ans1、3,"14.美國病歷協會(MRI)將電子病歷發展分病歷自動化(AutomatedMedical Records, AMD)、電腦化病歷系統(Computerized Medical Record System,CMR)、電子病歷(Electronic Medical Record, EMR)、電子病患資料系統(ElectronicPatient Record System, EPR)、及電子健康資訊系統(Electronic Health Record,EHR)五階段，目前醫療院所病歷發展大都在什麼階段?(*2)",電腦化病歷系統(CMR) ,電子病患資料系統(EPR),電子病歷(EMR) ,電子健康資訊系統(EHR),200811,(*2),2
+Ans4,15.電子病歷可應用在：(*28),提供照護病人的重要資訊 ,保險機構核付醫療費用的主要依據,司法裁判及醫事鑑定的主要證據 ,以上皆是,200811,(*28),28
+Ans2,16.最廣泛的資料庫管理系統(DBMS)的系統架構為何?(*6),網狀式(Network) ,關聯式(Relational),階層式(Hierarchical) ,以上皆非,200811,(*6),6
+Ans3,17.使用資料庫管理系統(DBMS)時，為避免資料異常(Anomaly)發生，將資料分成多個資料表(Table)儲存的正規化(Normalization)過程，並用參考鍵(Key)以組合(Join)還原，但必須考慮：(*6),有條件組合(Constraint-Join) ,關聯式組合(Relational-Join),無損失組合(Lossless-Join) ,以上皆非,200811,(*6),6
+Ans3,18.無線區域網路的安全機制應考慮 CAI(不是美國中情局)，C 表示為資料保密性(Confidentiality)， I 表示為資料完整性(Integrity)，而 A 表示為何?(*7),授權性(Authorization) ,可利用性(Availability),認證性(Authentication) ,以上皆非,200811,(*7),7
+Ans2,19.在網路管理目前均採用簡易網路管理通訊協定(Simple NetworkManagement Protocol SNMP)，由管理端、被管理端、MIB 值、通訊協定四個元件組成，試問 MIB 值為何?(*7),人機介面基礎(Man-machine Interface Basis),管理訊息庫(Management Information Base),金錢利益結合(Money Interests Bond),以上皆非,200811,(*7),7
+Ans4,20.電子化醫院資訊管理系統建置程序中，包括設計、程式撰寫及測試等步驟，而設計步驟包括：(*12),資料設計(Data Design) ,程序設計(Procedure Design),界面設計(Interface Design) ,以上皆是,200811,(*12),12
+Ans4,21.醫院財務管理之目的是以有效的管理理財及投資活動，獲得合理的利潤及善盡社會責任，使醫院茁壯成長及永續經營，可由資產負債表及損益表了解醫院營運財務狀況。以下何項對財務比率的資產活動力說明錯誤?(*15),應收帳款週轉率=銷貨/平均應收帳款,平均收帳期間=365/應收帳款週轉率,存貨週轉率=銷貨成本/存貨,平均存貨期間=銷貨/應收帳款,200811,(*15),15
+Ans4,22.HL7 是制定一個 OSI 網路架構上的文件交換標準，此標準主要著重於各種不同系統間傳送和接收病患 ADT 資料(入院/掛號 出院和轉科)、查詢、資源和病排程、醫囑檢驗結果、臨床觀察結果、帳單、主檔更新資訊、病歷、病患轉診以及病患照護。其中 HL7 的 7 代表為何?(*35),是健康服務系統第七版 ,是健康照護第七功能,是就診時第七位病患 ,以上皆非,200811,(*35),35
+Ans1,23.醫療影像儲存、交換、傳輸標準是採用國際通用的醫療影像標準DICOM，即是數位醫學影像及傳輸(Digital Imaging and Communications inMedicine)，主要是訂定各式(Modalities)醫療影像傳輸的標準規格，可應用在：(*35),電腦斷層(CT) ,實證醫學(EBM) ,診斷關聯群(DRG) ,以上皆非,200811,(*35),35
+Ans2,24.下列何者為 IHE (Integrating the Healthcare Enterprise)的功能?(*35),提供跨醫院機構一個共通性的醫療語言,使不同的造影儀器製造商、系統廠商、醫院等彼此間能夠經由一套共通的準則、架構，並使用現有的相關醫療資訊標準，作為整合異質性環境時溝通所用,衛生主管機關做為疾病防治及公共衛生決策的重要參考資料,以上皆是,200811,(*35),35
+Ans2,25.對急診檢傷而言，下列敘述何者為非？(*16),分為四級,級數越高代表越緊急,第二級為符合急診條件，雖不危及生命，但應在十分鐘之內處理,先做檢傷再做急診掛號,200811,(*16),16
+Ans2,26.我國 1995 年開始之 NII 遠距會診先導系統，是屬於：(*33),同步視訊之遠距健康照護 ,同步視訊之遠距醫療,非同步視訊之遠距健康照護 ,非同步視訊之遠距醫療,200811,(*33),33
+Ans2,27.醫院為評估其顧客、財務、流程及學習等績效指標是否達成其經營之策略及願景，所採用之系統稱為：(*34),商業智慧系統(BIS) ,平衡計分卡系統(BSC),知識管理系統(KMS) ,決策支援系統(DSS) ,200811,(*34),34
+Ans4,28.我國推動電子病歷，在相關法規上，下列敘述何者為非？(*28),已通過電子簽章法,醫療法 69 條允以電子文件方式製作,衛生署已訂定醫療機構電子病例製作及管理辦法草案,中央標準局已公告電子病例標準格式,200811,(*28),28
+Ans1,29.實施臨床路徑(DRGs)，下列敘述何者為非: (*25),所有疾病與手術均適合實施,醫院或醫師須建立自己的臨床路徑,有縮短天數及減少醫療費用之優點,可改善治療及提高醫療品質,200811,(*25),25
+Ans2、3,30.醫院於病人出院時交給病人一份文件，提供病人到不同醫院就醫時，供醫師診斷病情之參考，此文件稱為：(*25),出院計畫 ,出院摘要 ,出院病摘 ,出院報告,200811,(*25),25
+Ans3,31.一般而言，下列何項於診間醫令系統中，可不必由醫師親自操作：(*24),輸入診斷 ,輸入主訴與處置,輸入血壓、脈搏 ,查詢檢查、檢驗報告,200811,(*24),24
+Ans2,32.下列何者不是採用 PACS 之優點：(*20),節省洗片、調片之人力 ,建置及維護費用不高,醫生調閱影像快速 ,利於跨院交換,200811,(*20),20
+Ans3,33.醫院藥品管理系統中的詞彙說明，下列何者為非:(*15、*19),『stat order』指藥囑配發一次量，每次劑量等於總量,『DC』指取消醫(藥)囑,『UD』指一次只給一種藥,『首日量』指病人第一天住院所使用藥物劑量需求,200811,(*15、*19),15
+Ans3,34.一般醫院對病歷之管理，下列何者為非：(*17),審查分「量」與「質」兩種,病人出院後 3 天內需送回病歷室,病人出院後 30 天內需補全未完成之病歷,訂有獎懲規定,200811,(*17),17
+Ans4,35.小華的母親參加了某醫院的一項人體試驗，回家後改變心意希望退出，小華閱讀知情同意書後，發現沒有連絡方式，此時該與醫院何單位聯絡？(*10),醫療糾紛處理委員會 ,病人安全委員會,醫療品質委員會 ,人體試驗委員會,200811,(*10),10
+Ans3,36.某醫院當機一天損失慘重，從資訊安全的角度，這是資訊資產的哪一個面向出了問題？（*9）,Integrity ,Accuracy ,Availability ,Confidentiality ,200811,(*9),9
+Ans1,37.下列何者不是防火牆的資料過濾方式？(*9),Fourier filter ,Application filter ,Screened Host Gateway ,Packet filter,200811,(*9),9
+Ans2,38.下列有關加解密技術之描述何者正確？(*9),非對稱性密碼系統，因為不需要考慮對稱性所以速度較快,非對稱性密碼系統是因加密端與解密端用以加密與解密之金鑰不相同而得名,傳輸大量的資料一般會用非對稱性加密系統直接加密之,醫療憑證管理中心採用對稱性加密系統,200811,(*9),9
+Ans3,39.下列對醫療紀錄之描述何者不正確？(*9),醫療紀錄內容可能同時包含各種不同來源,醫療紀錄內容可能同時包含各種不同格式的媒體,醫療紀錄在醫療行為結束後即可銷毀,醫療資訊系統之存取控制宜以醫療紀錄為基礎,200811,(*9),9
+Ans1,40.以下有關隱私權之敘述何者正確？(*10),隱私權之核心概念為尊重個人的自主權,隱私權就是為了保障個人秘密不被洩漏的權利,某人的健檢資料一切正常，公開這樣的資料應該不是秘密，所以可以公開,人權組織常舉些少數人因為個人資料外洩而受害的例子，為了眾人的利益，應該無條件的犧牲少數人,200811,(*10),10
+Ans4,41.在許多的隱私規範中都有隱私官(privacy officer)這樣的構想，下列何者應不是提出此構想的原因？(*10),保護隱私需要資源,隱私保護可能與其他部門的業務有衝突,隱私保護一般並非機構之核心業務,可以做為減輕外部疑慮的樣板,200811,(*10),10
+Ans1,42.有關我國醫療憑證之敘述何者不正確？(*9),醫療憑證由政府憑證管理中心(GCA)簽發,醫事人員憑證有如個人印鑑,醫事人員包含護士,醫事機構憑證有如醫療院所之關防,200811,(*9),9
+Ans4,43.處方箋會出現「首日量」，是因為：(*19),病患住院第一天所要的藥物需求,病患出院第一天所要的藥物需求,病患用單一劑量處方所開的藥物需求,病患第一天使用但無法跟上固定調劑時間的藥物調劑需求,200811,(*19),19
+Ans1,44.建構護理資訊系統，目前大多以那個組織的資料庫為參考：(*22),NANDA ,HL7 ,TAMI ,MEDLINE,200811,(*22),22
+Ans4,45.下列那一項系統不屬於臨床護理作業系統？(*22) ,出院準備服務系統 ,護理記錄系統,護理計畫系統 ,護理品管系統,200811,(*22),22
+Ans3,46.醫院資訊系統中的病歷管理系統功能，不包括下列何者?(*4),疾病分類登記 ,病歷查詢 ,資材供應 ,病歷歸檔作業,200811,(*4),4
+Ans4,47.下列何者為較新的醫療資訊系統架構：(*24),mainframe ,client-server ,2-tier ,3-tier architecture,200811,(*24),24
+Ans4,48.目前推動國家電子病歷標準的目標為何?(*28),制定電子病歷內容基本格式規範 ,整合醫學詞彙標準,便捷電子病歷的推廣 ,以上皆是,200811,(*28),28
+Ans4,49.下列有關醫療訊號處理的敘述，何者為非？(*8),大多採用不失真的壓縮方法,濾波器有類比與數位二種,頻譜分析中最常用的方法為傅立葉轉換,目前沒有資訊系統可輔助醫師判讀醫療訊號,200811,(*8),8
+Ans4,50.醫療資訊電腦化具備相當的複雜性，醫療作業相關的資料不論在型態、種類、數量及內容均有不同特性，目前可使用的醫療資訊型態及擷取方式如下：,文字資訊 ,圖形資料 ,靜態影像資料 ,以上皆是,200811,null,null

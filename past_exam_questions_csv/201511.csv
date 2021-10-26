@@ -1,51 +1,51 @@
-Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4,Year,Ref_Page,Chapter
-Ans3,1.�۰���~��Ŧ�q���hŸ���A����۰ʰ����˯f�w�߫߯߷i�B�ìI�H�q���Ϥ�Ŧ��_���`�B�@�������C��^��лx�O?(�ɨ��D),ABC ,ACD ,AED ,ASD,201511,(�ɨ��D),�ɨ��D
-Ans4,2.�K�P���z�y���\�h�˿S�˱w�̻ݭn�����ӥ֤�N�A�ӥ֤�N�^��O?(�ɨ��D),Skeocytosis ,Sacrococyx ,Siphac ,Skin Grafting,201511,(�ɨ��D),�ɨ��D
-Ans2,3.��̬O���`�N�O�ʥ��P�L�ʻ�ê?(**158),ADID ,ADHD ,SNOMED ,MeSH,201511,(**158),�`�����@�N�y158
-Ans4,4.Glaucoma �O��?(**108),����}�g ,���n ,�h�� ,�C����,201511,(**108),�`�����@�N�y108
-Ans4,5.��̬O�����ֵĪ��٦סB���a�ΦU�h���l��´�P����A�l�c�]�a�ߤޤO�o��ө��U���A �åB�`�`���H�H�֡B���D�B�z�l�����x�櫫�A�y���\�h���A�P���g?(**135),Umbilical Cord Prolapse ,Venereal Disease,Prolapse Vagina ,Uterine Prolapse,201511,(**135),�`�����@�N�y135
-Ans3,6.�Ѥ~�P�믫�f�w�����ȬO�@�u���j�C��s���X�A�@�a�B�R�Юa�M��v�v���зN�u�@�̡A���wļ�{�g�����v��`�H���A���b�����]��i���L�{���A�o�S�ɦ�����`�H���гy�O�Cļ�{�g(��������ʯe�w)���^��O?(**158), Depressive Disorder ,Dementia , Bipolar Disorder ,Exhibitionism,201511,(**158),�`�����@�N�y158
-Ans1,7.�K�P���z�׶˪̥ѩ�\�h�H���O�j���n�N�ˡA�w�̳���X�{�P�V�B�o�N���p�޵o�Ѧ�g�C�Ѧ�g�^��O��?(**7),Septicemia ,Sinusitis ,Pyothorax ,Dyspepsia,201511,(**7),�`�����@�N�y7
-Ans2,8.Carpal Tunnel Syndrome �O��?(**8),�j�､�U�ĥX�� ,���G�D�g�Ըs ,�ߩм��� ,���۲�´��,201511,(**8),�`�����@�N�y8
-Ans3,9.Magnetic Resonance Imaging (MRI) �O��?(*164),�������ˬd ,���g��]�z�� ,�Ϯ��y�v���y ,���l�_�h�y�v,201511,(*164),8
-Ans2,10.��Ʈw���T�h���n�[�c���A���@�h�`�ϥι������p�ҫ�(Entity-Relationship Model; ERM)���u��]�p?(*101),�~���h ,�����h ,�����h ,����h,201511,(*101),6
-Ans1,11.DBMS ���������]Transaction�^���S�ʡA�U�C�ԭz��̿��~?(*103),����L�{����Ʈw�����O���@�P��,��ӥ�����O�����@�Ӥ��i���Ϊ��椸,����L�{���ҥΨ쪺��Ƥ��i����䥦���Ū���έק�,����T�{�������Ʈw����s�O�ä[�ʪ�,201511,(*103),6
-Ans3,12.�������c����´���A�N�|�v�T���c����B�P�Ĳv�C�O�W�ثe��|����´���A�j�h�ݩ��اΦ�?(*11), �x�}�� ,�M�즡 , �\�ড ,���榡,201511,(*11),1
-Ans3,13.���p����Ʈw��������ƪ��P��v��ƪ��O�z�L��v�N�X�������p�A�U�C�ԭz��̥��T?(*112),��v�N�X�b������ƪ����A�i�H�@���D��(Primary Key),��v�N�X�b������ƪ����A�㦳�ߤ@��,��󱾸���ƪ��Ө��A��v�N�X���O�ѷ���v��ƪ����~����(Foreign Key),�̷ӭ��駹��ʭ���A��v�N�X�b��v��ƪ����i�H�O�ŭ�,201511,(*112),6
-Ans4,14.�U�C��̥i�������p����Ʈw����ƪ��D��(Primary Key)(*112),�����Ҹ��X ,���u�N�X ,�Ǹ� ,�H�W�ҥi,201511,(*112),6
-Ans4,15.�U�C��̬O���b��Ʈw�]�p�ɡA�|���`�ۦP���]�p�Ҧ��A�ˬd��ƬO�_���Ʀs��A��ت��O�إߡu�}�n���c�����p���v�A�o�O�@�بS�����Ƹ�ƪ����p���A�ӥB�b�s�W�B�R���Χ�s��ƮɡA���|�y�����~�θ�Ƥ��@�P?(*115),�̤p��(Minimization) ,�̨Τ�(Optimization),��ı��(Visualization) ,���W��(Normalization),201511,(*115),6
-Ans1,16.�U�C��̬O�W���t�A�Ӻ���(Gigabit Ethernet)�ĥΪ��q�T��w? (*144),CSMA/CD ,Token-Ring ,IEEE 802.4 ,IEEE 802.11,201511,(*144),7
-Ans4,17.�b�A�Ӻ����[�c�U�A�޲z�U�������]�Ƴq�`�ϥΦ�سq�T��w�i�淾�q?(*151),SCJP ,SCWCD ,SNOMED ,SNMP,201511,(*151),7
-Ans3,18.������T�j���i�����T���A�q�`�߹q�ϩM���i���ݩ���@��?(*156),��Ʀr��� ,�v����� ,�Ͳz�T�� ,3D �ʵe,201511,(*156),8
-Ans2,19.�b���R�Ͳz�T���ɡA�p�G�Q�n�o�����W���T�A���ӨϥΦ���o�i��?(*158),���q�o�i�� ,�C�q�o�i�� ,�a�q�o�i�� ,�a���o�i��,201511,(*158),8
-Ans1,20.��T�w�����ؼЦ��ҿת� C.I.A.�T��h�A�O���U�C���?(*170),�O�@��ƤΨt�θ귽�����K�ʡB����ʩM�i���Ω�,�O�@��ơB�t�ΩM�]�Ƥ��n�Q�b�ȧ���,��ƪ��[�K�B�ѱK�M�K�_�޲z,������B�����p�������M�{�Ҥ���,201511,(*170),9
-Ans3,21.������T�w�����v���b�O�@��ƤΨt�Ϊ����K�ʡB����ʤΥi���ΩʡC�U�C�ԭz��̿��~?(*170),���K�ʪ��ؼЦb�O�@�f�w���p,����ʪ��ؼЬO��ƥ����O���@�P�ʥH�Φ��N�q�����T���G,�i���ΩʡG��ƤΨt�Τ��ݧY�ɦ^��,�i���ΩʡG�㦳�e����O,201511,(*170),9
-Ans1,22.�U�C����@�먾���𪺱ԭz��̿��~?(*175),�i���J�I�欰�S�x�X,�i�L�o�ʥ]�ӷ��Υت� IP ��}�O�_�X�k,�i���ܶi�X��q�� IP ��},�i�L�o�ʥ]�O�_�ϥΦX�k�� TCP/UDP ��,201511,(*175),9
-Ans4,23.�ڰ�ثe�b�������O�p�B�@���q�l�f���洫�����ĥΦ�غ����޳N�ǿ��ơA�ó]���h�D������ӭ��C�b�ȤJ�I�t�Ωεs����Ƥ����I?(*175-179�B�ɨ��D),SOAP ,Proxy ,SNMP ,VPN,201511,(*175-179�B�ɨ��D),9
-Ans1,24.�ثe�ڰ�G�N���O�d�ĥΦ�ؤ��}���_�t��k�ӫO�@�ӤH���?(*184),RSA ,DES ,RC4 ,MD5,201511,(*184),9
-Ans4,25.�H�U��󤽶}���_��¦�س](PKI)���ԭz�A��̥��T?(*185),���}���_�i�H�ΨӶi��q�lñ��,���}���_�O���F�}�Ҥ��ɪ�����ɮ�,�O�@���b�ȥΨӯ}�ѱK�X����k,�ǰe�̥i�H���o�����̪����}���_�A�N��ƥ[�K��A�ǰe,201511,(*185),9
-Ans4,26.��|��T�t�Ωe�~�}�o���ثe�s�Q��|�ĥΪ��@�ؼҦ��A�U�C��̬O�e�~�j���t�Ӷ}�o���u�I?(*215),�j���t�Ӹg���״I ,�j���t��ĳ���e�u��,�j���t�ӳ]�ƻ��� ,�w�W�ҬO,201511,(*215),11
-Ans1,27.����|�n�ɤJ�s��T�t�Ϊ����q�A�����O���¸�T�t���~�򥿱`�B�@�C�p�n����s�B�¸�T�t�ζ��Ҳ��ͼƾڪ��������Y�A���i���ش���?(*248),������� ,������� ,��X���� ,�椸����,201511,(*248),13
-Ans3,28.��|��T�t�Ϋظm������O�T�@�~�A���{�����g���~�γW�����~�Ұ������@�u�@�A�O�ݩ���@�غ��@?(*266),�w���ʺ��@ ,�����ʺ��@ ,�B���ʺ��@ ,�A���ʺ��@,201511,(*266),14
-Ans1,29.�����Χ���޲z�O��|��F������إ���?(*279),�����ư� ,�g��޲z ,�������@ ,��v�A��,201511,(*279),15
-Ans2,30.�b���O��I��פ��A�ϥΩ�������@�� RUGs �A�O�ݩ�U�C���@��?(*285),�׶q�p�S ,�ׯf�ҭp�S ,�פ�p�S ,�פH�p�S,201511,(*285),15
-Ans2,31.�U�C����U�ذ��O��I��ת��ԭz��̥��T?(*286),�׶q�p�S-���ı��������O�ΤW�� ,�פ�p�S-�@�~²��A��F�����C,�פH�p�S-��v�������欰�ۥD�v�� ,�`�B�w���-��F�@�~�����C,201511,(*286),15
-Ans1,32.�U�C��̤��O����ǫغc�����T�t�Ϊ��u�I?(*365),�W�[�f�H���|��A��֯f�ɩP��v ,��֧���|��,�i�ǽT��������A��ָվ����O ,�W�[�f�������������,201511,(*365),18
-Ans4,33.�����Ǽv���s���P�ǿ�t�� PACS ���ԭz�A�U�C��̿��~(*405),�O Picture Archiving and Communication System ���Y�g,�q�Ʀ�ƪ��v���]�ƨ��o�v��,�z�L��g���T�t�� RIS ���ɭ��A�i�H���o�f�H���򥻸��,�u��b�|���ϰ����(LAN)�ǿ�A�L�k�z�L�s�����(WAN)��|�ǿ�,201511,(*405),20
-Ans4,34.�Q�������v���s���P�ǿ�t��(PACS)�i���U�|���v����ۥѦۦb���ۤ��ǿ�B��X�A�H�F��E�_�Ϊv���p�e���ѦҡA�D�n�O�a�U�C��ب�w�ӧ���?(*405),SNOMED ,LOINC ,NANDA ,DICOM,201511,(*405),20
-Ans3,35.����{�ɸ��|���ԭz�A�U�C��̤����T?(*481),�ھڬY�دe�f�άY�ؤ�N��k��w�F�@�تv���Ҧ��A���f�w�Ѧ��|��X�|���̦��Ҧ��ӱ����v��,���|������A�ھڵ��G�Ӥ��R�B�������˰Q�C�@�ӯf�H���t���A�H�קK�U�@�ӯf�H�o�ͦP�˪��t���ο��~,���l�D���f�w�b�̵u�����|��Ƥ��A�N�i�H��¡�X�|�A�Ӥ����U�{�b�@�w�ɶ����A�f�w�|���|���F�P�@�دe�f�A�����|,��X�@�س̾A�����v����k�A�[�i�H��������O�ΡA�S�i�H�����Χ�i�����~�誺�Ҧ��C,201511,(*481),25
-Ans4,36.�e�f�ʴ��]�٬y��f�Ǻʴ��A�O���z�L���򪺦����B���R�B�����B�y�z�e�f������ơA�i�Ӧ��ı���e�f�C�U�C��̬O�e�f�ʴ����ت�?(*527),��w�P�������̬F�� ,�����Y�ɬ̱� ,�إ߯e�f�۵M�v ,�w�W�ҬO,201511,(*527),27
-Ans2,37.�n�����ݩ󨺤@���ǬV�f?(*529),�Ĥ@�� ,�ĤG�� ,�ĤT�� ,�ĥ|��,201511,(*529),27
-Ans2,38.�q�l�f���W��ñ�W�λ\���A�̪k���H�q�lñ���覡�����A�B���b�f���s�@��h�[������?(*548),12 �p�� ,24 �p�� ,48 �p�� ,72 �p��,201511,(*548),28
-Ans2,39.������ PDCA �`���O���U�C���?(*565),Plan�A Diagnosis�A Control�A Assessment,Plan�A Do�A Check�AAction,Paper�A Document�A Change�A Access,Plan�A Do�A Check�A Assessment,201511,(*565),29
-Ans1,40.�������O��Ʈw���ӫO����k�H�ɡA���]�t�U�C���@���ɮ�?(*598),��E�B��Ϊv�������� ,���E�B��Ϊv��������,�S���ħ��B��νվ������� ,���|�����O�βM�������,201511,(*598),31
-Ans1,41.�b��T�ɥN�A�������~�x���uĹ�v���̤j����b��?(*652),�p������ഫ����T�A�A�N��T�ഫ������,�p���ɶ��ഫ���Ŷ��A�A�N�Ŷ��ഫ���H��,�p���H�y�ഫ�����y�A�A�N���y�ഫ�����y,�p���ȥ��ഫ���q�l�ɡA�A�N�q�l���ഫ���Ʀ���,201511,(*652),34
-Ans1,42.�U�C����������T�зǤ��ԭz��̿��~?(*85),���O�p�ثe�ĥ� ICD-10-CM �����O�I���I���e�f�N�X�з�,SNOMED ���\�ϥΪ̦ۦ�Q�Ψ�h�b�զX������Ӵy�z�������g���ζE�_,LONIC �O�ثe�{�������ˬd�s�X�t�Ϊ��D�y,MeSH �O�@�M�M����Ǥ��m�����ҳ]�p���𪬵��J�t�ΡC,201511,(*85),5
-Ans1,43.�U�C��̬����T���ԭz?(*85-90),ICD-9 �� 9 �N���ĤE�� ,���O�p�ثe�ϥΪ��O ICD-10,HL7 �� 7 �N���ĤC�� ,DICOM �O�����ƭȸ�ƪ��ǿ�洫�з�,201511,(*85-90),5
-Ans4,44.��� HL7 �������ԭz�A�U�C��̿��~?(*88),HL7 �O�ݩ�@�ѫ��з�,HL7 ��|�w�g�������� ANSI �{�i���зǵo�i��´,HL7 �зǪ� 3.0 �����ĥΪ���ɦV���]�p,HL7 �зǪ� 3.0 �����b�T���ǰe�榡�W�A���M�ĥζǲ� CSV�A�ä��䴩 XML �榡,201511,(*88),5
-Ans3,45.�U���������t�ӱ`�ź٤䴩�зǡA����ڳs���ɫo�`�����ۮe�A�]������ HIMMS �MRSNA ��j��|�� 1999 �~�}�l�A�@�P�w�X��ا޳N�[�c�A�ѨM�t�Τ��ާ@��(Interoperability)�����D?(*90),�޿������ˬd�s�X�t��(LOINC) ,�{�ɤ��[�c(CDA),���d��T���~��X(IHE) ,�Τ@��ǻy���t��(UMLS),201511,(*90),5
-Ans2,46.�U�C����������T�зǱ��ʪ��n�B��̿��~?(*93),�洫�ʡG�������|�ҥ洫��ƵL�ݭק�{���θ�Ʈw,��X�ʡG�b�ۦP���зǤU�A���P�\�ध�t�ΤU�i���X�A������Ҧ��t�Υ�ѦP�@�t�өӥ],�W�ߩʡG�i����W�t�Τ��ק�ΤɯšA�Ӥ�����߼v�T�䥦�t��,���ɰꤺ������T���~�v���O,201511,(*93),5
-Ans3,47.��Ʈw�b������T�t�Τ���t�Q�����n������A�U�C������Ʈw���ԭz��̿��~?(*98),��Ʈw�����n���@�Ӹ�Ʈw�޲z�t��,��Ʈw�O���@�s������ƪ����X��A�i���Ī���´�B�x�s�M�d�\�������,�ϥΪ̻ݭn���D�s���ƪ��Ϻй����m,��Ʈw�޲z�t�άO����ϥΪ̻P����ɮ׶��������n��t��,201511,(*98),6
-Ans2,48.�����޲z�M���䴩�A�ĥθ�ƭ��x�θ�Ʊ��ɪ��޳N�A�H�U�C��̬��D?(*653),"�}���Ʈw�s��(Open Database Connectivity, ODBC)","�u�W���R�B�z(Online Analytical Processing, OLAP)","�u�W����B�z(Online Transaction Processing, OLTP)","�}��t�Τ��s�з�(Open System Interconnection Standard, OSIS)",201511,(*653),34
-Ans4,49.ICD-10-CM/PCS ���� PCS �N��?(�ɨ��D�A*85),Program Coding System ,Process Coding System,Progress Coding System ,Procedure Coding System,201511,"(*85,�ɨ��D)",5
-Ans2,50.�q�����q�T���򥻭�h�O�ѤU�C���@�Ӳ�´�Ҩ�w�� OSI (Open SystemsInterconnection) reference model? (*87), ANSI , ISO , EDIFACT , CEN,201511,(*87),5
+﻿Correct Answer(s),Question,Answer1,Answer2,Answer3,Answer4,Year,Ref_Page,Chapter
+Ans3,1.自動體外心臟電擊去顫器，能夠自動偵測傷病患心律脈搏、並施以電擊使心臟恢復正常運作的儀器。其英文標誌是?(時事題),ABC ,ACD ,AED ,ASD,201511,(時事題),時事題
+Ans4,2.八仙塵爆造成許多傷燙傷患者需要接受植皮手術，植皮手術英文是?(時事題),Skeocytosis ,Sacrococyx ,Siphac ,Skin Grafting,201511,(時事題),時事題
+Ans2,3.何者是指注意力缺失與過動障礙?(**158),ADID ,ADHD ,SNOMED ,MeSH,201511,(**158),常用醫護術語158
+Ans4,4.Glaucoma 是指?(**108),高血糖症 ,黃疸 ,貧血 ,青光眼,201511,(**108),常用醫護術語108
+Ans4,5.何者是指骨盆腔的肌肉、韌帶及各層結締組織鬆弛後，子宮因地心引力牽扯而往下掉， 並且常常伴隨膀胱、尿道、腸子等器官脫垂，造成許多不適與後遺症?(**135),Umbilical Cord Prolapse ,Venereal Disease,Prolapse Vagina ,Uterine Prolapse,201511,(**135),常用醫護術語135
+Ans3,6.天才與精神病患往往僅是一線之隔。研究指出，作家、舞蹈家和攝影師等創意工作者，罹患躁鬱症的機率比常人高，但在受心魔折磨的過程中，卻又享有異於常人的創造力。躁鬱症(亦稱雙極性疾患)的英文是?(**158), Depressive Disorder ,Dementia , Bipolar Disorder ,Exhibitionism,201511,(**158),常用醫護術語158
+Ans1,7.八仙氣爆案傷者由於許多人都是大面積燒傷，患者陸續出現感染、發燒狀況引發敗血症。敗血症英文是指?(**7),Septicemia ,Sinusitis ,Pyothorax ,Dyspepsia,201511,(**7),常用醫護術語7
+Ans2,8.Carpal Tunnel Syndrome 是指?(**8),蜘蛛膜下腔出血 ,腕隧道症候群 ,心房撲動 ,蜂窩組織炎,201511,(**8),常用醫護術語8
+Ans3,9.Magnetic Resonance Imaging (MRI) 是指?(*164),內視鏡檢查 ,癌症基因篩檢 ,磁振造影掃描 ,正子斷層造影,201511,(*164),8
+Ans2,10.資料庫的三層綱要架構中，哪一層常使用實體關聯模型(Entity-Relationship Model; ERM)的工具設計?(*101),外部層 ,概念層 ,內部層 ,實體層,201511,(*101),6
+Ans1,11.DBMS 中關於交易（Transaction）的特性，下列敘述何者錯誤?(*103),交易過程中資料庫必須保持一致性,整個交易指令視為一個不可分割的單元,交易過程中所用到的資料不可受到其它交易讀取或修改,交易確認執行後對資料庫的更新是永久性的,201511,(*103),6
+Ans3,12.醫療機構之組織型態將會影響機構的營運與效率。臺灣目前醫院之組織型態大多屬於何種形式?(*11), 矩陣式 ,專科式 , 功能式 ,平行式,201511,(*11),1
+Ans3,13.關聯式資料庫的掛號資料表與醫師資料表是透過醫師代碼互相關聯，下列敘述何者正確?(*112),醫師代碼在掛號資料表中，可以作為主鍵(Primary Key),醫師代碼在掛號資料表中，具有唯一性,對於掛號資料表而言，醫師代碼欄位是參照醫師資料表的外來鍵(Foreign Key),依照個體完整性限制，醫師代碼在醫師資料表中可以是空值,201511,(*112),6
+Ans4,14.下列何者可做為關聯式資料庫的資料表主鍵(Primary Key)(*112),身份證號碼 ,員工代碼 ,學號 ,以上皆可,201511,(*112),6
+Ans4,15.下列何者是指在資料庫設計時，會遵循相同的設計模式，檢查資料是否重複存放，其目的是建立「良好結構的關聯表」，這是一種沒有重複資料的關聯表，而且在新增、刪除或更新資料時，不會造成錯誤或資料不一致?(*115),最小化(Minimization) ,最佳化(Optimization),視覺化(Visualization) ,正規化(Normalization),201511,(*115),6
+Ans1,16.下列何者是超高速乙太網路(Gigabit Ethernet)採用的通訊協定? (*144),CSMA/CD ,Token-Ring ,IEEE 802.4 ,IEEE 802.11,201511,(*144),7
+Ans4,17.在乙太網路架構下，管理各項網路設備通常使用何種通訊協定進行溝通?(*151),SCJP ,SCWCD ,SNOMED ,SNMP,201511,(*151),7
+Ans3,18.醫療資訊大約可分為三類，通常心電圖和腦波圖屬於哪一類?(*156),文數字資料 ,影像資料 ,生理訊號 ,3D 動畫,201511,(*156),8
+Ans2,19.在分析生理訊號時，如果想要濾除高頻雜訊，應該使用何種濾波器?(*158),高通濾波器 ,低通濾波器 ,帶通濾波器 ,帶限濾波器,201511,(*158),8
+Ans1,20.資訊安全的目標有所謂的 C.I.A.三原則，是指下列何者?(*170),保護資料及系統資源的機密性、整體性和可取用性,保護資料、系統和設備不要被駭客攻擊,資料的加密、解密和密鑰管理,防火牆、虛擬私有網路和認證中心,201511,(*170),9
+Ans3,21.醫療資訊安全的宗旨在保護資料及系統的機密性、整體性及可取用性。下列敘述何者錯誤?(*170),機密性的目標在保護病患隱私,整體性的目標是資料必須保持一致性以及有意義的正確結果,可取用性：資料及系統不需即時回應,可取用性：具有容錯能力,201511,(*170),9
+Ans1,22.下列關於一般防火牆的敘述何者錯誤?(*175),可比對入侵行為特徵碼,可過濾封包來源及目的 IP 位址是否合法,可改變進出交通的 IP 位址,可過濾封包是否使用合法的 TCP/UDP 埠號,201511,(*175),9
+Ans4,23.我國目前在中央健保署運作的電子病歷交換網路採用何種網路技術傳輸資料，並設有多道防火牆來降低駭客入侵系統或盜取資料之風險?(*175-179、時事題),SOAP ,Proxy ,SNMP ,VPN,201511,(*175-179、時事題),9
+Ans1,24.目前我國二代健保卡採用何種公開金鑰演算法來保護個人資料?(*184),RSA ,DES ,RC4 ,MD5,201511,(*184),9
+Ans4,25.以下對於公開金鑰基礎建設(PKI)的敘述，何者正確?(*185),公開金鑰可以用來進行電子簽章,公開金鑰是為了開啟分享的資料檔案,是一種駭客用來破解密碼的方法,傳送者可以取得接收者的公開金鑰，將資料加密後再傳送,201511,(*185),9
+Ans4,26.醫院資訊系統委外開發為目前廣被醫院採用的一種模式，下列何者是委外大型廠商開發的優點?(*215),大型廠商經驗豐富 ,大型廠商議價占優勢,大型廠商設備齊全 ,已上皆是,201511,(*215),11
+Ans1,27.當醫院要導入新資訊系統的階段，必須保持舊資訊系統繼續正常運作。如要比較新、舊資訊系統間所產生數據的對應關係，應進行何種測試?(*248),平行測試 ,整體測試 ,整合測試 ,單元測試,201511,(*248),13
+Ans3,28.醫院資訊系統建置完成後保固一年，對於程式撰寫錯誤或規劃錯誤所做的維護工作，是屬於哪一種維護?(*266),預防性維護 ,完善性維護 ,矯正性維護 ,適應性維護,201511,(*266),14
+Ans1,29.掛號及批價管理是醫院行政中的何種任務?(*279),醫療事務 ,經營管理 ,醫療照護 ,醫師服務,201511,(*279),15
+Ans2,30.在健保支付制度中，使用於長期照護的 RUGs ，是屬於下列哪一種?(*285),論量計酬 ,論病例計酬 ,論日計酬 ,論人計酬,201511,(*285),15
+Ans2,31.下列關於各種健保支付制度的敘述何者正確?(*286),論量計酬-有效控制醫療費用上漲 ,論日計酬-作業簡單，行政成本低,論人計酬-醫師的醫療行為自主權高 ,總額預算制-行政作業成本低,201511,(*286),15
+Ans1,32.下列何者不是檢驗室建構檢驗資訊系統的優點?(*365),增加病人住院日，減少病床周轉率 ,減少批價漏失,可準確複檢檢體，減少試劑浪費 ,增加病歷紀錄的完整性,201511,(*365),18
+Ans4,33.對於醫學影像存取與傳輸系統 PACS 的敘述，下列何者錯誤(*405),是 Picture Archiving and Communication System 的縮寫,從數位化的影像設備取得影像,透過放射科資訊系統 RIS 的界面，可以取得病人的基本資料,只能在院內區域網路(LAN)傳輸，無法透過廣域網路(WAN)跨院傳輸,201511,(*405),20
+Ans4,34.利用醫療影像存取與傳輸系統(PACS)可讓各院的影像能自由自在的相互傳輸、整合，以達到診斷或治療計畫的參考，主要是靠下列何種協定來完成?(*405),SNOMED ,LOINC ,NANDA ,DICOM,201511,(*405),20
+Ans3,35.對於臨床路徑的敘述，下列何者不正確?(*481),根據某種疾病或某種手術方法制定了一種治療模式，讓病患由住院到出院都依此模式來接受治療,路徑完成後，根據結果來分析、評估及檢討每一個病人的差異，以避免下一個病人發生同樣的差異或錯誤,先追求讓病患在最短的住院日數內，就可以痊癒出院，而不須顧慮在一定時間內，病患會不會為了同一種疾病再次住院,找出一種最適當的治療方法，暨可以減少醫療費用，又可以維持或改進醫療品質的模式。,201511,(*481),25
+Ans4,36.疾病監測也稱流行病學監測，是指透過持續的收集、分析、解釋、描述疾病相關資料，進而有效控制疾病。下列何者是疾病監測的目的?(*527),制定與評估防疫政策 ,偵測即時疫情 ,建立疾病自然史 ,已上皆是,201511,(*527),27
+Ans2,37.登革熱屬於那一類傳染病?(*529),第一類 ,第二類 ,第三類 ,第四類,201511,(*529),27
+Ans2,38.電子病歷上之簽名或蓋章，依法應以電子簽章方式為之，且應在病歷製作後多久內完成?(*548),12 小時 ,24 小時 ,48 小時 ,72 小時,201511,(*548),28
+Ans2,39.戴明的 PDCA 循環是指下列何者?(*565),Plan， Diagnosis， Control， Assessment,Plan， Do， Check，Action,Paper， Document， Change， Access,Plan， Do， Check， Assessment,201511,(*565),29
+Ans1,40.全民健保資料庫的承保抽樣歸人檔，不包含下列哪一種檔案?(*598),急診處方及治療明細檔 ,門診處方及治療明細檔,特約藥局處方及調劑明細檔 ,住院醫療費用清單明細檔,201511,(*598),31
+Ans1,41.在資訊時代，醫療企業掌握「贏」的最大關鍵在於?(*652),如何把資料轉換成資訊，再將資訊轉換成知識,如何把時間轉換成空間，再將空間轉換成人間,如何把人流轉換成物流，再將物流轉換成金流,如何把紙本轉換成電子檔，再將電子檔轉換成數位檔,201511,(*652),34
+Ans1,42.下列有關醫療資訊標準之敘述何者錯誤?(*85),健保署目前採用 ICD-10-CM 做為保險給付之疾病代碼標準,SNOMED 允許使用者自行利用其多軸組合的機制來描述複雜的症狀及診斷,LONIC 是目前臨床檢驗檢查編碼系統的主流,MeSH 是一套專為醫學文獻分類所設計的樹狀詞彙系統。,201511,(*85),5
+Ans1,43.下列何者為正確的敘述?(*85-90),ICD-9 的 9 代表第九版 ,健保署目前使用的是 ICD-10,HL7 的 7 代表第七版 ,DICOM 是醫療數值資料的傳輸交換標準,201511,(*85-90),5
+Ans4,44.對於 HL7 的相關敘述，下列何者錯誤?(*88),HL7 是屬於共識型標準,HL7 協會已經成為美國 ANSI 認可的標準發展組織,HL7 標準的 3.0 版本採用物件導向式設計,HL7 標準的 3.0 版本在訊息傳送格式上，仍然採用傳統 CSV，並不支援 XML 格式,201511,(*88),5
+Ans3,45.各醫療儀器廠商常宣稱支援標準，但實際連測時卻常互不相容，因此美國 HIMMS 和RSNA 兩大協會於 1999 年開始，共同定出何種技術架構，解決系統互操作性(Interoperability)的問題?(*90),邏輯檢驗檢查編碼系統(LOINC) ,臨床文件架構(CDA),健康資訊產業整合(IHE) ,統一醫學語言系統(UMLS),201511,(*90),5
+Ans2,46.下列關於醫療資訊標準推動的好處何者錯誤?(*93),交換性：跨醫療院所交換資料無需修改程式或資料庫,整合性：在相同的標準下，不同功能之系統下進行整合，必須把所有系統交由同一廠商承包,獨立性：可做單獨系統之修改或升級，而不必擔心影響其它系統,提升國內醫療資訊產業競爭力,201511,(*93),5
+Ans3,47.資料庫在醫療資訊系統之扮演十分重要的角色，下列有關資料庫之敘述何者錯誤?(*98),資料庫必須要有一個資料庫管理系統,資料庫是指一群相關資料的集合體，可有效的組織、儲存和查閱相關資料,使用者需要知道存放資料的磁碟實體位置,資料庫管理系統是介於使用者與資料檔案間的中介軟體系統,201511,(*98),6
+Ans2,48.醫療管理決策支援，採用資料倉儲或資料探勘的技術，以下列何者為主?(*653),"開放資料庫連結(Open Database Connectivity, ODBC)","線上分析處理(Online Analytical Processing, OLAP)","線上交易處理(Online Transaction Processing, OLTP)","開放系統互連標準(Open System Interconnection Standard, OSIS)",201511,(*653),34
+Ans4,49.ICD-10-CM/PCS 中的 PCS 代表?(時事題，*85),Program Coding System ,Process Coding System,Progress Coding System ,Procedure Coding System,201511,"(*85,時事題)",5
+Ans2,50.電腦間通訊的基本原則是由下列哪一個組織所制定的 OSI (Open SystemsInterconnection) reference model? (*87), ANSI , ISO , EDIFACT , CEN,201511,(*87),5
