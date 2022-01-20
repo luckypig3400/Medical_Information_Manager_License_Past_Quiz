@@ -55,11 +55,29 @@ if (($csvFile = fopen($filePath, "r")) !== FALSE) {
     while (($data = fgetcsv($csvFile, 3000, ",")) !== FALSE) {
         $num = count($data);
         echo "<p> $num fields in line $row: <br /></p>\n";
-        for ($c = 0; $c < $num; $c++) {
-            if ($row == 1) { //table header
-                echo $data[$c] . "<br>";
+
+        // 把資料行轉成SQL insert語法
+        $sql_insertDataRow =
+            "INSERT INTO `publicq`
+            (`publicID`, `Correct_Answers`, `Question`, `Answer1`, `Answer2`, `Answer3`, `Answer4`
+            , `Year`, `Ref_Page`, `Chapter`,`Detail1`, `Detail2`, `Detail3`, `Detail4`) VALUES 
+            (NULL, '$data[0]', '$data[1]', '$data[2]', '$data[3]', '$data[4]', '$data[5]'
+            , '$data[6]', '$data[7]', '$data[8]', NULL, NULL, NULL, NULL);";
+        // echo "<b>Executing insert row SQL:</b>" . $sql_insertDataRow . "<br>";
+        if ($row == 1) { //table header
+            echo "<b>CSV file title row:</b>";
+            for ($c = 0; $c < $num; $c++) {
+                echo $data[$c] . "&#9;";
+            }
+        } else { // data row
+            try {
+                $conn->exec($sql_insertDataRow);
+                echo "<b>line $row inserted !</b>";
+            } catch (PDOException $insertError) {
+                echo "<h4>Error Message:</h4>" . $insertError->getMessage();
             }
         }
+
         $row++;
     }
     fclose($csvFile);
