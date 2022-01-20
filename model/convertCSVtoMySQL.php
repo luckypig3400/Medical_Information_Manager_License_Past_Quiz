@@ -1,15 +1,33 @@
 <?php
-$row = 1;
+//Create DB with PDO method:https://www.w3schools.com/php/php_mysql_create.asp
+require("./config.php");
+try {
+    $conn = new PDO("mysql:host=$servername", $username, $password);
+
+    //set the PDO error mode to exception
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+
+    $sqlCommand_createDB = "Drop DATABASE IF EXISTS nahoot; CREATE DATABASE nahoot;";
+
+    //use exec() becuase no results are returned
+    $conn->exec($sqlCommand_createDB);
+    echo "<h3>成功建立Nahoot資料庫</h3>";
+} catch (PDOException $e) {
+    echo "<b>Error occured while executing SQL:</b>" . $sqlCommand_createDB
+        . "<br><b>Error Message:</b>" . $e->getMessage();
+}
+
 // ReadCSV:https://www.php.net/manual/en/function.fgetcsv.php
-if (($csvFile = fopen("../past_exam_questions_csv/merged2007-2020_orderBy_chapter.csv", "r")) !== FALSE) {
+$row = 1;
+$filePath = "../past_exam_questions_csv/merged2007-2020_orderBy_chapter.csv";
+if (($csvFile = fopen($filePath, "r")) !== FALSE) {
     while (($data = fgetcsv($csvFile, 3000, ",")) !== FALSE) {
         $num = count($data);
         echo "<p> $num fields in line $row: <br /></p>\n";
-        $row++;
-        for ($c=0; $c < $num; $c++) {
-            echo $data[$c] . "<br />\n";
+        for ($c = 0; $c < $num; $c++) {
+            if ($row <= 3) echo $data[$c] . ",&#9;"; //table header
         }
+        $row++;
     }
     fclose($csvFile);
 }
-?>
