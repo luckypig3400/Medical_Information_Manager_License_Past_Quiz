@@ -1,3 +1,13 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>convertCSVtoMySQL</title>
+</head>
+
 <?php
 //Create DB with PDO method:https://www.w3schools.com/php/php_mysql_create.asp
 require("./config.php");
@@ -31,3 +41,12 @@ if (($csvFile = fopen($filePath, "r")) !== FALSE) {
     }
     fclose($csvFile);
 }
+
+$conn = null; //close SQL connection
+?>
+
+<body>
+
+</body>
+
+</html>
