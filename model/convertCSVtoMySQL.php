@@ -17,11 +17,32 @@ try {
     //set the PDO error mode to exception
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
+    // 建立資料庫
     $sqlCommand_createDB = "Drop DATABASE IF EXISTS nahoot; CREATE DATABASE nahoot;";
-
     //use exec() becuase no results are returned
     $conn->exec($sqlCommand_createDB);
     echo "<h3>成功建立Nahoot資料庫</h3>";
+
+    // 建立公開題庫資料表
+    $sqlCommand_createTable = "Use nahoot;
+    CREATE TABLE publicQ(
+        publicID int NOT NULL AUTO_INCREMENT PRIMARY KEY,
+        Correct_Answers varchar(30),
+        Question TEXT,
+        Answer1 TEXT,
+        Answer2 TEXT,
+        Answer3 TEXT,
+        Answer4 TEXT,
+        Year varchar(9),
+        Ref_Page varchar(30),
+        Chapter varchar(9),
+        Detail1 TEXT,       
+        Detail2 TEXT,
+        Detail3 TEXT,
+        Detail4 TEXT
+    );";
+    $conn->exec($sqlCommand_createTable);
+    echo "<h3>成功建立publicQ資料表</h3>";
 } catch (PDOException $e) {
     echo "<b>Error occured while executing SQL:</b>" . $sqlCommand_createDB
         . "<br><b>Error Message:</b>" . $e->getMessage();
@@ -35,7 +56,9 @@ if (($csvFile = fopen($filePath, "r")) !== FALSE) {
         $num = count($data);
         echo "<p> $num fields in line $row: <br /></p>\n";
         for ($c = 0; $c < $num; $c++) {
-            if ($row <= 3) echo $data[$c] . ",&#9;"; //table header
+            if ($row == 1) { //table header
+                echo $data[$c] . "<br>";
+            }
         }
         $row++;
     }
