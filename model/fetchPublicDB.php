@@ -12,7 +12,10 @@ try {
     'Correct_Answers',Correct_Answers,'Question',Question,'Answer1',Answer1,
     'Answer2',Answer2,'Answer3',Answer3, 'Answer4',Answer4,'Year',Year,
     'Ref_Page',Ref_Page,'Chapter',Chapter,'Detail1',Detail1,'Detail2',Detail2,
-    'Detail3',Detail3,'Detail4',Detail4) FROM `publicq`;";
+    'Detail3',Detail3,'Detail4',Detail4) FROM `publicq` ";
+
+    // Random Select:https://stackoverflow.com/questions/19412/how-to-request-a-random-row-in-sql
+    $sql_selectAsJSONCommand .= "ORDER BY rand() limit 50";
 
     // Select data from DB with PDO method:
     // https://www.w3schools.com/php/php_mysql_select.asp
