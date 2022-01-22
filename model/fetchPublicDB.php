@@ -14,8 +14,7 @@ try {
     'Ref_Page',Ref_Page,'Chapter',Chapter,'Detail1',Detail1,'Detail2',Detail2,
     'Detail3',Detail3,'Detail4',Detail4) FROM `publicq` ";
 
-    // Random Select:https://stackoverflow.com/questions/19412/how-to-request-a-random-row-in-sql
-    $sql_selectAsJSONCommand .= "ORDER BY rand() limit 50";
+    $sql_selectAsJSONCommand = parseUrlGetParams($sql_selectAsJSONCommand);
 
     // Select data from DB with PDO method:
     // https://www.w3schools.com/php/php_mysql_select.asp
@@ -38,6 +37,36 @@ try {
 }
 
 $conn = null;
+
+// PHP Parse Get Params:https://stackoverflow.com/questions/5884807/get-url-parameter-in-php
+// 傳遞多個GET參數:https://stackoverflow.com/questions/10943635/how-do-i-pass-multiple-parameter-in-url/10943694
+function parseUrlGetParams($in_sql_command)
+{
+    $newSQL = $in_sql_command;
+
+    isset($_GET['random']) ? $random = $_GET['random'] : $random = "";
+    isset($_GET['limit']) ? $limit = $_GET['limit'] : $limit = "";
+
+    // Get random parameter
+    if ($random == 'true') {
+        $newSQL .= " ORDER BY rand()";
+        // Random Select:https://stackoverflow.com/questions/19412/how-to-request-a-random-row-in-sql
+    }
+
+    // Get limit parameter
+    if ($limit != "") { //limit not empty
+        // Convert to integer for further check
+        $limit = (int)$limit;
+        // echo gettype($limit);
+        if ($limit <= 0) {
+            $newSQL .= " limit 0";
+        } else {
+            $newSQL .= " limit $limit";
+        }
+    }
+
+    return $newSQL;
+}
 
 ?>
 
