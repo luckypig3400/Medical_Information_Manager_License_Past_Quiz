@@ -46,6 +46,25 @@ function parseUrlGetParams($in_sql_command)
 
     isset($_GET['random']) ? $random = $_GET['random'] : $random = "";
     isset($_GET['limit']) ? $limit = $_GET['limit'] : $limit = "";
+    isset($_GET['chapter']) ? $chapter = $_GET['chapter'] : $chapter = "";
+    isset($_GET['year']) ? $year = $_GET['year'] : $year = "";
+
+    // Get chapter parameter
+    if (cleanString($chapter) != "") {
+        $chapter = cleanString($chapter);
+        $newSQL .= " WHERE Chapter = $chapter";
+    }
+
+    // Get year parameter
+    if (cleanString($year) != "") {
+        $year = cleanString($year);
+        // 根據是否收到章節參數來下SQL指令
+        if ($chapter = "") {
+            $newSQL .= " WHERE Year = $year";
+        } else {
+            $newSQL .= " AND Year = $year";
+        }
+    }
 
     // Get random parameter
     if ($random == 'true') {
@@ -66,6 +85,18 @@ function parseUrlGetParams($in_sql_command)
     }
 
     return $newSQL;
+}
+
+// 處理特殊字元以防SQL Injection:https://stackoverflow.com/questions/14114411/remove-all-special-characters-from-a-string
+function cleanString($string)
+{
+    $string = str_replace(' ', '', $string); // Replaces all spaces with empty.
+    $string = str_replace('/', '', $string);
+    $string = str_replace('\'', '', $string);
+    $string = str_replace('"', '', $string);
+    $string = str_replace('\\', '', $string);
+    $string = str_replace(';', '', $string);
+    return $string;
 }
 
 ?>
