@@ -24,14 +24,20 @@ try {
     // set the resulting array to associative
     $result = $stmt->setFetchMode(PDO::FETCH_ASSOC);
 
-    foreach ($stmt->fetchAll() as $row) {
+    $queryResult = $stmt->fetchAll();
+    $totalRow = count($queryResult);
+    $currentRow = 1;
+    echo "{\"results\":[";
+    foreach ($queryResult as $row) {
         // print_r($row);
         foreach ($row as $columnName => $cellData) {
             // 要使用這種包含索引建的查詢方式，前面setFetchMode(PDO::FETCH_ASSOC)是關鍵
-            echo $row[$columnName] . "&#9;";
+            echo $row[$columnName];
         }
-        echo ",";
+        if ($currentRow < $totalRow) echo ",";
+        $currentRow++;
     }
+    echo "]}";
 } catch (PDOException $e) {
     echo "<b>Error:</b>" . $e->getMessage();
 }
@@ -98,21 +104,3 @@ function cleanString($string)
     $string = str_replace(';', '', $string);
     return $string;
 }
-
-?>
-
-<!DOCTYPE html>
-<html>
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>publicQapi</title>
-</head>
-
-<body>
-
-</body>
-
-</html>
