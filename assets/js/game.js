@@ -14,20 +14,22 @@ let availableQuesions = [];
 let questions = [];
 
 fetch(
-    'https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple'
+    // 'https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple'
+    'http://localhost/Medical_Information_Manager_License_Past_Quiz/model/fetchPublicDB.php?random=true&limit=9'
 )
     .then((res) => {
         const docs = res.json();
         return docs;
     })
     .then((loadedQuestions) => {
+        // console.log("Full JSON data:" + loadedQuestions.results);
         questions = loadedQuestions.results.map((loadedQuestion) => {
             const formattedQuestion = {
-                question: loadedQuestion.question,
+                question: loadedQuestion.Question,
             };
 
-            const answerChoices = [...loadedQuestion.incorrect_answers];
-            formattedQuestion.answer = Math.floor(Math.random() * 4) + 1;
+            const answerChoices = [loadedQuestion.Answer1, loadedQuestion.Answer2, loadedQuestion.Answer3, loadedQuestion.Answer4];
+            // formattedQuestion.answer = Math.floor(Math.random() * 4) + 1;// 打亂問題順序用的
             answerChoices.splice(
                 formattedQuestion.answer - 1,
                 0,
@@ -44,7 +46,7 @@ fetch(
         startGame();
     })
     .catch((err) => {
-        console.error(err);
+        console.log("Error occured while loading json data:" + err);
     });
 
 //CONSTANTS
