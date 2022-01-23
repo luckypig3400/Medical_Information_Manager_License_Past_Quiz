@@ -50,7 +50,7 @@ try {
 
 // ReadCSV:https://www.php.net/manual/en/function.fgetcsv.php
 $row = 1;
-$filePath = "../past_exam_questions_csv/merged2007-2020_orderBy_chapter.csv";
+$filePath = "./../past_exam_questions_csv/merged2007-2020_orderBy_chapter.csv";
 if (($csvFile = fopen($filePath, "r")) !== FALSE) {
     while (($data = fgetcsv($csvFile, 3000, ",")) !== FALSE) {
         $num = count($data);
