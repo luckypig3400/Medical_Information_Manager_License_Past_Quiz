@@ -50,9 +50,10 @@ h3 {
   /* https://stackoverflow.com/questions/37791285/content-overflowing-body-in-html-css */
   justify-content: center;
   align-items: center;
-  max-width: 80rem;
+  max-width: 100%;
   margin: 0 0;
-  padding-top: 12vh;
+  padding-top: 6vh;
+  padding-bottom: 6vh;
   padding-left: 2vw;
 }
 
@@ -145,4 +146,12 @@ label {
 
 input::placeholder {
   color: #aaa;
+}
+
+#home{
+  margin-top: 9vh;
+}
+
+#end{
+  margin-top: 18vh;
 }
