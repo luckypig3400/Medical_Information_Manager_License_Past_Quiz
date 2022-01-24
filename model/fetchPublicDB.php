@@ -96,12 +96,12 @@ function parseUrlGetParams($in_sql_command)
 
     // GET chapterOptions
     if ($getChapterOptions == "true") {
-        $newSQL = "SELECT Chapter FROM `publicq` GROUP BY Chapter ORDER BY ABS(Chapter) ASC;";
+        $newSQL = "SELECT JSON_OBJECT('Chapter', Chapter) FROM `publicq` GROUP BY Chapter ORDER BY ABS(Chapter) ASC;";
     }
 
     // GET yearOptions
     if ($getYearOptions == "true") {
-        $newSQL = "SELECT Year FROM `publicq` GROUP BY Year DESC;";
+        $newSQL = "SELECT JSON_OBJECT('Year', Year) FROM `publicq` GROUP BY Year DESC;";
     }
 
     return $newSQL;
