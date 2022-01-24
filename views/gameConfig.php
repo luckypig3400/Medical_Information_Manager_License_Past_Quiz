@@ -16,12 +16,13 @@
         <div id="highScores" class="flex-center flex-column">
             <h1 id="finalScore">Quiz Config</h1>
             <form action="./../model/fetchPublicDB.php" method="get">
-                <h3>是否要打亂題號順序?</h3>
+                <label for="randomChk">打亂出題順序?(勾選)</label>
                 <input type="checkbox" name="random" id="randomChk" value="true">
-                <h3>請選擇題數:</h3>
+
+                <label for="limitInput">請輸入慾練習題數：</label>
                 <input type="text" name="limit" id="limitInput" maxlength="2" value="3">
 
-                <h3>是否要選擇單一出題章節?</h3>
+                <label for="chapterSelect">選擇單一出題章節?</label>
 
                 <!-- https://www.w3schools.com/tags/tag_select.asp -->
                 <select name="chapter" id="chapterSelect">
@@ -40,7 +41,7 @@
                     ?>
                 </select>
 
-                <h3>是否要選擇單一年份的試卷?</h3>
+                <label for="yearSelect">選擇單一年份的試卷?</label>
 
                 <!-- https://www.w3schools.com/tags/tag_select.asp -->
                 <select name="year" id="yearSelect">
