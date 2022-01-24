@@ -13,9 +13,22 @@ let availableQuesions = [];
 
 let questions = [];
 
+const fullURL = window.location.href;
+// https://stackoverflow.com/questions/1034621/get-the-current-url-with-javascript
+
+let getParameters = "";
+if (fullURL.indexOf("?") == -1) {
+    getParameters = "?limit=6&random=true";//提供預設GET參數
+} else {
+    getParameters = fullURL.slice(fullURL.indexOf("?"));
+    // https://www.w3schools.com/jsref/jsref_indexof.asp
+}
+
+const requestURL = './../model/fetchPublicDB.php' + getParameters;
+
 fetch(
     // 'https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple'
-    './../model/fetchPublicDB.php?random=true&limit=6'
+    requestURL
 )
     .then((res) => {
         const docs = res.json();
@@ -48,14 +61,16 @@ fetch(
         console.log("Error occured while loading json data:" + err);
     });
 
-//CONSTANTS
-const MAX_QUESTIONS = 6;
-const CORRECT_BONUS = parseInt(100 / MAX_QUESTIONS);
+//global variables
+var MAX_QUESTIONS = 3;
+var CORRECT_BONUS = 10;
 
 startGame = () => {
     questionCounter = 0;
-    score = 100 % MAX_QUESTIONS;
     availableQuesions = [...questions];
+    MAX_QUESTIONS = availableQuesions.length;
+    CORRECT_BONUS = parseInt(100 / MAX_QUESTIONS);
+    score = 100 % MAX_QUESTIONS;
     // console.log([...questions]);//Show all questions & answer
     getNewQuestion();
     game.classList.remove('hidden');
