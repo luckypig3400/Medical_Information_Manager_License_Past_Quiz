@@ -69,7 +69,8 @@ function parseUrlGetParams($in_sql_command)
     if (cleanString($year) != "") {
         $year = cleanString($year);
         // 根據是否收到章節參數來下SQL指令
-        if ($chapter = "") {
+        if (strpos($newSQL, "WHERE") == false) {
+            //改成判斷目前SQL語法是否包含WHERE
             $newSQL .= " WHERE Year = $year";
         } else {
             $newSQL .= " AND Year = $year";
