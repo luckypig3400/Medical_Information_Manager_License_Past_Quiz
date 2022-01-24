@@ -14,11 +14,11 @@ try {
     'Ref_Page',Ref_Page,'Chapter',Chapter,'Detail1',Detail1,'Detail2',Detail2,
     'Detail3',Detail3,'Detail4',Detail4) FROM `publicq` ";
 
-    $sql_selectAsJSONCommand = parseUrlGetParams($sql_selectAsJSONCommand);
+    $sql_FinalExecuteCommand = parseUrlGetParams($sql_selectAsJSONCommand);
 
     // Select data from DB with PDO method:
     // https://www.w3schools.com/php/php_mysql_select.asp
-    $stmt = $conn->prepare($sql_selectAsJSONCommand);
+    $stmt = $conn->prepare($sql_FinalExecuteCommand);
     $stmt->execute();
 
     // set the resulting array to associative
@@ -54,10 +54,14 @@ function parseUrlGetParams($in_sql_command)
     isset($_GET['limit']) ? $limit = $_GET['limit'] : $limit = "";
     isset($_GET['chapter']) ? $chapter = $_GET['chapter'] : $chapter = "";
     isset($_GET['year']) ? $year = $_GET['year'] : $year = "";
+    isset($_GET['getChapterOptions']) ? $getChapterOptions = $_GET['getChapterOptions'] : $getChapterOptions = "";
+    isset($_GET['getYearOptions']) ? $getYearOptions = $_GET['getYearOptions'] : $getYearOptions = "";
 
     // Get chapter parameter
-    if (cleanString($chapter) != "") {
-        $chapter = cleanString($chapter);
+    $chapter = cleanString($chapter);
+    if (strpos($chapter, "常用醫護術語") !== false) {
+        $newSQL .= " WHERE Chapter Like '%常用醫護術語%'";
+    } else if ($chapter != "") {
         $newSQL .= " WHERE Chapter = $chapter";
     }
 
@@ -88,6 +92,16 @@ function parseUrlGetParams($in_sql_command)
         } else {
             $newSQL .= " limit $limit";
         }
+    }
+
+    // GET chapterOptions
+    if ($getChapterOptions == "true") {
+        $newSQL = "SELECT Chapter FROM `publicq` GROUP BY Chapter ORDER BY ABS(Chapter) ASC;";
+    }
+
+    // GET yearOptions
+    if ($getYearOptions == "true") {
+        $newSQL = "SELECT Year FROM `publicq` GROUP BY Year DESC;";
     }
 
     return $newSQL;
