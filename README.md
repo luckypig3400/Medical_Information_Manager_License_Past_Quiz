@@ -6,7 +6,7 @@
 2. Download this repo & unzip
 3. Move the whole project folder under ```Your_Xampp_Installed_Path/htdocs/```
 4. Open folder ```model/``` and edit ```config.php``` to match your MySQL account setting (Need Create Database & Read/Write Permission)
-5. If you have done the above steps without Errors or changing any folders or files name, then visit this URL in your browser
+5. If you have done the above steps without Errors or changing any folders/files name, then visit this URL in your browser
     + http://localhost/Medical_Information_Manager_License_Past_Quiz/model/convertCSVtoMySQL.php
 6. **Finish!** Now you can enter this App from the URL below 👇
 http://localhost/Medical_Information_Manager_License_Past_Quiz/
