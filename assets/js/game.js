@@ -88,7 +88,9 @@ getNewQuestion = () => {
     //Update the progress bar
     progressBarFull.style.width = `${(questionCounter / MAX_QUESTIONS) * 100}%`;
 
-    const questionIndex = Math.floor(Math.random() * availableQuesions.length);
+    // const questionIndex = Math.floor(Math.random() * availableQuesions.length);
+    // 上面這行為打亂題號，但是gameConfig裡已有提供相同功能，故在此禁用
+    const questionIndex = 0;
     currentQuestion = availableQuesions[questionIndex];
     question.innerHTML = currentQuestion.question;
 
