@@ -8,14 +8,13 @@
     <title>題庫設定</title>
     <link rel="shortcut icon" type="image/x-icon" href="./../assets/img/ntunhsLogo_200px-National_Taipei_University_of_Nursing_and_Health_Science_logo.jpg">
     <link rel="stylesheet" href="./../assets/css/app.css" />
-    <link rel="stylesheet" href="./../assets/css/highscores.css" />
 </head>
 
 <body>
     <div class="container">
         <div id="highScores" class="flex-center flex-column">
             <h1 id="finalScore">Quiz Config</h1>
-            <form action="./../model/fetchPublicDB.php" method="get">
+            <form action="./game.html" method="get">
                 <label for="randomChk">打亂出題順序?(勾選)</label>
                 <input type="checkbox" name="random" id="randomChk" value="true">
 
@@ -60,7 +59,6 @@
             </form>
         </div>
     </div>
-    <script src="./../assets/js/highscores.js"></script>
 </body>
 
 </html>
