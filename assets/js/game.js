@@ -15,7 +15,7 @@ let questions = [];
 
 fetch(
     // 'https://opentdb.com/api.php?amount=10&category=9&difficulty=easy&type=multiple'
-    'http://localhost/Medical_Information_Manager_License_Past_Quiz/model/fetchPublicDB.php?random=true&limit=9'
+    './../model/fetchPublicDB.php?random=true&limit=6'
 )
     .then((res) => {
         const docs = res.json();
@@ -29,12 +29,11 @@ fetch(
             };
 
             const answerChoices = [loadedQuestion.Answer1, loadedQuestion.Answer2, loadedQuestion.Answer3, loadedQuestion.Answer4];
-            // formattedQuestion.answer = Math.floor(Math.random() * 4) + 1;// 打亂問題順序用的
-            answerChoices.splice(
-                formattedQuestion.answer - 1,
-                0,
-                loadedQuestion.correct_answer
-            );
+            //Replace String: https://www.w3schools.com/jsref/jsref_replace.asp
+            correctAnswers = loadedQuestion.Correct_Answers.replace("Ans", "");
+            formattedQuestion.answer = correctAnswers.split("、");// Handle Multiple Correct Answers
+            //Split String: https://www.w3schools.com/jsref/jsref_split.asp
+            // console.log(formattedQuestion.answer);
 
             answerChoices.forEach((choice, index) => {
                 formattedQuestion['choice' + (index + 1)] = choice;
@@ -50,14 +49,14 @@ fetch(
     });
 
 //CONSTANTS
-const CORRECT_BONUS = 10;
 const MAX_QUESTIONS = 6;
+const CORRECT_BONUS = parseInt(100 / MAX_QUESTIONS);
 
 startGame = () => {
     questionCounter = 0;
-    score = 0;
+    score = 100 % MAX_QUESTIONS;
     availableQuesions = [...questions];
-    console.log([...questions]);
+    // console.log([...questions]);//Show all questions & answer
     getNewQuestion();
     game.classList.remove('hidden');
     loader.classList.add('hidden');
@@ -90,13 +89,14 @@ getNewQuestion = () => {
 choices.forEach((choice) => {
     choice.addEventListener('click', (e) => {
         if (!acceptingAnswers) return;
-
         acceptingAnswers = false;
         const selectedChoice = e.target;
         const selectedAnswer = selectedChoice.dataset['number'];
 
-        const classToApply =
-            selectedAnswer == currentQuestion.answer ? 'correct' : 'incorrect';
+        var classToApply = 'incorrect';
+        for (let i = 0; i < currentQuestion.answer.length; i++) {
+            if (selectedAnswer == currentQuestion.answer[i]) classToApply = 'correct';
+        }
 
         if (classToApply === 'correct') {
             incrementScore(CORRECT_BONUS);
