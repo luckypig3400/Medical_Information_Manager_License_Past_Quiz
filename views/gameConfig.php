@@ -28,7 +28,11 @@
                     <option value="">預設值全選</option>
 
                     <?php
-                    $optionsJSON = file_get_contents("http://localhost/Medical_Information_Manager_License_Past_Quiz/model/fetchPublicDB.php?getChapterOptions=true");
+                    $apiPath =  "http://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+                    $apiPath = str_replace("views/gameConfig.php", "model/fetchPublicDB.php", $apiPath);
+                    // https://stackoverflow.com/questions/6768793/get-the-full-url-in-php
+                    
+                    $optionsJSON = file_get_contents($apiPath . "?getChapterOptions=true");
                     $optionsArray = json_decode($optionsJSON, true);
                     // https://www.w3schools.com/php/func_json_decode.asp
 
@@ -46,7 +50,7 @@
                 <select name="year" id="yearSelect">
                     <option value="">預設值全選</option>
                     <?php
-                    $optionsJSON = file_get_contents("http://localhost/Medical_Information_Manager_License_Past_Quiz/model/fetchPublicDB.php?getYearOptions=true");
+                    $optionsJSON = file_get_contents($apiPath . "?getYearOptions=true");
                     $optionsArray = json_decode($optionsJSON, true);
 
                     foreach ($optionsArray["results"] as $option) {
