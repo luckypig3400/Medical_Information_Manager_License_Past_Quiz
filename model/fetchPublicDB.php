@@ -27,7 +27,7 @@ try {
     $queryResult = $stmt->fetchAll();
     $totalRow = count($queryResult);
     $currentRow = 1;
-    echo "{\"results\":[";
+    echo "{\"totalRow\":\"$totalRow\",\"results\":[";
     foreach ($queryResult as $row) {
         // print_r($row);
         foreach ($row as $columnName => $cellData) {
