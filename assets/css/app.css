@@ -24,7 +24,7 @@ h1 {
   margin-bottom: 5rem;
 }
 
-h1 > span {
+h1>span {
   font-size: 2.4rem;
   font-weight: 500;
 }
@@ -44,17 +44,19 @@ h3 {
 /* UTILITIES */
 
 .container {
-  width: 100vw;
-  height: 100vh;
-  display: flex;
+  width: 96vw;
+  height: 88vh;
+  display: inline-block;
+  /* https://stackoverflow.com/questions/37791285/content-overflowing-body-in-html-css */
   justify-content: center;
   align-items: center;
   max-width: 80rem;
-  margin: 0 auto;
-  padding: 2rem;
+  margin: 0 0;
+  padding-top: 12vh;
+  padding-left: 2vw;
 }
 
-.container > * {
+.container>* {
   width: 100%;
 }
 
@@ -116,11 +118,28 @@ form {
 
 input {
   margin-bottom: 1rem;
-  width: 20rem;
-  padding: 1.5rem;
+  width: 69%;
+  padding: 0.9rem;
   font-size: 1.8rem;
   border: none;
   box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  text-align: center;
+}
+
+select {
+  margin-bottom: 1rem;
+  width: 69%;
+  padding: 0.6rem;
+  font-size: 1.8rem;
+  border: none;
+  box-shadow: 0 0.1rem 1.4rem 0 rgba(86, 185, 235, 0.5);
+  text-align: center;
+}
+
+label {
+  font-size: 2.4rem;
+  color: #56a5eb;
+  font-weight: 500;
 }
 
 input::placeholder {
